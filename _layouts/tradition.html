@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<h3>Artifacts</h3>
+<ul>
+  {% for art in site.categories[page.category] %}
+    <li><a href="{{ site.url }}{{ art.url }}">{{ art.title }}</a>
+  {% endfor %}
+</ul>

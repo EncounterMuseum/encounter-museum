@@ -1,0 +1,16 @@
+---
+layout: default
+title: Encounter World Religions Museum
+---
+
+<div id="home">
+  <h1>Encounter World Religions Museum</h1>
+  <p>This is an experimental example site for the Encounter World Religions Museum.</p>
+
+  <h2>Traditions</h2>
+  <ul class="traditions">
+    {% for trad in site.traditions %}
+    <li><a href="{{ site.url }}/traditions/{{ trad[1].slug }}">{{ trad[1].name }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

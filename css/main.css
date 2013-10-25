@@ -1,160 +1,758 @@
-/*****************************************************************************/
-/*
-/* Common
-/*
-/*****************************************************************************/
+/* Copy CSS from src file */
+html,body { margin:0; padding:0; background:#bfbfbf}
 
-/* Global Reset */
-* {
-  margin: 0;
-  padding: 0;
+/* Fix problem of Firefox jumping as it inserts/removes scrollbar for short pages */
+/* IE mac barfs -- so this weird comment hides it from IE mac \*/
+html {
+    min-height: 100%;     /* go right to the bottom      */
+    margin-bottom: 1px;   /* force scrollbars to stay on */
+}
+/* end hiding from IE5 mac */
+
+body { font:85% verdana,arial,tahoma,sans-serif; text-align:center; }
+p { margin:0 10px 8px }
+
+span.ewrc {color: #004e90; font-weight:bold}
+
+/* a { display:block; color: #981793; padding:10px } */
+
+a img { border: none }
+
+div#header div#logo { height: 150px } 
+div#header div#logo, 
+div#header div#logo a, 
+div#header div#logo a img { border: none; margin: 0; padding: 0;  }
+
+div#container { 
+    width:960px; 
+    margin:0 auto; 
+    text-align:left;
+    background: white url(http://cms.worldreligions.ca/uploads/images/EWR3footer.jpg) 
+    no-repeat center bottom ;
+}
+div#wrapper { float:left; width:100%; }
+
+/* content right margin will be over-ridden by style= in the template  */
+div#content { margin: 5px 0px 0px 0px; padding: 0px 20px 0px 30px; min-height: 500px }
+div#content p { line-height:1.4 }
+div#content li { margin-bottom:2px }
+div#content h1 { color: #004e90; font-weight:bold; font-size:200%; margin-top:0px }
+div#content h2 { color: #004e90; font-weight:bold; font-size:150% }
+div#content h3 { color: #004e90; font-weight:bold; font-size:110%; margin:5px 0px }
+div#content h5 { color: #00000; font-weight:bold; font-size:100%; margin-top:20px; margin-bottom:0px }
+
+div.faq    { margin-left:10px}
+div.faq dt { font-weight:bold; font-size:115%; margin:5px 0px }
+div.faq dd  { line-height:1.4; margin: 5px }
+
+div#left {
+    margin-top:5px;
 }
 
-html, body { height: 100%; }
-
-body {
-  background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
-  font-size: small;
-  text-align: center;
+div#navigation {
+    background:white;
+    margin-top:25px;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
-
-h1 { margin-bottom: 1em; }
-p { margin: 1em 0; }
-
-a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
-
-/*****************************************************************************/
-/*
-/* Home
-/*
-/*****************************************************************************/
-ul.posts {
-  list-style-type: none;
-  margin-bottom: 2em;
+div#RightSidebar {
+    background-color: transparent;
+    margin: 15px 0px 200px 0px ;
+    padding: 0px ;
+    text-align:left;
+    color:black ;
+    height:auto ;
+    float:left;
+    width: 0px;               /* modified by template */
+    margin-left:-0px;       /* modified by template */
 }
 
-ul.posts li {
-  line-height: 1.75em;
+div#RightSidebar a.sidebarlink {
+    font-weight:bold;
+    font-size:110%;
+    padding: 7px 20px;
+    margin:4px 5px 4px 0px ;
+    color:#404040 ;
+    text-decoration: none;
+    background-color: #bfbfbf ;
+    display: block ;
 }
 
-ul.posts span {
-  color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
+div#RightSidebar a.sidebarlink img {
+    border: none;
 }
 
-/*****************************************************************************/
-/*
-/* Site
-/*
-/*****************************************************************************/
-
-.site {
-  font-size: 115%;
-  text-align: justify;
-  width: 42em;
-  margin: 3em auto 2em;
-  line-height: 1.5em;
+div#RightSidebar a.sidebarlink:hover {
+    color: #004f90;
+    background-color: #AECDFF;
 }
 
-.site .header a {
-  font-weight: bold;
-  text-decoration: none;
+div#RightSidebar h1 {
+    font-weight:bold;
+    font-size:125%;
+    padding: 5px;
+    margin:0px;
+    color:black
 }
 
-.site .header h1.title {
-  display: inline-block;
-  margin-bottom: 2em;
+div#RightSidebar h1.caption {
+    margin:-15px 0px 0px 0px;
 }
 
-.site .header h1.title a {
-  color: #a00;
+div#RightSidebar h4.sidebartitle {
+    font-weight:bold;
+    font-size:110%;
+    padding: 7px 20px;
+    margin: 0px 5px 7px 0px ;
+    color:white ;
+    text-decoration: none;
+    background-color: #404040 ;
+    display: block ;
 }
 
-.site .header h1.title a:hover {
-  color: #000;
+div#RightSidebar p {
+    padding: 5px;
+    color:black
 }
 
-.site .header a.extra {
-  color: #aaa;
-  margin-left: 1em;
+div#RightSidebar img {
+    padding: 15px 0px;
+    margin: 0 auto;
 }
 
-.site .header a.extra:hover {
-  color: #000;
+div#RightSidebar img.nopadding {
+    padding: 0px 0px;
+    margin: 0 auto;
 }
 
-.site .meta {
-  color: #aaa;
+div#RightSidebar div.button {
+    margin: 10px;
+    border: 4px solid #004f90;
 }
 
-.site .footer {
-  font-size: 80%;
-  color: #666;
-  border-top: 4px solid #eee;
-  margin-top: 2em;
-  overflow: hidden;
+div#RightSidebar div.button h2 {
+    margin: 0px;
+    padding: 10px 5px;
+    color: #003765;
+    font-weight:bold;
+    font-size:110%;
+    text-decoration: underline;
 }
 
-.site .footer .contact {
-  float: left;
-  margin-right: 3em;
+div#RightSidebar div.button p {
+    margin: 0px;
+    padding: 5px 5px;
+    color: #004f90;
 }
 
-.site .footer .contact a {
-  color: #8085C1;
+div#leftcontent {
+    background: white;
+    margin-right:5px;
+    text-align:left
 }
 
-.site .footer .rss {
-  margin-top: 1.1em;
-  margin-right: -.2em;
-  float: right;
+div#leftcontent h1 {
+    padding:7px 5px;
+    margin:0px;
+    text-align:center;
+    font-weight:bold;
+    font-size:1.1em;
 }
 
-.site .footer .rss img {
-  border: 0;
+div#leftcontent p {
+    padding:0px 5px 10px 5px;
+    font-size:1.1em;
 }
 
-/*****************************************************************************/
-/*
-/* Posts
-/*
-/*****************************************************************************/
+div#leftcontent ul.buttons {
+    list-style:none;
+    font-size:1.0em;
+    padding:0px;
+    margin:0px
+}    
 
-/* standard */
-.post pre {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .4em;
+div#leftcontent ul.buttons li {
+    margin:0px 0px 4px 0px;
+    padding:0px
 }
 
-.post ul, .post ol {
-  margin-left: 1.35em;
+div#leftcontent ul.buttons li a {
+    font-weight:bold;
+    height:20px;
+    text-decoration:none;
+    text-align:center;
+    color:#B35B00;
+    display:block;
+    margin: 0px;
+    padding:6px 0 0 0;
+    background:#FFE0BF;
+}    
+
+div#leftcontent ul.buttons li a:hover {
+    background:#FFC180;
+    color:#003765
 }
 
-.post code {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .2em;
+div#leftbottom {
+    margin: 50px 0px 20px 0px;
+    background-color: white;
+    padding: 0px;
 }
 
-.post pre code {
-  border: none;
+div#donate{ border-top:    10px solid white; padding: 0px 0px; }
+
+div#Emailsignup {padding: 0px; margin:10px 5px 0px 0px; text-align:center}
+div#Emailsignup a,
+div#Emailsignup a:hover,
+div#Emailsignup a:visited { font-weight:bold; display:inline; text-decoration:none }
+div#Emailsignup form { margin: 0px;    padding: 0px;
+font:    bold 7pt verdana, sans-serif;    color: #004e90 }
+div#Emailsignup form span#Emailpowered { font:    normal 7pt verdana, sans-serif;
+color: #004e90 }
+div#Emailsignup form span#Emailpowered a,
+div#Emailsignup form span#Emailpowered a:hover,
+div#Emailsignup form span#Emailpowered a:visited {
+    font:    bold 7pt verdana, sans-serif;
+color: #004e90; display:inline; margin: 0px; padding: 0px }
+div#Emailsignup a#Emailchiclet { padding: 10px 0px 0px 0px }
+div#Emailsignup a#Emailchiclet img { padding: 10px 0px 0px 0px; float: none }
+
+div#rsssubscribe { margin: 10px 5px 0px 5px }
+
+div#rsssubscribe a,
+div#rsssubscribe a:link,
+div#rsssubscribe a:visited { text-decoration: none}
+
+div#rsssubscribe a img {
+    border:0;
+    display:inline;
+    padding:0px 5px 0px 0px;
+    margin: 0px;
+    vertical-align: bottom
 }
 
-/* terminal */
-.post pre.terminal {
-  border: 1px solid #000;
-  background-color: #333;
-  color: #FFF;
+div#footer {
+    clear:left;
+    width:100%;
+    position: relative;
+    text-align:center;
+    font-size:100%;
+    height: 125px ;
+}
+div#footer div#copyright {
+    padding-top:70px;
+    color: black;
+}
+div#footer p {
+    margin-top:5px;
+    color: black;
+}
+div#footer ul {
+    display:none ;
+    list-style:none;
+    margin:0px 0px ;
+    padding:0px 0px;
+}
+div#footer ul li {
+    display:inline;
+    padding-right:15px;
+    vertical-align:middle;
+}
+div#footer ul li a,
+div#footer ul li a:visited {
+    font-size:100%;
+    color:#003765;
+    text-decoration:underline;
+    display:inline
+}
+div#footer form {
+    display:inline;
 }
 
-.post pre.terminal code {
-  background-color: #333;
+span#copyright {
+    position: absolute; bottom: 30px ; left: 225px ;
+    color: #404040 ;
 }
+
+span#copyright img {
+    position: relative; bottom: -9px ;
+}
+
+span#version {
+    position: absolute; bottom: 5px; left: 5px;
+    font-size: 70%; color: #808080 ;
+}
+
+span#cmsversion {
+    position: absolute; bottom: 5px; right: 5px;
+    font-size: 70%; color: #808080 ;
+}
+
+ul.compact,
+li.compact {line-height:auto}
+ul.compact li { line-height:auto; margin:0px auto }
+
+ul.listspread,
+li.listspread {line-height:1.4 }
+ul.listspread li { line-height:1.4; margin-bottom:5px }
+
+.flushtop { margin-top:0px; }
+.flushbottom { margin-bottom:0px; }
+.tighttop { margin-top:2px; }
+.tightbottom { margin-bottom:2px; }
+
+div#content div.blockquote {padding: 5px 30px}
+div#content div.blockquote p {font-style: italic;font-family:"Comic Sans MS", san-serif;font-size:125%;line-height:110%;color:#FF5100}
+div#content div.blockquote p.credit { font-style:normal;margin-top: 5px; text-align:right}
+div#content img.blockquote { margin: 5px 40px }
+
+div#UpcomingEvents{ float:right; width:150px; text-align:center; margin:10px 0px 5px 10px }
+
+/* styles for Events Blog RSS Feed */
+
+#tbltwo
+{
+    padding-left: 25px;
+}
+
+#tbltwo table
+{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#tbltwo table td
+{
+    border-color: black;
+    border-style: solid;
+    border-width: thin;
+}
+
+#tbltwo table td.graybold
+{
+    background-color:#cccccc;
+    color: black;
+    font-weight: bold;
+    text-align: left;
+    padding: 8px 20px;
+}
+
+#tbltwo table td.graynorm
+{
+    background-color:#cccccc;
+    color: black;
+    font-weight: normal;
+    text-align: left;
+    padding: 8px 20px;
+}
+
+#tbltwo table td.whitebold
+{
+    background-color:white;
+    color: black;
+    font-weight: bold;
+    text-align: left;
+    padding: 8px 20px;
+}
+
+#tbltwo table td.whitenorm
+{
+    background-color:white;
+    color: black;
+    font-weight: normal;
+    text-align: left;
+    padding: 8px 20px;
+}
+
+#tbltwo table td.blackbold
+{
+    background-color:black;
+    color: white;
+    font-weight: bold;
+    font-size: 120%;
+    text-align: left;
+    padding: 8px 20px;
+}
+
+#tbltwo table td.centerpic
+{
+    font-weight: bold;
+    font-size: 120%;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+#tbltwo table td.centerpic img, #tbltwo table td.centerpic a
+{
+    padding: 0px;
+    margin: 0px;
+}
+
+#tbltwo td a.plain:link, #tbltwo td a.plain:visited
+{
+    text-decoration:        none;
+    text-align: left;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+img.hiddenemail { 
+    border:none; 
+    background: transparent; 
+    padding: 0px 0px 0px 0px; 
+    margin: 0px 0px -3px 0px; 
+}
+a.hiddenemail,
+a.hiddenemail:visited {
+    z-index:10;
+    background:transparent;
+    display:inline; 
+    text-decoration: none; 
+    margin:0; 
+    padding: 0;
+    line-height: 100%;
+}
+a.hiddenemail:hover {
+    position:relative;
+    background: #d9d9d9
+}
+a.hiddenemail span.hiddenemail {
+    display:none;
+}
+a.hiddenemail:hover span.hiddenemail {
+    display:block;
+    position:absolute;
+    float:left;
+    white-space:nowrap;
+    top:-1.75em;
+    left:.5em;
+    background:#fffcd1;
+    border:1px solid #444;
+    color:#444;
+    padding:3px 5px;
+    z-index:100;
+}
+iframe.hiddenemail { 
+    display: none 
+}
+
+.courselink {
+    float:left ;
+    width:100% ;
+    height:130px ;
+    overflow:auto ;
+    white-space: nowrap ;
+    margin-bottom: 40px ;
+}
+
+hr.between {
+    height:2px;
+    border-width:0;
+    color:blue;
+    background-color:blue
+}
+
+h4.religiontitle {
+    border-top:2px solid blue;
+    padding-top:6px;
+}
+
+div#content .linklist li {
+    margin-top:8px;
+    margin-bottom:8px;
+}
+
+a.external span {
+    position: absolute;
+    left: -5000px;
+    width: 4000px;
+}
+a.external {
+    padding: 0 12px 0 0
+}
+a.external:link {
+    background: url(images/cms/external.gif) no-repeat 100% 0;
+}
+a.external:visited {
+    color: #004f90;
+    background: url(images/cms/external.gif) no-repeat 100% -100px;
+}
+a.external:hover {
+    color: #f00;
+    background: url(images/cms/external.gif) no-repeat 100% -200px;
+}
+
+
+/* Horizontal menu for the CMS CSS Menu Module */
+/* by Alexander Endresen */
+
+#menu_vert {
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
+/* The wrapper clears the floating elements of the menu */
+
+/* Fix for Opera 8 */
+.clearb { clear: both; }
+#menuwrapper { 
+    /* Fix for Opera 8 */ 
+    /*   overflow: hidden;  */ 
+    background-color: #ECECEC;
+    border-bottom: 1px solid #C0C0C0;
+    width: 100%;
+}
+
+/* Set the width of the menu elements at second level. Leaving first level flexible. */
+#primary-nav li li { 
+    width: 200px; 
+}
+
+
+/* Unless you know what you do, do not touch this */ 
+#primary-nav, #primary-nav ul { 
+    list-style: none; 
+    margin: 0px; 
+    padding: 0px; 
+}
+#primary-nav ul { 
+    position: absolute; 
+    top: auto; 
+    display: none; 
+}
+#primary-nav ul ul { 
+    margin-top: 1px;
+    margin-left: -1px;
+    left: 100%; 
+    top: 0px; 
+}
+
+#primary-nav li { 
+    margin-left: -1px;
+    float: left; 
+}
+#primary-nav li li { 
+    margin-left: 0px;
+    margin-top: -1px;
+    float: none; 
+    position: relative; 
+}
+
+/* Styling the basic apperance of the menu elements */
+#primary-nav a { 
+    display: block; 
+    margin: 0px; 
+    padding: 5px 10px; 
+    text-decoration: none; 
+    color: #1151c6;
+}
+#primary-nav a:hover { 
+    background-color: #BFD5FF;
+}
+#primary-nav li a { 
+    border-right: 1px solid #C0C0C0;
+    border-left: 1px solid #C0C0C0;
+}
+#primary-nav li li a { 
+    border: 1px solid #C0C0C0;
+}	
+#primary-nav li, #primary-nav li.menuparent { 
+    background-color: #ececec; 
+}
+
+/* Styling the basic apperance of the active page elements (shows what page in the menu is being displayed) */
+
+#primary-nav li.menuactive { 
+    background-color: #C7C7C7; 
+}
+
+
+/* Styling the basic apperance of the menuparents - here styled the same on hover (fixes IE bug) */
+#primary-nav ul li.menuparent, 
+#primary-nav ul li.menuparent:hover, 
+#primary-nav ul li.menuparenth { 
+    /* arrow for menuparents */
+    background-image: url(images/cms/arrow.gif); 
+    background-position: center right; 
+    background-repeat: no-repeat; 
+}
+
+
+/* Styling the apperance of menu items on hover */
+
+#primary-nav li:hover, 
+#primary-nav li.menuh, 
+#primary-nav li.menuparenth, 
+#primary-nav li.menuactiveh { 
+    background-color: #80ACFF; 
+}
+
+
+/* The magic - set to work for up to a 3 level menu, but can be increased unlimited */
+
+/* 
+just add 
+#primary-nav li:hover ul ul, 
+#primary-nav li.menuparenth ul ul ul,
+for fourth level 
+ */
+#primary-nav ul, 
+#primary-nav li:hover ul, 
+#primary-nav li:hover ul ul, 
+#primary-nav li.menuparenth ul, 
+#primary-nav li.menuparenth ul ul { 
+    display: none; 
+}
+
+/* add 
+#primary-nav ul ul ul li:hover ul, 
+#primary-nav ul ul ul li.menuparenth ul,
+for fourth level
+ */
+#primary-nav li:hover ul, 
+#primary-nav ul li:hover ul, 
+#primary-nav ul ul li:hover ul, 
+#primary-nav li.menuparenth ul, 
+#primary-nav ul li.menuparenth ul, 
+#primary-nav ul ul li.menuparenth ul { 
+    display: block; 
+}
+
+
+/* IE Hacks */
+#primary-nav li li { 
+    float: left; 
+    clear: both; 
+}
+#primary-nav li li a { 
+    height: 1%; 
+}
+
+
+div#menubar {
+    width: 100% ;
+    padding:0;
+    margin:0 0 20px 0;
+    text-align: center;
+    border-top: 3px solid #004f90;
+    border-bottom: 3px solid #004f90;
+    font: 1.1em arial,verdana,tahoma,sans-serif; 
+    height: 35px ;
+    z-index: 100;
+    overflow: hidden;
+    background-color: white;
+}
+
+div#menubar div.menubuttonbar {
+    margin-left: 10px ;
+}
+
+div#menubar div.menubuttonbar div.menubutton {
+    float: left ;
+    margin:0 1px ;
+    padding: 0px;
+    text-align: center ;
+}
+
+div#menubar div.menubuttonbar div.menubutton a {
+    /*  color:#3D87C4; */
+    color: black;
+    display:block;
+    font-size:1.2em;
+    font-weight: bold ;
+    padding: 7px 20px;
+    text-decoration:none;
+}
+
+div#menubar div.menubuttonbar div.menubutton a:hover {
+    color:#004f90;
+    background-color: #bfbfbf;
+}
+
+div#menubar div.menubuttonbar div.menubutton.first {
+    margin-left: 20px;
+}
+
+div#menubar div.menubuttonbar div.menubutton.current{
+}
+
+div#menubar div.menubuttonbar div.menubutton.current a{
+    color:#004f90 ;
+    background-color: #AECDFF;
+}
+
+div#level2menu {
+    width: 100% ;
+    height: 34px ;
+    padding:0;
+    margin:15px 0 25px 0;
+    text-align: center;
+}
+
+div#level2menu div.menubuttonbar {
+    width: 100% ;
+    height:33px ;
+    border-bottom: 1px solid #1a5ea5 ;
+    background-color: transparent ;
+    padding-left: 5px ;
+    font: 1.1em arial,verdana,tahoma,sans-serif; 
+    z-index: 60 ;
+    overflow: hidden ;
+}
+
+div#level2menu div.menubuttonbar div.menubutton {
+    width: 110px ;
+    float: left ;
+    margin:0px 1px ;
+    padding: 0px;
+    text-align: center ;
+    background-position: 0 0 ;
+    z-index: 40 ;
+}
+
+div#level2menu div.menubuttonbar div.menubutton a {
+    color:#004f90;
+    display:block;
+    font-size:1.0em;
+    font-weight: bold ;
+    padding: 7px 7px 8px 7px ;
+    text-decoration:none;
+    background-image: url(/uploads/images/EWRbuttonsNarrow.jpg)  ;
+}
+
+div#level2menu div.menubuttonbar div.menubutton a:hover {
+    background-position: 0 -40px ;
+}
+
+div#level2menu div.menubuttonbar div.menubutton.first {
+    margin-left: 3px;
+}
+
+div#level2menu div.menubuttonbar div.menubutton.current{
+}
+
+div#level2menu div.menubuttonbar div.menubutton.current a {
+    color:white ;
+    background-position: 0 -80px ;
+}
+
+div#menu-social {
+    float: right ;
+    padding-right: 20px ;
+    height: 35px ; 
+}
+
+div#menu-social a.socialbutton {
+    display: block; 
+    padding: 3px 7px ;
+    float: right ;
+    text-decoration: none; 
+    margin:0; 
+}
+
+div#menu-social a.socialbutton img {
+    border: none; 
+}
+
+

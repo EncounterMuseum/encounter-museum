@@ -6,39 +6,58 @@
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width">
 
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
-
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css">
 
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="description" content="Encounter World Religions offers educational, spiritual and cultural encounters
+          with the world religions and their communities.">
+        <meta name="keywords" content="Encounter World Religions, Courses, Diversity, Non-Demoninational, World Religions, Toronto, Ontario, Canada">
+        <meta name="author" content="Braden Shepherdson" />
+        <meta name="Robots" content="noarchive">
     </head>
     <body>
-
-        <div class="site">
-          <div class="header">
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/">home</a>
-          </div>
-
-          {{ content }}
-
-          <div class="footer">
-            <div class="contact">
-              <p>
-                Your Name<br />
-                What You Are<br />
-                you@example.com
-              </p>
+        <!-- start header -->
+        <div id="container">
+            <div id="header">
+                <div id="logo">
+                    <a href="http://www.worldreligions.ca/" title="EWR Home" ><img src="uploads/images/EWR4banner.jpg" alt="EWR logo" /></a>
+                </div>
+                <div id="menubar">
+                    <div class="menubuttonbar">
+                        <div class="menubutton first"><a href="http://www.worldreligions.ca/"><span>Home</span></a></div>
+                        <div class="menubutton "><a href="http://www.worldreligions.ca/index.php/what-we-do"><span>Programs</span></a></div>
+                        <div class="menubutton "><a href="http://www.worldreligions.ca/index.php/programs"><span>Events</span></a></div>
+                        <div class="menubutton "><a href="http://www.worldreligions.ca/index.php/resources/audio"><span>Resources</span></a></div>
+                        <div class="menubutton current "><a href="http://www.worldreligions.ca/index.php/about-us"><span>About Us</span></a>
+                        </div>
+                        <div class="menubutton "><a href="http://www.worldreligions.ca/index.php/contact"><span>Contact</span></a>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="contact">
-              <p>
-                <a href="https://github.com/yourusername">github.com/yourusername</a><br />
-                <a href="https://twitter.com/yourusername">twitter.com/yourusername</a><br />
-              </p>
-            </div>
-          </div>
-        </div>
+            <div id="wrapper">
+                <div id="content"> <!--style="margin-right:280px">-->
+                    {{ content }}
+                </div>  <!-- end content -->
+            </div>  <!-- end wrapper -->
 
+            <div id="footer">
+                <ul>
+                    <li></li>
+                    <li></li>
+                    <li> <a href="http://www.worldreligions.ca/index.php/about-us/privacy" title="Privacy Policy" >Privacy</a></li>
+                    <li><form method="get" action="http://www.google.com/search" id="searchform">
+                        <input type="hidden" name="as_sitesearch" value="cms.worldreligions.ca" />
+                        <input name="as_q" class="textbox" />
+                        <input type="submit" class="button" />
+                    </form></li>
+                </ul>
+                <span id="copyright">&copy; Copyright 2013&nbsp;&nbsp;<img src="http://cms.worldreligions.ca/uploads/images/EWR3footerEWRC.gif" /></span>
+                <p><span id="version">Website: v0.1.0</span>
+                <span id="platformversion">This site is powered by <a href="http://jekyllrb.org">Jekyll</a></span></p>
+            </div>
+        </div>  <!-- end container -->
     </body>
 </html>
+

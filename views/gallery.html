@@ -1,0 +1,5 @@
+<p>This is the quick-and-dirty gallery page, just listing the traditions.</p>
+
+<ul>
+  <li ng-repeat="trad in traditions"><a ng-href="#!/tradition/{{ trad.slug }}">{{ trad.name }}</a></li>
+</ul>

@@ -18,11 +18,10 @@
 
     <script src="js/vendor/angular.min.js"></script>
     <script src="js/vendor/angular-route.min.js"></script>
+    <script src="js/vendor/showdown.js"></script>
 
-    <script src="js/controllers/main.js"></script>
-    <script src="js/controllers/gallery.js"></script>
-    <script src="js/filters/markdown.js"></script>
-    <script src="js/services/traditions.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/backend.js"></script>
 
     <!--[if lte IE 8]>
     <script src="js/vendor/json3.js"></script>
@@ -33,27 +32,23 @@
     <div id="container">
       <div id="header">
         <div id="logo">
-          <a href="http://www.worldreligions.ca/" title="EWR Home" ><img src="uploads/images/EWR4banner.jpg" alt="EWR logo" /></a>
+          <a href="http://www.worldreligionsmuseum.ca/" title="EWRM Home" ><img src="assets/banner.jpg" alt="EWRM logo" /></a>
         </div>
         <div id="menubar">
           <div class="menubuttonbar">
-            <div class="menubutton first"><a href="http://www.worldreligions.ca/"><span>Home</span></a></div>
-            <div class="menubutton "><a href="http://www.worldreligions.ca/index.php/what-we-do"><span>Programs</span></a></div>
-            <div class="menubutton "><a href="http://www.worldreligions.ca/index.php/programs"><span>Events</span></a></div>
-            <div class="menubutton "><a href="http://www.worldreligions.ca/index.php/resources/audio"><span>Resources</span></a></div>
-            <div class="menubutton current "><a href="http://www.worldreligions.ca/index.php/about-us"><span>About Us</span></a>
-            </div>
-            <div class="menubutton "><a href="http://www.worldreligions.ca/index.php/contact"><span>Contact</span></a>
+            <div ng-repeat="item in menu" class="menubutton" ng-class="{ first: $first, current: item.slug == menuSelected }">
+              <a ng-href="{{ item.link }}"><span>{{ item.name }}</span></a>
             </div>
           </div>
         </div>
       </div>
       <div id="wrapper">
         <div id="content" ng-view> <!--style="margin-right:280px">-->
-        </div>  <!-- end content -->
+        </div>
       </div>  <!-- end wrapper -->
 
       <div id="footer">
+        <!--
         <ul>
           <li></li>
           <li></li>
@@ -64,6 +59,7 @@
             <input type="submit" class="button" />
           </form></li>
         </ul>
+        -->
         <span id="copyright">&copy; Copyright 2013&nbsp;&nbsp;<img src="http://cms.worldreligions.ca/uploads/images/EWR3footerEWRC.gif" /></span>
         <p><span id="version">Website: v0.1.0</span>
         <span id="platformversion">This site is powered by <a href="http://angularjs.org">AngularJS</a></span></p>

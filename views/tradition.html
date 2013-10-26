@@ -1,0 +1,9 @@
+<div ng-bind-html="content.description"></div>
+
+<div>
+  <h2>{{ content.artifacts[index].title }}</h2>
+  <div ng-bind-html="content.artifacts[index].description"></div>
+</div>
+
+<ul>
+  <li ng-repeat="image in content.images"><img ng-src="{{ image.image }}" ng-click="change($index)" /></li>

@@ -32,8 +32,8 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
 
 .controller('tradition', function($rootScope, $scope, $routeParams, traditions, net) {
   $rootScope.menuSelected = 'gallery';
-  var trad = traditions[$routeParams.tradition];
-  $scope.content = net.fetchTradition(trad.slug);
+  $scope.tradition = traditions[$routeParams.tradition];
+  $scope.content = net.fetchTradition($scope.tradition.slug);
 
   $scope.index = 0; // The index within the current page.
   $scope.page = 0;  // The current page of the filmstrip.

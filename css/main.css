@@ -755,4 +755,16 @@ div#menu-social a.socialbutton img {
     border: none; 
 }
 
+.image-strip {
+  list-style-type: none;
+}
+
+.image-strip li {
+  display: inline;
+  margin-right: 15px;
+}
+
+.selected {
+  font-weight: bold;
+}
 

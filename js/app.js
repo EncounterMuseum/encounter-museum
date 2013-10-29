@@ -33,14 +33,32 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
 .controller('tradition', function($rootScope, $scope, $routeParams, traditions, net) {
   $rootScope.menuSelected = 'gallery';
   $scope.tradition = traditions[$routeParams.tradition];
-  $scope.content = net.fetchTradition($scope.tradition.slug);
+  net.fetchTradition($scope.tradition.slug).then(function(res) {
+    $scope.content = res;
+    $rootScope.title = $scope.content.title;
+  });
+
 
   $scope.index = 0; // The index within the current page.
   $scope.page = 0;  // The current page of the filmstrip.
-  $rootScope.title = $scope.content.title;
+  $scope.globalIndex = 0;
+  $scope.entryLimit = 6;
 
   $scope.change = function(index) {
     $scope.index = index;
+    $scope.globalIndex = $scope.page * $scope.entryLimit + index;
+  };
+
+  $scope.prev = function() {
+    $scope.page = Math.max(0, $scope.page-1);
+    $scope.index = $scope.entryLimit - 1;
+    $scope.globalIndex = Math.min(($scope.page+1) * $scope.entryLimit - 1, $scope.content.images.length);
+  };
+
+  $scope.next = function() {
+    $scope.page = Math.min(Math.floor($scope.content.images.length / $scope.entryLimit), $scope.page+1);
+    $scope.index = 0;
+    $scope.globalIndex = $scope.page * $scope.entryLimit;
   };
 })
 
@@ -77,6 +95,12 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
     unitarian:        { slug: 'unitarian', name: 'Unitarian' },
     wicca:            { slug: 'wicca', name: 'Wicca' },
     zoroastrian:      { slug: 'zoroastrian', name: 'Zoroastrian' }
+  };
+})
+
+.filter('startFrom', function() {
+  return function(input, by) {
+    return input && input.slice(by);
   };
 })
 

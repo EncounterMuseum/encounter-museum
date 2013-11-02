@@ -20,7 +20,7 @@ size:
 ---
 The bullroarer is an ancient ritual musical instrument dating to the Paleolithic period, 17,000 bce. In ancient Greece it was a sacred instrument used in the mystery religions. In Australia, bullroarers accompanied didgeridoos in initiation ceremonies and burial rites to ward off evil spirits. Almost all Native tribes in North America used bullroarers in religious and healing ceremonies. Bullroarers were considered men's secret business by some cultures which women, children, non-initiated men and outsiders were forbidden to hear. Held by the handle and swung around the head, the spinning propeller’s deep humming sound represents the voice of the Sacred or of ancestors and announces the beginning of ceremonies. You may here the sound of the bullroarer by clicking the “Play” button.
 
-[Wikipedia: Bullroarer %28music%29](http://en.wikipedia.org/wiki/Bullroarer_%28music%29)
+[Wikipedia: Bullroarer (music)](http://en.wikipedia.org/wiki/Bullroarer_%28music%29)
 
 
 ---
@@ -55,7 +55,7 @@ Displayed is a grey stone gorget (ornament or decoration) worn on a leather cord
 
 [Wikipedia: Gorget](http://en.wikipedia.org/wiki/Gorget)
 
-[Wikipedia: Seer stone %28Latter Day Saints%29](http://en.wikipedia.org/wiki/Seer_stone_%28Latter_Day_Saints%29)
+[Wikipedia: Seer stone (Latter Day Saints)](http://en.wikipedia.org/wiki/Seer_stone_%28Latter_Day_Saints%29)
 
 
 ---
@@ -162,7 +162,7 @@ Smudging is a Native ceremony of purification. Smoke from one or more of four he
 
 [More on smudge ceremony](http://www.asunam.com/smudge_ceremony.html)
 
-[Wikipedia: Turtle Island %28North America%29](http://en.wikipedia.org/wiki/Turtle_Island_%28North_America%29)
+[Wikipedia: Turtle Island (North America)](http://en.wikipedia.org/wiki/Turtle_Island_%28North_America%29)
 
 
 ---
@@ -184,7 +184,7 @@ size:
 ---
 Hina, literally “young girl,” is a general term for a genre of Polynesia goddess figures. Many legends of Polynesian mythology feature a character named Hina. What is unique and fascinating about the image of Hina displayed here is her bhumisparsha (earth-touching) posture identical to that of the enlightened Buddha (see bhumisparsha mudra). The Bhumisparsha Hina was purchased in Tahiti at the home of Paul Gauguin, well known for his paintings of Tahitian and Polynesian women. The figure is called Idole a la Perle “The Pearl Goddess.”
 
-[Wikipedia: Hina %28goddess%29](http://en.wikipedia.org/wiki/Hina_%28goddess%29)
+[Wikipedia: Hina (goddess)](http://en.wikipedia.org/wiki/Hina_%28goddess%29)
 
 
 ---

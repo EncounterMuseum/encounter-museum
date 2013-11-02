@@ -463,7 +463,7 @@ size:
 ---
 In Polynesian mythology, the primordial couple Rangi and Papa live in tight embrace. All there children live in the tight, dark space between their parents. The most benevolent of these children, a son named Tane, is god of forests, plants, insects, and birds. In some legends, Tane unwittingly married his daughter whose children are humanity. When the indignant act was discovered, in shame the daughter fled to the underworld where she welcomes her children (humans) when they die. Tane is wearing a mother of pearl necklaces from Tahiti. Encounter’s statue of Tane and the mother of pearl necklaces were gifts from students in Papeete, Tahiti.
 
-[Wikipedia: T%C4%81ne](http://en.wikipedia.org/wiki/T%C4%81ne)
+[Wikipedia: Tāne](http://en.wikipedia.org/wiki/T%C4%81ne)
 
 
 ---

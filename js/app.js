@@ -132,29 +132,29 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
   height: 300
 })
 
-.directive('encMagnifier', function(magnifier) {
+.directive('encMagnifier', function($document, magnifier) {
   return {
     scope: false,
     link: function(scope, elem, attrs) {
-      return;
       var enable = false;
 
+      var artifact = $document[0].getElementById('artifact');
+
       function update(event) {
-        console.log(event.clientX, event.clientY);
-        /*
         scope.magnify = {
           style: {
-            'background-position': event.
-            */
+            'background-position': event.foo
+          }
+        };
       }
 
       elem.on('mouseenter', function(event) {
         enable = true;
-        update(event);
       });
       elem.on('mousemove', update);
       elem.on('mouseleave', function() {
         enable = false;
+        delete scope.magnify;
       });
     }
   };

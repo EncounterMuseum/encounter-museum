@@ -113,7 +113,7 @@ size:
 ---
 The most spectacular monument in Malta is the enormous, underground sanctuary known as the Hypogeum discovered in 1902 by workers digging a cistern. The catacomb-like structure seems to have been a major temple for the island. It is the only underground temple in the world still existing from prehistoric times, dating back some 5,000 years. The main hall leads into an oracle room where two small identical sculptures of a woman were found lying on the floor where they were probably left when the shrine was abandoned millennia ago. Because her real name is unknown, she has been called the Venus of Malta or the Dreamer of Malta. She is lying on her side on a low couch, asleep and almost visibly dreaming. The figures may have been part of a dream incubation or dreamtime ceremony in which the goddess, like Vishnu of Hinduism, dreams the world into existence. The originals are on display in Malta’s National Museum of Archaeology.
 
-[Wikipedia: Hypogeum of %C4%A6al-Saflieni](http://en.wikipedia.org/wiki/Hypogeum_of_%C4%A6al-Saflieni)
+[Wikipedia: Hypogeum of &#294;al-Saflieni](http://en.wikipedia.org/wiki/Hypogeum_of_%C4%A6al-Saflieni)
 
 
 ---
@@ -221,7 +221,7 @@ size:
 ---
 Tiw (pronounced “too”) or Tyr (pronounced “teer”) is a character from Norse mythology in the Icelandic Eddas (poems and tales). He is the god of individual struggle and victory. His name means “glory.” The third day of the week (Tuesday) is named in honour of Tiw. The right hand is often shown missing as a result of a confrontation with the monster-wolf Fenrir. You may hear the legend of Tiw and Fenrir by clicking the “Play” button.
 
-[Wikipedia: T%C3%BDr](http://en.wikipedia.org/wiki/T%C3%BDr)
+[Wikipedia: Týr](http://en.wikipedia.org/wiki/T%C3%BDr)
 
 
 ---
@@ -452,7 +452,7 @@ size:
 ---
 In Polynesian mythology, the primordial couple Rangi and Papa live in tight embrace. All their children live in the tight, dark space between their parents. The fiercest of these children, a son named Tumatauenga (Tu for short) is the god of storms, cyclones, and war. Unfortunately, his violent nature became a model for humans. Encounter’s Tumatauenga mask was a gift from a student in Papeete, Tahiti.
 
-[Wikipedia: T%C5%ABmatauenga](http://en.wikipedia.org/wiki/T%C5%ABmatauenga)
+[Wikipedia: Tūmatauenga](http://en.wikipedia.org/wiki/T%C5%ABmatauenga)
 
 
 ---

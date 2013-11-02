@@ -755,19 +755,6 @@ div#menu-social a.socialbutton img {
     border: none; 
 }
 
-.image-strip {
-  list-style-type: none;
-}
-
-.image-strip li {
-  display: inline;
-  margin-right: 15px;
-}
-
-.selected {
-  font-weight: bold;
-}
-
 
 .img-container {
   width: 100%;
@@ -791,5 +778,60 @@ div#menu-social a.socialbutton img {
 
 .relative {
   position: relative;
+}
+
+.artifact {
+  height: 420px;
+}
+
+.image-pane {
+  height: 100%;
+  background-color: black;
+  padding-top: 10px;
+}
+
+.slider {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+
+  width: 100%;
+  height: 100px;
+
+  white-space: nowrap;
+}
+
+.image-strip {
+  list-style-type: none;
+  display: inline-block;
+  padding-left: 0;
+}
+
+.image-strip li {
+  display: table-cell;
+  height: 80px;
+  width: 80px;
+  margin: 0 3px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.image-strip li img {
+  margin: auto;
+}
+
+.image-strip li .link {
+  width: auto;
+}
+
+.selected {
+  background-color: #333;
+}
+
+
+.scroll {
+  overflow: scroll;
+  max-height: 100%;
+  min-height: 300px;
 }
 

@@ -1,9 +1,22 @@
 <div ng-bind-html="content.description"></div>
 <hr/>
-<div class="row relative">
+<div class="row artifact relative">
   <div class="magnifier" ng-show="magnify" id="magnifier" ng-style="magnify.style"></div>
-  <div class="col-md-5 img-container" ng-style="artifact.imageStyle" enc-magnifier></div>
-  <div class="col-md-6 col-md-offset-1">
+  <div class="col-md-6 image-pane">
+    <div class="img-container" ng-style="artifact.imageStyle" enc-magnifier></div>
+
+    <div class="slider">
+      <ul class="image-strip">
+        <li class="link"><a ng-click="prev()" ng-show="page > 0">Prev</a></li>
+        <li ng-repeat="image in content.images | startFrom: entryLimit*page | limitTo: entryLimit" ng-class="{ selected: index == $index }">
+          <img ng-src="/assets/thumbs/{{ image.image }}" ng-click="change($index)" />
+        </li>
+        <li class="link"><a ng-click="next()" ng-show="(page+1) * entryLimit < content.images.length">Next</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="col-md-6 scroll">
     <h3>{{ artifact.title }}</h3>
     <div ng-show="artifact.size"><strong>Size:</strong> {{ artifact.size }}</div>
     <div ng-show="artifact.date"><strong>Approx Date:</strong> {{ artifact.date }}</div>
@@ -14,18 +27,3 @@
 
 <hr/>
 
-<div class="row">
-  <div class="col-md-1">
-    <a ng-click="prev()" ng-show="page > 0">Prev</a>
-  </div>
-  <div class="col-md-6">
-    <ul class="image-strip">
-      <li ng-repeat="image in content.images | startFrom: entryLimit*page | limitTo: entryLimit" ng-class="{ selected: index == $index }">
-        <img ng-src="/assets/thumbs/{{ image.image }}" ng-click="change($index)" />
-      </li>
-    </ul>
-  </div>
-  <div class="col-md-1">
-    <a ng-click="next()" ng-show="(page+1) * entryLimit < content.images.length">Next</a>
-  </div>
-</div>

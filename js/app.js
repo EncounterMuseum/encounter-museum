@@ -52,7 +52,7 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
   $scope.index = 0; // The index within the current page.
   $scope.page = 0;  // The current page of the filmstrip.
   $scope.globalIndex = 0;
-  $scope.entryLimit = 6;
+  $scope.entryLimit = 5;
 
   $scope.$watch('globalIndex', function(nu) {
     if ($scope.content && $scope.content.artifacts && $scope.content.artifacts.length) {

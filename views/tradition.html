@@ -2,12 +2,13 @@
 <hr/>
 <div class="row">
   <div class="col-md-7">
-    <img ng-src="/assets/{{tradition.slug}}/{{ content.images[globalIndex].image }}" />
+    <img width=500 ng-src="/assets/{{ content.images[globalIndex].image }}" />
   </div>
   <div class="col-md-5">
     <h3>{{ content.artifacts[globalIndex].title }}</h3>
     <div ng-show="content.artifacts[globalIndex].size"><strong>Size:</strong> {{ content.artifacts[globalIndex].size }}</div>
     <div ng-show="content.artifacts[globalIndex].date"><strong>Approx Date:</strong> {{ content.artifacts[globalIndex].date }}</div>
+    <div ng-show="content.artifacts[globalIndex].origin"><strong>Origin:</strong> {{ content.artifacts[globalIndex].origin }}</div>
     <div ng-bind-html="content.artifacts[globalIndex].description"></div>
   </div>
 </div>
@@ -21,7 +22,7 @@
   <div class="col-md-6">
     <ul class="image-strip">
       <li ng-repeat="image in content.images | startFrom: entryLimit*page | limitTo: entryLimit" ng-class="{ selected: index == $index }">
-        <img width=50 ng-src="/assets/{{tradition.slug}}/{{ image.image }}" ng-click="change($index)" />
+        <img ng-src="/assets/thumbs/{{ image.image }}" ng-click="change($index)" />
       </li>
     </ul>
   </div>

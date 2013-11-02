@@ -30,48 +30,78 @@ xml.findall('page').forEach(function(page) {
 
 //var traditions = {};
 var traditions = {
-  abo: { slug: 'aboriginal', trad: 'Aboriginal' },
-  anc: { slug: 'ancient_cultures', trad: 'Ancient Cultures' },
-  ant: { slug: 'ancient_cultures', trad: 'Ancient Cultures' },
-  antcul: { slug: 'ancient_cultures', trad: 'Ancient Cultures' },
-  bah: { slug: 'bahai', trad: 'Baha\'i' },
-  bud: { slug: 'buddhism', trad: 'Buddhism' },
-  chr: { slug: 'christianity', trad: 'Christianity' },
-  con: { slug: 'confuscianism', trad: 'Confuscianism' },
-  dao: { slug: 'daoism', trad: 'Daoism' },
-  fun: { slug: 'fun', trad: 'Just for Fun' },
-  hin: { slug: 'hinduism', trad: 'Hinduism' },
-  isl: { slug: 'islam', trad: 'Islam' },
-  jai: { slug: 'jainism', trad: 'Jainism' },
-  jud: { slug: 'judaism', trad: 'Judaism' },
-  lds: { slug: 'mormonism', trad: 'Mormonism' },
-  man: { slug: 'mandaeans', trad: 'Mandaeans' },
-  mis: { slug: 'misc', trad: 'Miscellaneous' },
-  mor: { slug: 'mormonism', trad: 'Mormonism' },
-  ras: { slug: 'rastafari', trad: 'Rastafari' },
-  sci: { slug: 'scientology', trad: 'Scientology' },
-  shi: { slug: 'shinto', trad: 'Shinto' },
-  sik: { slug: 'sikh', trad: 'Sikh' },
-  uu:  { slug: 'unitarian', trad: 'Unitarian' },
-  wic: { slug: 'wicca', trad: 'Wicca' },
-  zor: { slug: 'zoroastrian', trad: 'Zoroastrian' }
+  abo: { slug: 'aboriginal', tradition: 'Aboriginal', trad: 'abo' },
+  anc: { slug: 'ancient_cultures', tradition: 'Ancient Cultures', trad: 'anc' },
+  ant: { slug: 'ancient_cultures', tradition: 'Ancient Cultures', trad: 'anc' },
+  antcul: { slug: 'ancient_cultures', tradition: 'Ancient Cultures', trad: 'anc' },
+  bah: { slug: 'bahai', tradition: 'Baha\'i', trad: 'bah' },
+  bud: { slug: 'buddhism', tradition: 'Buddhism', trad: 'bud' },
+  chr: { slug: 'christianity', tradition: 'Christianity', trad: 'chr' },
+  con: { slug: 'confuscianism', tradition: 'Confuscianism', trad: 'con' },
+  dao: { slug: 'daoism', tradition: 'Daoism', trad: 'dao' },
+  fun: { slug: 'fun', tradition: 'Just for Fun', trad: 'fun' },
+  hin: { slug: 'hinduism', tradition: 'Hinduism', trad: 'hin' },
+  isl: { slug: 'islam', tradition: 'Islam', trad: 'isl' },
+  jai: { slug: 'jainism', tradition: 'Jainism', trad: 'jai' },
+  jud: { slug: 'judaism', tradition: 'Judaism', trad: 'jud' },
+  lds: { slug: 'mormonism', tradition: 'Mormonism', trad: 'mor' },
+  man: { slug: 'mandaeans', tradition: 'Mandaeans', trad: 'man' },
+  mis: { slug: 'misc', tradition: 'Miscellaneous', trad: 'mis' },
+  mor: { slug: 'mormonism', tradition: 'Mormonism', trad: 'mor' },
+  ras: { slug: 'rastafari', tradition: 'Rastafari', trad: 'ras' },
+  sci: { slug: 'scientology', tradition: 'Scientology', trad: 'sci' },
+  shi: { slug: 'shinto', tradition: 'Shinto', trad: 'shi' },
+  sik: { slug: 'sikh', tradition: 'Sikh', trad: 'sik' },
+  uu:  { slug: 'unitarian', tradition: 'Unitarian', trad: 'uu' },
+  wic: { slug: 'wicca', tradition: 'Wicca', trad: 'wic' },
+  zor: { slug: 'zoroastrian', tradition: 'Zoroastrian', trad: 'zor' }
 };
 
 
 table.forEach(function(art) {
-  console.log(art.name);
-  var trad = art.name.match(/^\s*(\S+)\s*([^\.\s]+)\.(\S+)\.doc/);
+  var trad = art.name.match(/^\s*([\s\S]*?)\s*(\w+)\.([\w\-\.]+)\.(?:doc|com)\s*$/);
   if (trad) {
-    console.log(trad);
     art.name = trad[1];
     var slug = trad[2].toLowerCase();
-    console.log('slug', slug);
+    art.trad = traditions[slug].trad; // Short tradition name.
     art.slug = traditions[slug].slug;
-    art.tradition = traditions[slug].trad;
+    art.tradition = traditions[art.trad].tradition; // Long tradition name.
     art.basename = trad[3].toLowerCase();
+    delete art.number;
+  } else {
+    art.slug = 'broken';
   }
 });
-table = table.filter(function(art) { return art.slug; });
 
-console.log(table);
+var imageFiles = fs.readdirSync('../assets');
+
+['abo', 'anc', 'bah', 'bud', 'chr', 'con', 'dao', 'fun', 'hin', 'isl', 'jai', 'jud', 'lds', 'man', 'mis', 'ras', 'sci', 'shi', 'sik', 'uu', 'wic', 'zor'].forEach(function(t) {
+  var trad = traditions[t];
+  var artifacts = table.filter(function(x) { return x.slug == trad.slug; });
+
+  var out = 'Top-level description of ' + trad.slug + '\n\n';
+
+  artifacts.forEach(function(x) {
+    out += '---\n';
+    out += 'title: ' + x.name.replace('\n', ' ').split('\s+').join(' ') + '\n';
+
+    var images = imageFiles.filter(function(i) {
+      return i.indexOf(x.trad) == 0 && i.indexOf(x.basename) >= 0;
+    });
+
+    if (images.length) {
+      out += 'images: ["' + images.join('","') + '"]\n';
+    } else {
+      console.error('No images found!', x.name, x.basename, x.trad);
+    }
+
+    out += 'size:\n';
+    out += '---\n';
+    out += x.description + '\n\n\n';
+  });
+
+  fs.writeFileSync(trad.slug + '.json', out, 'utf-8');
+});
+
+console.log(table.filter(function(x) { return x.slug == 'broken'; }));
 

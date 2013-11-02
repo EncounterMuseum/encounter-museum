@@ -103,7 +103,11 @@ angular.module('encounter')
           if (m[1] == 'images') {
             var list = m[2].match(listRegex);
             if (list && list[1]) {
-              art.images = list[1].split(',').map(function(x) { return x.trim(); });
+              art.images = list[1].split(',').map(function(x) {
+                var y = x.trim();
+                var m = y.match(/^"([^"]+)"$/);
+                return m[1];
+              });
             }
           } else if(m[1] && m[2]) {
             art[m[1]] = m[2];

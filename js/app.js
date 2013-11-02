@@ -30,11 +30,21 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
   $rootScope.title = 'Encounter World Religions Museum';
 })
 
-.controller('tradition', function($rootScope, $scope, $routeParams, traditions, net) {
+.controller('tradition', function($rootScope, $scope, $routeParams, $location, traditions, net) {
   $rootScope.menuSelected = 'gallery';
   $scope.tradition = traditions[$routeParams.tradition];
   net.fetchTradition($scope.tradition.slug).then(function(res) {
     $scope.content = res;
+
+    if ($location.hash()) {
+      var index = res.slugMap[$location.hash()];
+      if (index >= 0) {
+        $scope.globalIndex = index;
+        $scope.index = index % $scope.entryLimit;
+        $scope.page = Math.floor(index / $scope.entryLimit);
+      }
+    }
+
     $rootScope.title = $scope.content.title;
   });
 
@@ -43,6 +53,13 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
   $scope.page = 0;  // The current page of the filmstrip.
   $scope.globalIndex = 0;
   $scope.entryLimit = 6;
+
+  $scope.$watch('globalIndex', function(nu) {
+    if ($scope.content && $scope.content.artifacts && $scope.content.artifacts.length) {
+      $scope.artifact = $scope.content.artifacts[$scope.content.images[nu].artifact];
+      $location.hash($scope.content.artifacts[$scope.content.images[$scope.globalIndex].artifact].slug);
+    }
+  });
 
   $scope.change = function(index) {
     $scope.index = index;

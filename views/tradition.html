@@ -5,11 +5,11 @@
     <img width=500 ng-src="/assets/{{ content.images[globalIndex].image }}" />
   </div>
   <div class="col-md-5">
-    <h3>{{ content.artifacts[globalIndex].title }}</h3>
-    <div ng-show="content.artifacts[globalIndex].size"><strong>Size:</strong> {{ content.artifacts[globalIndex].size }}</div>
-    <div ng-show="content.artifacts[globalIndex].date"><strong>Approx Date:</strong> {{ content.artifacts[globalIndex].date }}</div>
-    <div ng-show="content.artifacts[globalIndex].origin"><strong>Origin:</strong> {{ content.artifacts[globalIndex].origin }}</div>
-    <div ng-bind-html="content.artifacts[globalIndex].description"></div>
+    <h3>{{ artifact.title }}</h3>
+    <div ng-show="artifact.size"><strong>Size:</strong> {{ artifact.size }}</div>
+    <div ng-show="artifact.date"><strong>Approx Date:</strong> {{ artifact.date }}</div>
+    <div ng-show="artifact.origin"><strong>Origin:</strong> {{ artifact.origin }}</div>
+    <div ng-bind-html="artifact.description"></div>
   </div>
 </div>
 

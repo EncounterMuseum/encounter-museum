@@ -5,7 +5,7 @@ angular.module('encounter')
     fetchTradition: function(tradition) {
       var cached = cache.get(tradition);
       if (cached) {
-        return cached;
+        return $q.when(cached);
       } else {
         var d = $q.defer();
         $http({
@@ -89,6 +89,7 @@ angular.module('encounter')
 
     obj.artifacts = [];
     obj.images = [];
+    obj.slugMap = {};
 
     while(iBottom >= 0) {
       iTop = iBottom + 1;
@@ -120,8 +121,23 @@ angular.module('encounter')
       iBottom = nextBreak(iTop);
       art.description = markdown(lines.slice(iTop, iBottom).join('\n').trim());
 
+      // Convert the name into a slug that can be used in the URL bar.
+      // Drop everything but letters and spaces from the name.
+      var legalChars = "abcdefghijklmnopqrstuvwxyz- ".split('');
+      art.slug = art.title.toLowerCase().trim().split('').filter(function(c) {
+        return legalChars.indexOf(c) >= 0;
+      }).map(function(c) {
+        return c == ' ' ? '-' : c;
+      }).join('');
+
+      if (!obj.slugMap[art.slug]) {
+        // obj.slugMap['foo'] points at the globalIndex of the first image of that artifact.
+        obj.slugMap[art.slug] = obj.images.length;
+      }
+
       if (art.images && art.images.length) {
         var index = obj.artifacts.length;
+
         obj.artifacts.push(art);
         for(var i = 0; i < art.images.length; i++) {
           obj.images.push({
@@ -132,6 +148,7 @@ angular.module('encounter')
       } else {
         console.warn('Artifact without images', art);
       }
+
     }
 
     return obj;

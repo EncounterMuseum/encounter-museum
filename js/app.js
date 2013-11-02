@@ -57,6 +57,10 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
   $scope.$watch('globalIndex', function(nu) {
     if ($scope.content && $scope.content.artifacts && $scope.content.artifacts.length) {
       $scope.artifact = $scope.content.artifacts[$scope.content.images[nu].artifact];
+      $scope.artifact.imageStyle = {
+        'background-image': 'url(/assets/' + $scope.content.images[nu].image +')'
+      };
+      console.log($scope.artifact.imageStyle);
       $location.hash($scope.content.artifacts[$scope.content.images[$scope.globalIndex].artifact].slug);
     }
   });
@@ -118,6 +122,39 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
 .filter('startFrom', function() {
   return function(input, by) {
     return input && input.slice(by);
+  };
+})
+
+.constant('magnifier', {
+  width: 300,
+  height: 300
+})
+
+.directive('encMagnifier', function(magnifier) {
+  return {
+    scope: false,
+    link: function(scope, elem, attrs) {
+      return;
+      var enable = false;
+
+      function update(event) {
+        console.log(event.clientX, event.clientY);
+        /*
+        scope.magnify = {
+          style: {
+            'background-position': event.
+            */
+      }
+
+      elem.on('mouseenter', function(event) {
+        enable = true;
+        update(event);
+      });
+      elem.on('mousemove', update);
+      elem.on('mouseleave', function() {
+        enable = false;
+      });
+    }
   };
 })
 

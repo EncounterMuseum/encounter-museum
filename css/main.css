@@ -768,3 +768,28 @@ div#menu-social a.socialbutton img {
   font-weight: bold;
 }
 
+
+.img-container {
+  width: 100%;
+
+  min-height: 300px !important;
+  max-height: 400px !important;
+
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+.magnifier {
+  position: absolute;
+  top: 100px;
+  right: 20px;
+  width: 300px;
+  height: 300px;
+  z-index: 999;
+}
+
+.relative {
+  position: relative;
+}
+

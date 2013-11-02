@@ -1,10 +1,9 @@
 <div ng-bind-html="content.description"></div>
 <hr/>
-<div class="row">
-  <div class="col-md-7">
-    <img width=500 ng-src="/assets/{{ content.images[globalIndex].image }}" />
-  </div>
-  <div class="col-md-5">
+<div class="row relative">
+  <div class="magnifier" ng-show="magnify" id="magnifier" ng-style="magnify.style"></div>
+  <div class="col-md-5 img-container" ng-style="artifact.imageStyle" enc-magnifier></div>
+  <div class="col-md-6 col-md-offset-1">
     <h3>{{ artifact.title }}</h3>
     <div ng-show="artifact.size"><strong>Size:</strong> {{ artifact.size }}</div>
     <div ng-show="artifact.date"><strong>Approx Date:</strong> {{ artifact.date }}</div>

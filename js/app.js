@@ -9,7 +9,8 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
     templateUrl: 'views/gallery.html'
   }).when('/tradition/:tradition', {
     controller: 'tradition',
-    templateUrl: 'views/tradition.html'
+    templateUrl: 'views/tradition.html',
+    reloadOnSearch: false
   }).otherwise({
     redirectTo: '/'
   });
@@ -36,18 +37,20 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
   net.fetchTradition($scope.tradition.slug).then(function(res) {
     $scope.content = res;
 
-    if ($location.hash()) {
-      var index = res.slugMap[$location.hash()];
-      if (index >= 0) {
+    var hash = $location.hash();
+    if (hash) {
+      var index = $scope.content.slugMap[hash];
+      if (index >= 0 && $scope.content.artifacts[$scope.content.images[$scope.globalIndex].artifact].slug != hash) {
         $scope.globalIndex = index;
         $scope.index = index % $scope.entryLimit;
         $scope.page = Math.floor(index / $scope.entryLimit);
       }
     }
-
     $rootScope.title = $scope.content.title;
   });
 
+  $scope.gotoSlug = function(hash) {
+  };
 
   $scope.index = 0; // The index within the current page.
   $scope.page = 0;  // The current page of the filmstrip.
@@ -60,7 +63,6 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
       $scope.artifact.imageStyle = {
         'background-image': 'url(/assets/' + $scope.content.images[nu].image +')'
       };
-      console.log($scope.artifact.imageStyle);
       $location.hash($scope.content.artifacts[$scope.content.images[$scope.globalIndex].artifact].slug);
     }
   });

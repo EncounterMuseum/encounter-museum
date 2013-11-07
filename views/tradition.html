@@ -1,9 +1,16 @@
 <div ng-bind-html="content.description"></div>
 <hr/>
 <div id="artifact" class="row artifact relative">
-  <div class="magnifier" ng-show="magnify" id="magnifier" ng-style="magnify.style"></div>
+  <div class="magnifier" ng-show="magnify.style" id="magnifier">
+    <div class="relative">
+      <img id="magnified" ng-src="{{ artifact.bigImage }}" ng-style="magnify.style" />
+    </div>
+  </div>
+
   <div class="col-md-6 image-pane">
-    <div class="img-container" ng-style="artifact.imageStyle" enc-magnifier></div>
+    <div class="img-container">
+      <img ng-src="{{artifact.image}}" enc-magnifier />
+    </div>
 
     <div class="slider">
       <ul class="image-strip">

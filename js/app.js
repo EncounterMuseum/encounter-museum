@@ -45,6 +45,8 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
         $scope.index = index % $scope.entryLimit;
         $scope.page = Math.floor(index / $scope.entryLimit);
       }
+    } else {
+      update(0);
     }
     $rootScope.title = $scope.content.title;
   });
@@ -57,15 +59,16 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
   $scope.globalIndex = 0;
   $scope.entryLimit = 5;
 
-  $scope.$watch('globalIndex', function(nu) {
+  function update(nu) {
     if ($scope.content && $scope.content.artifacts && $scope.content.artifacts.length) {
       $scope.artifact = $scope.content.artifacts[$scope.content.images[nu].artifact];
-      $scope.artifact.imageStyle = {
-        'background-image': 'url(/assets/' + $scope.content.images[nu].image +')'
-      };
+      $scope.artifact.image = '/assets/' + $scope.content.images[nu].image;
+      $scope.artifact.bigImage = '/assets/big/' + $scope.content.images[nu].image;
       $location.hash($scope.content.artifacts[$scope.content.images[$scope.globalIndex].artifact].slug);
     }
-  });
+  }
+
+  $scope.$watch('globalIndex', update);
 
   $scope.change = function(index) {
     $scope.index = index;
@@ -127,9 +130,10 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
   };
 })
 
+// If modifying this, modify the CSS as well.
 .constant('magnifier', {
-  width: 300,
-  height: 300
+  width: 450,
+  height: 400
 })
 
 .directive('encMagnifier', function($document, magnifier) {
@@ -138,14 +142,21 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
     link: function(scope, elem, attrs) {
       var enable = false;
 
-      var artifact = $document[0].getElementById('artifact');
+      var magnified = document.getElementById('magnified');
 
       function update(event) {
+        if(!enable) return;
+        // We need to check the total size of the big image in the magnifier.
+        var relX = event.offsetX / elem[0].width;
+        var relY = event.offsetY / elem[0].height;
         scope.magnify = {
           style: {
-            'background-position': event.foo
+            position: 'absolute',
+            top: '-' + (magnified.height * relY - magnifier.height/2) + 'px',
+            left: '-' + (magnified.width * relX - magnifier.width/2) + 'px'
           }
         };
+        scope.$apply();
       }
 
       elem.on('mouseenter', function(event) {
@@ -155,6 +166,7 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
       elem.on('mouseleave', function() {
         enable = false;
         delete scope.magnify;
+        scope.$apply();
       });
     }
   };

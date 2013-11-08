@@ -1,18 +1,17 @@
-Top-level description of fun
+Top-level description of Just for Fun.
 
 ---
-title: BUDDHA 
-DOG
+title: Buddha dog
 images: ["fun.buddhadog.jpg","fun.buddhadog2.jpg"]
 size:
 ---
 In Zen Buddhism, a koan is a story, question, or statement that defies a logical response. The purpose is to move the individual past linear thinking to intuitive reflection. One often quoted koan is “What is the sound of one hand clapping?” Another well known koan is “Does a dog have Buddha nature?” It is this koan that the meditating dog figure suggests.
 
-http://en..org/wiki/K%C5%8Dan
+[Wikipedia: Kōan](http://en.wikipedia.org/wiki/K%C5%8Dan)
 
 
 ---
-title: handy hindus
+title: Handy Hindus
 images: ["fun.handyhindus.jpg","fun.handyhindus2.jpg","fun.handyhindus3.jpg","fun.handyhindus4.jpg","fun.handyhindus5.jpg"]
 size:
 ---
@@ -20,45 +19,33 @@ Tiny and fun latex finger puppets of Hindu Dieties in this order: Kali, Ganesh, 
 
 
 ---
-title: Red *Wheel barrow
+title: Red wheelbarrow
 images: ["fun.wheelbarrow.jpg"]
 size:
 ---
 Perhaps the best known poem of the American poet William Carlos Williams is “The Red Wheelbarrow.” Among other meanings, the poem speaks of the imperative of recognizing extraordinary elegance and beauty in the simplicity of everyday life. “So much depends” on the ability to do just that. The poem says:
 
+> So much depends
+> Upon a red wheel-barrow
+> Glazed with rain-water
+> Beside the white chickens.
 
 
-so much depends*upon
-
-
-
-a red wheel*barrow
-
-
-
-glazed with rain*water
-
-
-
-beside the white*chickens.
-
-
-
-http://en..org/wiki/Red_Wheelbarrow
+[Wikipedia: Red Wheelbarrow](http://en.wikipedia.org/wiki/Red_Wheelbarrow)
 
 
 ---
-title: quasimodo
+title: Quasimodo
 images: ["fun.quasimodo.jpg","fun.quasimodo2.jpg"]
 size:
 ---
-Quasimodo is a fictional character from Victor Hugo’s novel The Hunchback of Notre Dame. The word means “almost like” or “partly made.” It was a name given to a hunchback stone carver who lived in the bell tower of Notre Dame Cathedral because he was considered less than (almost or partly) in the mode or form of a human. Because in the novel Quasimodo’s imperfections as well as passions – especially for the character of the beautiful Esmeralda – are visible for all to see, he is a symbol of rebellion against shallowness, superficiality, and self-centeredness personified by the handsome Captain Phoebus. The small image of Quasimodo displayed here was purchased at the Notre Dame Cathedral in Paris, France, in 2004.
+Quasimodo is a fictional character from Victor Hugo’s novel *The Hunchback of Notre Dame*. The word means “almost like” or “partly made.” It was a name given to a hunchback stone carver who lived in the bell tower of Notre Dame Cathedral because he was considered less than (almost or partly) in the mode or form of a human. Because in the novel Quasimodo’s imperfections as well as passions – especially for the character of the beautiful Esmeralda – are visible for all to see, he is a symbol of rebellion against shallowness, superficiality, and self-centeredness personified by the handsome Captain Phoebus. The small image of Quasimodo displayed here was purchased at the Notre Dame Cathedral in Paris, France, in 2004.
 
-http://en.wikipedia.org/wiki/Quasimodo
+[Wikipedia: Quasimodo](http://en.wikipedia.org/wiki/Quasimodo)
 
 
 ---
-title: gods goblet
+title: Gods goblet
 images: ["fun.godsgoblet.jpg","fun.godsgoblet2.jpg","fun.godsgoblet3.jpg"]
 size:
 ---
@@ -72,11 +59,11 @@ size:
 ---
 Elton Trueblood (1900-1994) was a noted American Quaker author, theologian, and chaplain at Harvard and Stanford universities. In a media interview near the end of his life, Trueblood was asked how he would summarize his long career. After a moment’s thought he replied, “and.” When asked to clarify, he explained that life is a series of events, thoughts, understandings, and acts that move us along a series of situations and circumstances toward its eventual end. Sometimes one thinks a particular way, does a particular thing…and…then one thinks a new way and does a new thing. Therefore, Trueblood explained, life is this …and… that …and… something else. Life may be described as “…and…” The small wooded “…and…” displayed here was a gift created especially for Encounter inspired by Elton Trueblood’s portrayal of life.
 
-http://en.wikipedia.org/wiki/Elton_Trueblood
+[Wikipedia: Elton Trueblood](http://en.wikipedia.org/wiki/Elton_Trueblood)
 
 
 ---
-title: answers jar
+title: Answers jar
 images: ["fun.answersjar.jpg"]
 size:
 ---
@@ -124,7 +111,7 @@ Four (Other) Noble Truths: I do not know. I will not know. I can not know. I mus
 
 
 
-http://en.wikipedia.org/wiki/Question#Origins_of_questioning_behavior
+[Wikipedia: Origins of questioning behavior](http://en.wikipedia.org/wiki/Question#Origins_of_questioning_behavior)
 
 
 ---
@@ -133,11 +120,11 @@ size:
 ---
 Hotei – sometimes called the Fat Buddha, the Happy Buddha, or the Laughing Buddha – has been paired with a tummy-touching twin to hold letters and papers on a desk.
 
-http://www.acquiremag.com/life/office/buddha-desk-organizer.php
+[Buddha desk organizer at Acquire magazine](http://www.acquiremag.com/life/office/buddha-desk-organizer.php)
 
 
 ---
-title: buddha Art cube
+title: Buddha art cube
 images: ["fun.buddhacube.jpg","fun.buddhacube2.jpg","fun.buddhacube3.jpg","fun.buddhacube4.jpg","fun.buddhacube5.jpg"]
 size:
 ---
@@ -145,7 +132,7 @@ Opening the art cube is different combinations reveals representations of nine a
 
 
 ---
-title: thunder maker
+title: Thunder maker
 images: ["fun.thundermaker.jpg"]
 size:
 ---
@@ -163,17 +150,17 @@ This same thing does the Divine Voice of thunder, repeat: Da! Da! Da! That is, c
 
 
 ---
-title: three wise buddhas
+title: Three wise Buddhas
 images: ["fun.threewisebuddhas.jpg"]
 size:
 ---
 The three small figures of Hotei or Maitreya Buddha displayed here are in the classic “three wise monkeys postures” of Hear No Evil, See No Evil, Speak No Evil.
 
-http://en.wikipedia.org/wiki/Three_wise_monkeys
+[Wikipedia: Three wise monkeys](http://en.wikipedia.org/wiki/Three_wise_monkeys)
 
 
 ---
-title: i. t. Ganesh guy
+title: I.T. Ganesh
 images: ["fun.itganesh.jpg"]
 size:
 ---
@@ -181,7 +168,7 @@ size:
 
 
 ---
-title: beanie buddha
+title: Beanie Buddha
 images: ["fun.beaniebuddha.jpg"]
 size:
 ---
@@ -189,7 +176,7 @@ size:
 
 
 ---
-title: testamints
+title: Testamints
 images: ["fun.testamints.jpg"]
 size:
 ---
@@ -205,7 +192,7 @@ size:
 
 
 ---
-title: enlightenmints
+title: Enlightenmints
 images: ["fun.enlightenmints.jpg"]
 size:
 ---
@@ -213,7 +200,7 @@ size:
 
 
 ---
-title: last supper after dinner mints
+title: Last Supper after dinner mints
 images: ["fun.dinnermints.jpg"]
 size:
 ---
@@ -221,7 +208,7 @@ size:
 
 
 ---
-title: nesting buddha dolls
+title: Nesting Buddha dolls
 images: ["fun.buddhanestingdolls.jpg","fun.buddhanestingdolls2.jpg","fun.buddhanestingdolls3.jpg","fun.buddhanestingdolls4.jpg","fun.buddhanestingdolls5.jpg","fun.buddhanestingdolls6.jpg","fun.buddhanestingdolls7.jpg"]
 size:
 ---
@@ -237,7 +224,7 @@ Soap Pope on a rope is of John Paul II.
 
 
 ---
-title: Mary Paper Doll
+title: Mary paper doll
 images: ["fun.marypaperdoll.jpg"]
 size:
 ---
@@ -245,7 +232,7 @@ Mix and Match Virgin Mary with baby Jesus. Fridge magnet.
 
 
 ---
-title: Jesus Finger Puppet
+title: Jesus finger puppet
 images: ["fun.jesusfingerpuppet.jpg"]
 size:
 ---
@@ -253,23 +240,23 @@ size:
 
 
 ---
-title: Jesus Action Figure
+title: Jesus action figure
 images: ["fun.jesusactionfigure.jpg"]
 size:
 ---
-With gliding action
+With gliding action.
 
 
 ---
-title: Jesus Bandages
+title: Jesus bandages
 images: ["fun.jesusbandages.jpg"]
 size:
 ---
-With free toy
+With free toy.
 
 
 ---
-title: Sweet Jesus Pen
+title: Sweet Jesus pen
 images: ["fun.jesuspen.jpg","fun.jesuspen2.jpg"]
 size:
 ---
@@ -277,7 +264,7 @@ size:
 
 
 ---
-title: Bobble Head Jesus
+title: Bobblehead Jesus
 images: ["fun.bobbleheadjesus.jpg"]
 size:
 ---
@@ -289,7 +276,7 @@ title: Dashboard Jesus
 images: ["fun.dashboardjesus.jpg","fun.dashboardjesus2.jpg"]
 size:
 ---
-Enlightenment on a spring
+Enlightenment on a spring.
 
 
 ---
@@ -297,11 +284,11 @@ title: Magic Eight Ball Jesus
 images: ["fun.eightballjesus.jpg","fun.eightballjesus2.jpg"]
 size:
 ---
-Answer window on base. Answer Me Jesus
+Answer window on base. Answer Me Jesus.
 
 
 ---
-title: Jesus Doll
+title: Jesus doll
 images: ["fun.jesusdoll.jpg","fun.jesusdoll2.jpg","fun.jesusdoll3.jpg"]
 size:
 ---
@@ -321,11 +308,11 @@ title: Glow-in-the-dark Mary
 images: ["fun.glowinthedarkmary.jpg","fun.glowinthedarkmary2.jpg"]
 size:
 ---
-Our Lady of Guadalupe figure
+Our Lady of Guadalupe figure.
 
 
 ---
-title: Easter Island Tissue Holder
+title: Easter Island tissue holder
 images: ["fun.easterislandtissueholder.jpg"]
 size:
 ---
@@ -366,6 +353,7 @@ From Israel
 ---
 title: Rabbi with shofar
 images: ["fun.rabbiwithshofar.jpg"]
+origin: Jerusalem
 size:
 ---
 Hand made clay figure from Jerusalem
@@ -412,7 +400,7 @@ size:
 
 
 ---
-title: catholic priest
+title: Catholic priest
 images: ["fun.priest.jpg","fun.priest2.jpg"]
 size:
 ---

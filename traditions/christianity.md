@@ -166,7 +166,7 @@ title: Septuaginta
 images: ["chr.septuagint.jpg","chr.septuagint2.jpg"]
 size:
 ---
-Septuagint literally means 70 and, therefore, is sometimes simply referred to as LXX. The title refers to the legend that 70 (or 72) scholars were asked by King Ptolemy II of Egypt in the third century bce to translate the Torah into Greek. Working in separate rooms for 72 days, each scholar produced identical translations, considered to be proof of divine guidance and veracity of their work. Displayed here are two volumes of the 1943 printing edited by Alfred Rahlfs (1865-1935). The title reads: Septuaginta: Id Est Vetus Testamentum Graece Iuxta LXX Interpretes  meaning “Septuagint: This is the Old Testament in Greek According to Seventy Translators”.
+Septuagint literally means 70 and, therefore, is sometimes simply referred to as LXX. The title refers to the legend that 70 (or 72) scholars were asked by King Ptolemy II of Egypt in the third century BCE to translate the Torah into Greek. Working in separate rooms for 72 days, each scholar produced identical translations, considered to be proof of divine guidance and veracity of their work. Displayed here are two volumes of the 1943 printing edited by Alfred Rahlfs (1865-1935). The title reads: Septuaginta: Id Est Vetus Testamentum Graece Iuxta LXX Interpretes  meaning “Septuagint: This is the Old Testament in Greek According to Seventy Translators”.
 
 [Wikipedia: Septuagint](http://en.wikipedia.org/wiki/Septuagint)
 

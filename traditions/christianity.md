@@ -1,131 +1,87 @@
-Top-level description of christianity
+Top-level description of Christianity.
 
 ---
-title: 1666 THEOLOGY TEXTBOOK
+title: 1666 Theology Textbook
 images: ["chr.1666book.jpg"]
+date: 1666
+origin: Europe
 size:
 ---
-IDEA THEOLOGIÆ MORALIS (Idea of Moral Theology ) was written by Peter of St. Joseph (1594-1662) and published in 1666, four years after his death. The book, written in Latin, was used as a text by theology students in the 17th century. The book address four theological topics:
-
-
-
-
-
-
-
-
-
-
-
-
-
+*IDEA THEOLOGIÆ MORALIS* (Idea of Moral Theology ) was written by Peter of St. Joseph (1594-1662) and published in 1666, four years after his death. The book, written in Latin, was used as a text by theology students in the 17th century. The book address four theological topics:
 
 1. Five Types of Law: Divine, Rational, Eternal, Natural, and Human
-
-
-
-
 2. Effects of Internal and External Sins
-
-
-
-
 3. Effects of Virtues
-
-
-
-
 4. Responsibilities of the Faithful
 
-
-
-
-The text is reported to be the earliest book to cite Thomas Aquinas’ Summa Theologica as a source.
-
-
-
-
-
-
-Date: 1666
-
+The text is reported to be the earliest book to cite Thomas Aquinas’ *Summa Theologica* as a source.
 
 ---
-title: BYZANTINE COIN
+title: Byzantine coin
 images: ["chr.byzcoin.jpg","chr.byzcoin2.jpg"]
+date: ca. 969-976 CE
+origin: Byzantine Empire
 size:
 ---
 Bronze coin showing an image of Christ known as the Pantocrator (Almighty) with nimbus (halo), ecclesiastical cloak, holding the Gospels and the letters IC, abbreviation for Jesus, to the left and XC, abbreviation for Christ, to the right. The reverse side shows a Cross on a trinity of steps. In the quadrants of the Cross are IC  XC  BAS ILE  BAS ILE meaning Jesus Christ King of Kings.
 
-Date: ca 969-976 CE
-
-Origin: Byzantine Empire
-
-http://en..org/wiki/Byzantine_Empire
+[Wikipedia: Byzantine Empire](http://en.wikipedia.org/wiki/Byzantine_Empire)
 
 
 ---
-title: CRUSADER’S RING
+title: Crusader’s ring
 images: ["chr.ring.jpg","chr.ring2.jpg","chr.ring3.jpg","chr.rosaryring.jpg","chr.rosaryring2.jpg"]
+date: ca. 1095-1291 CE
+origin: Holy Roman Empire/France; Holy Land
 size:
 ---
 Bronze scalloped oval ring once worn by an invading Crusader to restore Christian control of the Holy Land from the Muslims. Crusaders’ rings often displayed a crucifix or other Christian symbol. The top plate of this ring has been deliberately defaced with a file to remove the image. Such defacement by the Saracens (Muslims) of rings and other ornaments of captured or killed Crusaders was common. Score marks of the file are visible.
 
-Date: ca. 1095-1291
 
-Origin: Holy Roman Empire/France; Holy Land
-
-http://en..org/wiki/Crusades
+[Wikipedia: Crusades](http://en.wikipedia.org/wiki/Crusades)
 
 
 ---
-title: mennonite woman’s dress, prayer cap and bonnet
+title: Mennonite woman’s dress, prayer cap and bonnet
 images: ["chr.mennonitedress.jpg","chr.mennonitedress2.jpg","chr.mennonitedress3.jpg","chr.mennonitedress4.jpg","chr.mennonitedress5.jpg"]
+origin: St. Jacobs, Ontario, Canada
+date: Modern
 size:
 ---
 Old Order Mennonites are known for simple living and plain dress. Typical of modest Old Order Mennonite apparel, this exhibit displays a woman’s black dress. The white prayer cap may worn by itself in casual settings or under a black bonnet for more formal occasions. All three pieces are, of course, handmade.
 
-Origin: St. Jacobs, Ontario, Canada
+[Wikipedia: Mennonite](http://en.wikipedia.org/wiki/Mennonite)
 
-http://en..org/wiki/Mennonite
-
-http://en..org/wiki/Menno_Simons
+[Wikipedia: Menno Simons](http://en.wikipedia.org/wiki/Menno_Simons)
 
 
 ---
-title: MITES 
-(coins)
+title: Mites (coins)
 images: ["chr.mitecoin.jpg","chr.mitecoin2.jpg"]
+origin: Judea, Roman Empire
+date: ca. 1st century BCE to 1st century CE
 size:
 ---
 In ancient Judea, the smallest denomination of Roman copper coins were called mites. These copper coins are  mentioned in the parable of the widow’s mite (Mark 12:42-44 and Luke 21:2-4). “A poor widow came and put in two small copper coins (mites), which are worth a penny. Then he (Jesus) called his disciples and said to them, ‘Truly I tell you, this poor widow has put in more than all those who are contributing to the treasury. For all of them have contributed out of their abundance, but she out of her poverty has put in everything she had, all she had to live on.’” (Mark 12:42-44 NRSV)
 
-Date: ca 1st cent. BCE to 1st cent. CE
-
-Origin: Judea, Roman Empire
-
-http://en..org/wiki/Widow%27s_mite
+[Wikipedia: Widow's mite](http://en.wikipedia.org/wiki/Widow%27s_mite)
 
 
 ---
-title: RELIC 
-OF THE
-
-TRUE CROSS
+title: Relic of the True Cross
 images: ["chr.truecross.jpg","chr.truecross2.jpg"]
+date: 1st century CE
+origin: Jerusalem
 size:
 ---
 In the year 326, Emperor Constantine sent his mother, Helena, to Jerusalem to identify objects and sites sacred to Christianity. Many of her identified sites are still visited today (e.g. Church of the Nativity, Church of the Holy Sepulchre, etc.) The most famous of her identifications are the True Cross of Jesus and other items associated with the crucifixion. Fragments of the Cross were widely distributed. St. John Chrysostom (349–407) wrote that tiny fragments of the True Cross were kept in small golden reliquaries, “which men reverently wear upon their persons.” Enclosed in the centre of this small golden reliquary are two tiny slivers of what St. Helena identified as the True Cross of Jesus. The reverse of the ornament has the crossed red threads and wax seal of Vatican authentication.
 
-Date: 1st cent. CE
 
-Origin: Jerusalem
-
-http://en..org/wiki/True_Cross
+[Wikipedia: True Cross](http://en.wikipedia.org/wiki/True_Cross)
 
 
 ---
-title: timbrel or tambourine
+title: Timbrel or tambourine
 size:
 ---
 Founded in 1865 by William Booth and his wife Catherine in London, UK, the Salvation Army is know for its social ministry to the homeless, destitute, addicts, alcoholics, and victims of various natural disasters. It is also known for its singing of Christmas carols and other hymns on street corners. One of the primary instruments of the Salvation Army Band is the timbrel or tambourine. The crest and ribbons on the timbrel signifies the following:
@@ -146,66 +102,59 @@ The dots are the truth of the Gospel (number of dots not important and may vary)
 
 The blue, red, and yellow ribbons are the Trinity (Father, Son and Spirit respectively).
 
-http://en..org/wiki/Salvation_Army
+[Wikipedia: Salvation Army](http://en.wikipedia.org/wiki/Salvation_Army)
 
-http://en..org/wiki/Timbrel
+[Wikipedia: Timbrel](http://en.wikipedia.org/wiki/Timbrel)
 
 
 ---
-title: celtic cross
+title: Celtic cross
 images: ["chr.celticcross.jpg","chr.celticcross2.jpg","chr.celticcross3.jpg"]
 size:
 ---
 The Celtic Cross is a symbol the combines a Cross with a circle at the intersection of the arms. Usually some interlacing design or spirals are part of the Cross’s decoration. The Crosses are particularly found in Ireland and British Isles. The tradition of erecting Celtic Crosses was especially popular in the 700s. Some legends claim Celtic Crosses were introduced by St. Patrick.
 
-http://en..org/wiki/Celtic_cross
+[Wikipedia: Celtic cross](http://en.wikipedia.org/wiki/Celtic_cross)
 
 
 ---
-title: catholic altar 
-(miniature)
+title: Catholic altar (miniature)
 images: ["chr.minialtar.jpg","chr.minialtar2.jpg"]
 size:
 ---
 Displayed here is small, plastic representation of a Catholic altar similar to the appearance altars prior to the Second Vatican Council when the priest officiated with his back to the congregation and faced the altar with them. After Vatican II the priest stood behind the altar facing the congregation. This small altar shows God the Father at the top. Behind his head is a triangle for the Trinity. God’s right hand is raised in blessing. His left hand holds a orb, symbol of universal power. Along the top are depictions of four saints. Below God the Father is the crucified Christ. Flanking the crucifix are the archangels Michael and Gabriel. Below the crucifix is a small tabernacle with a door that opens in which may be placed a small chalice. Below the altar table is a relief of the Last Supper. Two candles sit in front.
 
-http://en..org/wiki/Altar
+[Wikipedia: Altar](http://en.wikipedia.org/wiki/Altar)
 
-http://en..org/wiki/Vatican_II
+[Wikipedia: Vatican II](http://en.wikipedia.org/wiki/Vatican_II)
 
 
 ---
-title: St. Anne with 
-St. Mary
-
-(statue)
+title: St. Anne with St. Mary (statue)
 images: ["chr.annemarystatue.jpg"]
 size:
 ---
 St. Anne was the mother of St. Mary, the mother of Jesus. Mary’s father was St. Joachim. Although there is no evidence that Mary could read, she is often shown holding a book to symbolize that she was an intelligent woman. Many people mistakenly think the Immaculate Conception has to do with Mary’s conception of Jesus. Actually the doctrine of Immaculate Conception, which was formalized as Catholic doctrine in 1858 by Pope Pius IX, has to do with Anne’s conception of Mary. Because Mary was conceived immaculately, Jesus was born without sin, thus breaking the Christian notion of the succession of Original Sin. In Christian belief, therefore, the Immaculate Conception of Anne with Mary made sinless Jesus worthy to bring out the redemption of sinful humanity.
 
-http://en..org/wiki/St._Anne
+[Wikipedia: St. Anne](http://en.wikipedia.org/wiki/St._Anne)
 
-http://en..org/wiki/Immaculate_Conception
+[Wikipedia: Immaculate Conception](http://en.wikipedia.org/wiki/Immaculate_Conception)
 
 
 ---
-title: St. Anne with 
-St. Mary
-
-(picture)
+title: St. Anne with St. Mary (picture)
 images: ["chr.annemarypic.jpg","chr.annemarypic2.jpg"]
 size:
 ---
 St. Anne was the mother of St. Mary, the mother of Jesus. Mary’s father was St. Joachim. Although there is no evidence that Mary could read, she is often shown holding a book to symbolize that she was an intelligent woman. Many people mistakenly think the Immaculate Conception has to do with Mary’s conception of Jesus. Actually the doctrine of Immaculate Conception, which was formalized as Catholic doctrine in 1858 by Pope Pius IX, has to do with Anne’s conception of Mary. Because Mary was conceived immaculately, Jesus was born without sin, thus breaking the Christian notion of the succession of Original Sin. In Christian belief, therefore, the Immaculate Conception of Anne with Mary made sinless Jesus worthy to bring out the redemption of sinful humanity. Although Mary and her family were peasants, in the picture Anne and Mary are shown wearing rich robes and crowns indicating their high status in the Christian story.
 
-http://en..org/wiki/St._Anne
+[Wikipedia: St. Anne](http://en.wikipedia.org/wiki/St._Anne)
 
-http://en..org/wiki/Immaculate_Conception
+[Wikipedia: Immaculate Conception](http://en.wikipedia.org/wiki/Immaculate_Conception)
 
 
 ---
-title: yogic Christ
+title: Yogic Christ
 images: ["chr.yogicchrist.jpg"]
 size:
 ---
@@ -213,47 +162,48 @@ Though there is no evidence, a popular legend suggests that the “lost years”
 
 
 ---
-title: septuaginta
+title: Septuaginta
 images: ["chr.septuagint.jpg","chr.septuagint2.jpg"]
 size:
 ---
 Septuagint literally means 70 and, therefore, is sometimes simply referred to as LXX. The title refers to the legend that 70 (or 72) scholars were asked by King Ptolemy II of Egypt in the third century bce to translate the Torah into Greek. Working in separate rooms for 72 days, each scholar produced identical translations, considered to be proof of divine guidance and veracity of their work. Displayed here are two volumes of the 1943 printing edited by Alfred Rahlfs (1865-1935). The title reads: Septuaginta: Id Est Vetus Testamentum Graece Iuxta LXX Interpretes  meaning “Septuagint: This is the Old Testament in Greek According to Seventy Translators”.
 
-http://en.wikipedia.org/wiki/Septuagint
+[Wikipedia: Septuagint](http://en.wikipedia.org/wiki/Septuagint)
 
 
 ---
-title: chinese Jesus
+title: Chinese Jesus
 images: ["chr.chinesejesus.jpg"]
+origin: Chinatown, Toronto, Canada
 size:
 ---
 Displayed here is a wooden hand carved image of Jesus purchased in Toronto’s China Town. What is unique about this piece is Jesus’ distinctive Chinese features. Jesus’ right hand is in the traditional Christian symbol of blessing by a priest: thumb, index finger and third finger raised representing the Trinity; the small and ring fingers down representing the two nature of Christ (human and divine). On the heart of Jesus are five dots, perhaps representing the five wounds of Christ (hands, feet, side) or the traditional five Chinese blessings (longevity, riches, health, virtue, and natural death). Jesus’ robes are gold and burgundy, traditional colours of Buddhist monks’ robes. In Buddhism, gold represents wisdom; burgundy represents compassion. The pedestal upon which Jesus stands shows stylized pine trees as traditionally portrayed in Chinese art. Because pine trees continue through both favourable and austere weather conditions and seasons, they are often associated in Chinese art with longevity (eternal life) and sages and great teachers whose discipline and perseverance transcend all circumstance.
 
-http://en.wikipedia.org/wiki/Chinatown,_Toronto
+[Wikipedia: Chinatown, Toronto](http://en.wikipedia.org/wiki/Chinatown,_Toronto)
 
 
 ---
-title: virgin mary plaque
+title: Virgin Mary plaque
 images: ["chr.maryivoryplaque.jpg"]
 size:
 ---
 The 2.5 X 4.5 inch plaque displayed here is known as The Virgin in Glory. Mary holds the child Jesus in the curve of her left arm while above an angel reaches from heaven with the crown of Mary’s coronation as Queen of Heaven. Candle bearing angels flank each side of the scene. The figures stand beneath a trefoil arch symbolic of the Trinity. The original, probably from France (circa 1350-80), is ivory and is part of a hinged diptych (two panel picture). The second panel is the crucifixion. The artist makes liberal use of curves (turn of the head, arms, wrist, hips, legs, folds of the robes) giving the scene extraordinary fluidity and grace. The faux ivory reproduction shown was purchased at the Louvre Museum in Paris, France, in 2004.
 
-http://en.wikipedia.org/wiki/Virgin_Mary
+[Wikipedia: Virgin Mary](http://en.wikipedia.org/wiki/Virgin_Mary)
 
 
 ---
-title: sacred heart of Jesus
+title: Sacred Heart of Jesus
 images: ["chr.sacredheart.jpg"]
 size:
 ---
 The image of the Sacred Heart of Jesus is a symbol of Jesus’ love for humanity primarily used by Catholic, Anglican, and Lutheran Christians. As in the example displayed here, the heart of shows the heart flaming with divine love and encircled with thrones reminiscent of the crucifixion. Encounter’s statue of the Sacred Heart of Jesus was given by Scarboro Mission, a Catholic institution in Toronto, Ontario.
 
-http://en.wikipedia.org/wiki/Sacred_Heart
+[Wikipedia: Sacred Heart](http://en.wikipedia.org/wiki/Sacred_Heart)
 
 
 ---
-title: st. bruno
+title: St. Bruno
 images: ["chr.bruno.jpg"]
 size:
 ---
@@ -265,27 +215,25 @@ Labour – Physical, manual work represented by the sheaf of grain.
 
 Lectio Divina – Sacred reading and study represented by the stack of books.
 
-http://en.wikipedia.org/wiki/Bruno_of_Cologne
+[Wikipedia: Bruno of Cologne](http://en.wikipedia.org/wiki/Bruno_of_Cologne)
 
-http://en.wikipedia.org/wiki/Carthusian
+[Wikipedia: Carthusian](http://en.wikipedia.org/wiki/Carthusian)
 
 
 ---
-title: independence temple stones
+title: Independence temple stones
 images: ["chr.independencestones.jpg","chr.independencestones2.jpg"]
+origin: Independence, Missouri, USA
 size:
 ---
 The Community of Christ (formerly the Reorganized Church of Jesus Christ of Latter Day Saints) has its world headquarters in Independence, Missouri, USA. The Temple constructed during the first half of the 1990s is a worship, education, and office building “dedicated to the pursuit of peace” and is open to the public. The building’s design was inspired by the shape of a nautilus shell. The outer stone walls of the Temple are pink and gray granite. Displayed here are two sample stones given to Encounter during the construction of the Temple.
 
-http://en.wikipedia.org/wiki/Community_of_Christ_Temple
+[Wikipedia: Community of Christ Temple](http://en.wikipedia.org/wiki/Community_of_Christ_Temple)
 
 
 ---
-title: Pantocrator 
-
-
-Chr.pantocrator1.doc
-images: ["chr.pantocrator2.jpg"]
+title: Pantocrator
+images: ["chr.pantocrator.jpg", "chr.pantocrator2.jpg"]
 size:
 ---
 The word Pantocrator is Greek for Almighty taken from Revelation 1:8 of the Christian scriptures: “‘I am the Alpha and the Omega,’ says the Lord God, ‘who is, and who was, and who is to come, the Almighty.’” Images known as The Pantocrator is a particular depiction of Jesus as rendered by Eastern Orthodox Christian artists. Among the characteristics of most Pantocrator images are the following:
@@ -308,12 +256,13 @@ Reverse perspective – objects such as the book are narrower in the front and w
 
 Symbolic colour of Jesus’ red tunic and blue cloak: red indicates divinity or spirit was closest to Jesus’ nature; blue indicates he took upon him the role or flesh of humanity.
 
-http://en.wikipedia.org/wiki/Pantocrator
+[Wikipedia: Pantocrator](http://en.wikipedia.org/wiki/Pantocrator)
 
 
 ---
-title: San damiano cross
+title: San Damiano cross
 images: ["chr.sandamianocross.jpg"]
+origin: Assisi, Italy (replica)
 size:
 ---
 The San Damiano Cross is reportedly the Cross that spoke to St. Francis of Assisi that began his mission. Among the distinctive features of the San Damiano Cross are the following:
@@ -328,39 +277,32 @@ Above Jesus’ head, he is seen entering the orb of heaven welcomed by angels an
 
 The original Cross hangs in the Basilica of Saint Clare in Assisi, Italy.
 
-http://en.wikipedia.org/wiki/San_Damiano_cross
+[Wikipedia: San Damiano cross](http://en.wikipedia.org/wiki/San_Damiano_cross)
 
 
 ---
-title: small triptych of Deisis
+title: Small triptych of Deisis
 images: ["chr.deisistriptych.jpg"]
 size:
 ---
 Triptych literally means three-fold. A triptych piece of art is one that opens into three panels. The miniature triptych displayed here is of The Deisis meaning The Prayer. The centre of all Deisis illustrations is Jesus, shown here as The Pantocrator (see cf.) To the right of Jesus in all Deisis illustrations is his mother, Mary. Above Mary’s head are letters representing the Greek abbreviation for Theotokos or Mother of God. The figure on the left of Jesus may vary among Deisis illustrations. Most popular, as is the case here, is John the Baptist. The triptych is shown both open and closed.
 
-http://en.wikipedia.org/wiki/Tryptich
+[Wikipedia: Tryptich](http://en.wikipedia.org/wiki/Tryptich)
 
 
 ---
-title: display of crucifixes
+title: Display of crucifixes
 images: ["chr.crucifixes.jpg"]
 size:
 ---
 Encounter has a number of crucifixes of various styles. Many have been given to the museum as gifts. Displayed is a sample of our crucifix collection.
 
-http://en.wikipedia.org/wiki/Crucifix
+[Wikipedia: Crucifix](http://en.wikipedia.org/wiki/Crucifix)
 
 
 ---
-title: holy water fonts 
-
-
-Chr.holywaterfont1.doc
-
-
-
-Chr.holywaterfont2.doc
-images: ["chr.holywaterfont3.jpg"]
+title: Holy water fonts
+images: ["chr.holywaterfont.jpg", "chr.holywaterfont2.jpg", "chr.holywaterfont3.jpg"]
 size:
 ---
 A holy water font or stoup is a small basin containing holy water at the sanctuary entrance of some Christian churches. With the exception of some Anglican and Orthodox churches, Protestant Christians (non-Catholic) generally do not use holy water fonts. The water is made “holy” by a pronounced blessing of a priest. Practitioners usually dip the index and third fingers in the water and make the sign of the Cross on their bodies (head, chest, shoulders). Holy water and sign of the Cross when entering a church recalls baptism, cleanses certain sins, and provides protection. Displayed here are three stoup or holy water fonts. All three show evidence of considerable use.
@@ -371,14 +313,15 @@ Stoup #2. The second stoup displayed is a ceramic wall mount font from Ireland i
 
 Stoup #3. The third stoup made of brass is also a wall mount. On the fount are two angels kneeling in adoration and grief before the crucified Jesus. At the top of the Cross is a banner with the letters INRI, an acronym representing the Latin inscription IESVS NAZARENVS REX IVDÆORVM (Iesus Nazarenus, Rex Iudaeorum) “Jesus of Nazareth, King of the Jews.”
 
-http://en.wikipedia.org/wiki/Holy_water
+[Wikipedia: Holy water](http://en.wikipedia.org/wiki/Holy_water)
 
-http://en.wikipedia.org/wiki/Holy_water_font
+[Wikipedia: Holy water font](http://en.wikipedia.org/wiki/Holy_water_font)
 
 
 ---
 title: Portable Viaticum altar
 images: ["chr.viaticum.jpg","chr.viaticum10.jpg","chr.viaticum2.jpg","chr.viaticum3.jpg","chr.viaticum4.jpg","chr.viaticum5.jpg","chr.viaticum6.jpg","chr.viaticum7.jpg","chr.viaticum8.jpg","chr.viaticum9.jpg"]
+date: 1912
 size:
 ---
 Viaticum is a term used by the Roman Catholic Church for administering the Eucharist (Communion or Last Supper) to a person who is dying. Originally the Latin word viaticum referred to provisions for travelling (via=way). Therefore, the Catholic rite of Viaticum literally provides for the passage of the dying from life on earth to life in heaven. The Viaticum set includes:
@@ -409,21 +352,21 @@ The 1912 portable Viaticum altar shown here is in a handmade oak case. On top is
 
 Date: 1912
 
-http://en.wikipedia.org/wiki/Viaticum
+[Wikipedia: Viaticum](http://en.wikipedia.org/wiki/Viaticum)
 
 
 ---
-title: greek orthodox vigil lamp
+title: Greek Orthodox vigil lamp
 images: ["chr.greekorthodoxvigillamp.jpg","chr.greekorthodoxvigillamp2.jpg","chr.greekorthodoxvigillamp3.jpg","chr.greekorthodoxvigillamp4.jpg"]
 size:
 ---
 Orthodox Christianity generally uses olive oil lamps to illumine icons rather than electric lamps. These lamps may be called sanctuary lamps, icon lamps or vigil lamps and may be either hanging or standing. Hanging lamps have three chains and standing lamps have three legs. The number three is symbolic of the Trinity. Reservoir three-fourths filled with water and one-fourth with olive oil. The oil floats on the water and a wicked cork is floated on the oil. Orthodox Christianity uses only pure olive oil because of its symbolism and association with the Christian scripture. Oil flames give a softer, more golden, unflickering, steady glow than candle flames. Standing vigil lamps are particularly popular for use with home icons. Hanging vigil lamps are more popular to light icons in churches.
 
-http://orthodoxwiki.org/Vigil_lamp
+[More on vigil lamps](http://orthodoxwiki.org/Vigil_lamp)
 
 
 ---
-title: floating wicks
+title: Floating wicks
 images: ["chr.floatingwicks.jpg","chr.floatingwicks2.jpg","chr.floatingwicks3.jpg"]
 size:
 ---
@@ -431,19 +374,18 @@ A simple device employed by many religions using oil lamps. A beeswax wick is pl
 
 
 ---
-title: christ of the andes
+title: Christ of the Andes
 images: ["chr.christoftheandes.jpg"]
 size:
 ---
-Known in Brazil as Cristo Redendor in Portuguese (Christ the Redeemer in English) is a statue also known as Christ of the Andes. The 130 foot concrete and soapstone statue is the larges art deco image weighing nearly 700 tons. The arms span more than 98 feet. Built from 1922-1931, the statue sits high above the city of Rio de Janeiro, Brazil.
+Known in Brazil as *Cristo Redendor* in Portuguese (*Christ the Redeemer* in English) is a statue also known as Christ of the Andes. The 130 foot concrete and soapstone statue is the largest art deco image, weighing nearly 700 tons. The arms span more than 98 feet. Built from 1922-1931, the statue sits high above the city of Rio de Janeiro, Brazil.
 
 
-
-http://en.wikipedia.org/wiki/Christ_the_Redeemer_%28statue%29
+[Wikipedia: Christ the Redeemer (statue)](http://en.wikipedia.org/wiki/Christ_the_Redeemer_%28statue%29)
 
 
 ---
-title: votive handing lamp
+title: Votive handing lamp
 images: ["chr.handinglamp.jpg","chr.handinglamp2.jpg"]
 size:
 ---
@@ -451,7 +393,7 @@ size:
 
 
 ---
-title: icon of sancta familia
+title: Icon of Sancta Familia
 images: ["chr.santafamilia.jpg"]
 size:
 ---
@@ -459,7 +401,7 @@ size:
 
 
 ---
-title: orthodox censer
+title: Orthodox censer
 images: ["chr.orthodoxcenser.jpg","chr.orthodoxcenser2.jpg","chr.orthodoxcenser3.jpg","chr.orthodoxcenser4.jpg","chr.orthodoxcenser5.jpg","chr.orthodoxcenser6.jpg","chr.orthodoxcenser7.jpg","chr.orthodoxcenser8.jpg"]
 size:
 ---
@@ -467,7 +409,7 @@ size:
 
 
 ---
-title: chancel raining finials
+title: Chancel raining finials
 images: ["chr.chancelfinials.jpg","chr.chancelfinials2.jpg","chr.chancelfinials3.jpg"]
 size:
 ---
@@ -475,7 +417,7 @@ size:
 
 
 ---
-title: St. joseph statue
+title: St. Joseph statue
 images: ["chr.stjoseph.jpg"]
 size:
 ---
@@ -483,7 +425,7 @@ size:
 
 
 ---
-title: santa familia  icon
+title: Santa Familia icon
 images: ["chr.santafamilia.jpg"]
 size:
 ---
@@ -491,8 +433,9 @@ size:
 
 
 ---
-title: PILGRIM FLASK
+title: Pilgrim flask
 images: ["chr.monzaampullae.jpg"]
+origin: Palestine
 size:
 ---
 Small green bottle. Made in Palestine. Popular among European pilgrims to the Holy Land to bring back small vials of water from the Jordan River or Sea of Galilee or olive oil from Jerusalem.
@@ -501,6 +444,7 @@ Small green bottle. Made in Palestine. Popular among European pilgrims to the Ho
 ---
 title: Gargoyles
 images: ["chr.gargoyle.jpg","chr.gargoyle2.jpg","chr.gargoyle3.jpg"]
+origin: Paris, France
 size:
 ---
 Notre Dame Cathedral
@@ -515,7 +459,7 @@ Angel Michael and the devil. Putting out the evil eye.
 
 
 ---
-title: Coptic Crosses
+title: Coptic crosses
 images: ["chr.copticcrosses.jpg"]
 size:
 ---
@@ -531,22 +475,24 @@ Wool knotted and beads. Wool rosary hand knotted by Armenian Orthodox nuns in Je
 
 
 ---
-title: Greek Orthodox Crucifixion Cloth
+title: Greek Orthodox crucifixion cloth
+images: ["chr.greekcrucifixioncloth.jpg"]
 size:
 ---
 Embroidered on black cloth from Greece.
 
 
 ---
-title: Armenian Cross
+title: Armenian cross
 images: ["chr.armeniancross.jpg"]
+origin: Jerusalem
 size:
 ---
 Hand carved in olive wood from the Armenian Quarter in Old Jerusalem.
 
 
 ---
-title: Monk Bookends
+title: Monk bookends
 images: ["chr.monkbookends.jpg","chr.monkbookends2.jpg"]
 size:
 ---
@@ -554,7 +500,7 @@ Wooden bookends of scholar monks. Books are Eusebius History and Apostolic Fathe
 
 
 ---
-title: Pantocrator Church Triptych
+title: Pantocrator church triptych
 images: ["chr.pantocratorchurchtript.jpg"]
 size:
 ---
@@ -566,26 +512,28 @@ title: Papal Flag
 images: ["chr.papalflag.jpg"]
 size:
 ---
-Souvenir of Pope John Paul II’s visit to US
+Souvenir of Pope John Paul II’s visit to the USA.
 
 
 ---
-title: Mother Maddalane Relic
+title: Mother Maddalane relic
 images: ["chr.habitrelic.jpg","chr.habitrelic2.jpg"]
 size:
 ---
-Relic of Mother Maddalane’s habit
+Relic of Mother Maddalane’s habit.
 
 
 ---
-title: Coptic Cross Necklace
+title: Coptic cross necklace
+images: ["chr.copticcrossnecklass.jpg"]
+origin: Egypt
 size:
 ---
 Hand made Coptic cross leather necklace from Old Coptic Cairo, Egypt.
 
 
 ---
-title: Holy Water Vial
+title: Holy water vial
 images: ["chr.holywatervial.jpg","chr.holywatervial2.jpg","chr.holywatervial3.jpg","chr.holywatervial4.jpg","chr.holywatervial5.jpg","chr.holywatervial6.jpg"]
 size:
 ---
@@ -593,7 +541,7 @@ Scenes from the life of Jesus: birth and baptism
 
 
 ---
-title: Brass Image of Jesus of Blessing
+title: Brass image of Jesus of Blessing
 images: ["chr.brassjesusblessing.jpg"]
 size:
 ---
@@ -613,7 +561,7 @@ title: Jerusalem Cross
 images: ["chr.jerusalemcross.jpg"]
 size:
 ---
-Cross with the Five Wounds of Jesus (hand, feet, side
+Cross with the Five Wounds of Jesus (hands, feet, side).
 
 
 ---
@@ -633,17 +581,15 @@ Coptic prayer book. Open to the Orthodox Creed. Top of right page has English wo
 
 
 ---
-title: Prayer Kneeler
+title: Prayer kneeler
 images: ["chr.prayerkneeler.jpg","chr.prayerkneeler2.jpg","chr.prayerkneeler3.jpg"]
+date: Late 1800s CE
 size:
 ---
 From French Catholic Quebec. Had wicker bottom. Shelf for prayer book.
 
-Date: late 1800s
-
-
 ---
-title: Rosary Case
+title: Rosary case
 images: ["chr.rosarycase.jpg"]
 size:
 ---
@@ -653,6 +599,7 @@ Small case for holding a string of rosary prayer beads.
 ---
 title: Chartres Rose Window
 images: ["chr.chartreswindow.jpg"]
+origin: Chartres, France (model)
 size:
 ---
 Model of Rose Window from Chartres Cathedral.
@@ -667,25 +614,24 @@ Stone Jesus holding book
 
 
 ---
-title: Eucharist Bells
+title: Eucharist bells
 images: ["chr.eucharistbells.jpg","chr.eucharistbells2.jpg"]
+origin: Early 1900s CE
 size:
 ---
 Five bells rung at the blessing of bread and wine.
-
-Date: Early 1900s
-
 
 ---
 title: Jesus of the Ozarks
 images: ["chr.jesusoftheozarks.jpg"]
 size:
 ---
-Based on Jesus of the Andes
+Based on Jesus of the Andes.
 
 
 ---
 title: Infant of Prague
+images: ["chr.infantoprague.jpg"]
 size:
 ---
 Child Jesus
@@ -700,7 +646,7 @@ size:
 
 
 ---
-title: Holy Water Vial from Our Lady of the Snows
+title: Holy water vial from Our Lady of the Snows
 images: ["chr.vialladdyofthesnows.jpg","chr.vialladdyofthesnows2.jpg"]
 size:
 ---
@@ -708,23 +654,23 @@ size:
 
 
 ---
-title: Loaves and Fishes Plate
+title: Loaves and Fishes plate
 images: ["chr.loavesandfishesplate.jpg"]
+origin: Israel
 size:
 ---
 Loaves and fishes plate from Israel.
 
 
 ---
-title: Icon Vigil Lamp
+title: Icon vigil lamp
 images: ["chr.iconlamp.jpg"]
 size:
 ---
-Table top brass
-
+Table top brass vigil lamp.
 
 ---
-title: Rosary Ring with Box
+title: Rosary ring with box
 images: ["chr.rosaryring.jpg","chr.rosaryring2.jpg"]
 size:
 ---
@@ -732,7 +678,7 @@ Rosary ring with cross. Kept in a wooden box with sliding lid. Small eye piece h
 
 
 ---
-title: Small Icon of St. Paul
+title: Small icon of St. Paul
 images: ["chr.iconstpaul.jpg"]
 size:
 ---
@@ -740,27 +686,28 @@ size:
 
 
 ---
-title: Notre Dame Rose Window
+title: Notre Dame rose window
 images: ["chr.notredamerosewindow.jpg"]
+origin: Paris, France (model)
 size:
 ---
 Centre circle of rose window of Notre Dame.
 
 
 ---
-title: Nativity Church
+title: Nativity church
 images: ["chr.nativitychurch.jpg","chr.nativitychurch2.jpg"]
 size:
 ---
-Terra cotta church small nativity scene inside
+Terra cotta church, with small nativity scene inside.
 
 
 ---
-title: Brother Andre Souvenir Case
+title: Brother Andre souvenir case
 images: ["chr.brotherandre.jpg"]
 size:
 ---
-Blessed oil, bust of Brother Andre, model of St. Joseph’s Oratorio
+Blessed oil, bust of Brother Andre, model of St. Joseph’s Oratorio.
 
 
 ---
@@ -772,26 +719,27 @@ size:
 
 
 ---
-title: Greek Orthodox Incense
+title: Greek Orthodox incense
 size:
 ---
-pink
+Pink.
 
 
 ---
-title: Mary Triptych
+title: Mary triptych
 images: ["chr.marytriptych.jpg"]
+origin: Egypt
 size:
 ---
 From Hanging Church in Old Coptic Cairo, Egypt. Mary and Jesus in centre panel. Flight to Egypt on left panel. Jesus’ baptism on right panel.
 
 
 ---
-title: Wooden Monk Scholar
+title: Wooden monk scholar
 images: ["chr.kneelingmonkscholar.jpg","chr.monkscholar.jpg"]
 size:
 ---
-Tall wooden monk scholar holding book
+Tall wooden monk scholar holding book.
 
 
 ---
@@ -803,7 +751,7 @@ St. Euphrosynos the cook
 
 
 ---
-title: Madonna and Child Triptych
+title: Madonna and Child triptych
 images: ["chr.madonnachildtriptych.jpg"]
 size:
 ---
@@ -811,7 +759,7 @@ size:
 
 
 ---
-title: Adam and Eve Vase
+title: Adam and Eve vase
 images: ["chr.adamevevase.jpg"]
 size:
 ---
@@ -819,15 +767,16 @@ Clay vase
 
 
 ---
-title: Large Crucifix
+title: Large crucifix
 images: ["chr.largecrucifix.jpg","chr.largecrucifix2.jpg"]
+origin: Toronto, Canada
 size:
 ---
-From Scarboro Missions
+From Scarboro Missions.
 
 
 ---
-title: Cleric Shirt
+title: Cleric shirt
 images: ["chr.clericshirt.jpg"]
 size:
 ---
@@ -835,7 +784,7 @@ size:
 
 
 ---
-title: Christian Stole
+title: Christian stole
 images: ["chr.christianstole.jpg"]
 size:
 ---
@@ -843,11 +792,11 @@ size:
 
 
 ---
-title: Last Supper Icon
+title: Last Supper icon
 images: ["chr.lastsuppericon.jpg"]
 size:
 ---
-Painting
+Painting.
 
 
 ---
@@ -859,7 +808,7 @@ Holy water sprinkler
 
 
 ---
-title: Host Wafers
+title: Host wafers
 images: ["chr.hostwafers.jpg","chr.hostwafers2.jpg"]
 size:
 ---
@@ -867,7 +816,7 @@ size:
 
 
 ---
-title: St. Patrick Panel
+title: St. Patrick panel
 images: ["chr.stpatrickpanel.jpg"]
 size:
 ---
@@ -875,7 +824,7 @@ Carved wooden panel of St. Patrick. Snake beneath his feet.
 
 
 ---
-title: Our Lady of Sorrows Shrine
+title: Our Lady of Sorrows shrine
 images: ["chr.ladyofsorrowsshrine.jpg","chr.ladyofsorrowsshrine2.jpg"]
 size:
 ---
@@ -883,7 +832,7 @@ Greek Orthodox icon conventions. Votive candle.
 
 
 ---
-title: Cup of Water Sculpture
+title: Cup of water sculpture
 images: ["chr.cupofwater.jpg"]
 size:
 ---
@@ -891,15 +840,16 @@ Matthew 10:42 “and whoever gives even a cup of cold water to one of these litt
 
 
 ---
-title: Coptic Priest Figurine
+title: Coptic priest figurine
 images: ["chr.copticpriestfigurine.jpg","chr.copticpriestfigurine2.jpg"]
+origin: Egypt
 size:
 ---
 Clay figurine from Old Coptic Cairo, Egypt.
 
 
 ---
-title: Russian Easter Egg
+title: Russian Easter egg
 images: ["chr.russianeasteregg.jpg"]
 size:
 ---
@@ -907,11 +857,11 @@ Wooden egg. Hand painted Pantocrator.
 
 
 ---
-title: Kneeling Monk Scholar
+title: Kneeling monk scholar
 images: ["chr.kneelingmonkscholar.jpg"]
 size:
 ---
-Knelling monk praying holding prayer book
+Kneeling monk praying holding prayer book.
 
 
 ---
@@ -919,7 +869,7 @@ title: Standing Mary
 images: ["chr.standingmary.jpg"]
 size:
 ---
-Gift from Jim Poirier
+Gift from Jim Poirier.
 
 
 ---
@@ -927,11 +877,11 @@ title: Black Madonna of Montserrat
 images: ["chr.blackmadonnamontserrat.jpg"]
 size:
 ---
-From the monastery of Montserrat, Spain
+From the monastery of Montserrat, Spain.
 
 
 ---
-title: Mary Grotto
+title: Mary grotto
 images: ["chr.marygrotto.jpg"]
 size:
 ---
@@ -955,18 +905,19 @@ size:
 
 
 ---
-title: African Nativity
+title: African nativity
 images: ["chr.africannativity.jpg","chr.africannativity2.jpg"]
+origin: Nigeria
 size:
 ---
-Hand carved wood from Nigeria
+Hand carved wood from Nigeria.
 
 
 ---
-title: glass peace symbol
+title: Glass peace symbol
 size:
 ---
-Symbol of Community of Christ
+Symbol of Community of Christ.
 
 
 ---
@@ -974,7 +925,7 @@ title: Paperweight peace symbol
 images: ["chr.paperweightpeacesymbol.jpg"]
 size:
 ---
-Symbol of Community of Christ
+Symbol of Community of Christ.
 
 
 ---
@@ -998,7 +949,7 @@ title: Peace symbol bookends
 images: ["chr.peacesymbolbookends.jpg","chr.peacesymbolbookends2.jpg"]
 size:
 ---
-Holding The Church Through the Years
+Holding the Church Through the Years
 
 
 ---
@@ -1026,14 +977,14 @@ size:
 
 
 ---
-title: science and health with key to the scriptures
+title: Science and health with key to the scriptures
 size:
 ---
 Christian Science – Mary Baker Eddy
 
 
 ---
-title: the history of the reorganized church of Jesus christ of latter day saints
+title: The History of the Reorganized Church of Jesus Christ of Latter Day Saints
 images: ["chr.rldshistory.jpg","chr.rldshistory2.jpg"]
 size:
 ---
@@ -1041,7 +992,7 @@ size:
 
 
 ---
-title: memoirs of president joseph smith iii
+title: Memoirs of President Joseph Smith III
 images: ["chr.memoirsjs3.jpg"]
 size:
 ---
@@ -1065,15 +1016,15 @@ Pulpit made from a pew from Soho Street Church.
 
 
 ---
-title: tithing printing block
+title: Tithing printing block
 images: ["chr.tithingprintingblock.jpg"]
 size:
 ---
-Offering plate with envelops
+Offering plate with envelopes.
 
 
 ---
-title: celtic crucifix
+title: Celtic crucifix
 images: ["chr.celticcrucifix.jpg"]
 size:
 ---
@@ -1081,7 +1032,7 @@ With spirals on Jesus’ chest.
 
 
 ---
-title: coptic eye of god plaque
+title: Coptic Eye of God plaque
 images: ["chr.copticeyeofgod.jpg"]
 size:
 ---
@@ -1089,7 +1040,8 @@ Eye within triangle. Coptic blessing written below.
 
 
 ---
-title: transfiguration icon
+title: Transfiguration icon
+images: ["chr.transfigureationicon.jpg"]
 size:
 ---
 Icon showing Jesus` transfiguration experience with Elijah on left and Moses on right.

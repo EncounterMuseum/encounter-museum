@@ -1,17 +1,17 @@
-Top-level description of bahai
+Top-level description of Bahá'í.
 
 ---
 title: Yá Bahá'u'l-Abhá
 images: ["bah.bahaisymbol.jpg"]
 size:
 ---
-One of the symbols of the Baha’i faith is the Arabic phrase “Yá Bahá'u'l-Abhá” referring to the religion’s founder, the Bahá'u'lláh and is often translated as “O Thou the Glory of the Most Glorious.”
+One of the symbols of the Bahá'í faith is the Arabic phrase “Yá Bahá'u'l-Abhá” referring to the religion’s founder, the Bahá'u'lláh and is often translated as “O Thou the Glory of the Most Glorious.”
 
-http://en..org/wiki/Bah%C3%A1%27%C3%AD_symbols
+[Wikipedia: Bahá'í symbols](http://en.wikipedia.org/wiki/Bah%C3%A1%27%C3%AD_symbols)
 
-http://en..org/wiki/Bah%C3%A1%27u%27ll%C3%A1h
+[Wikipedia: Bahá'u'lláh](http://en.wikipedia.org/wiki/Bah%C3%A1%27u%27ll%C3%A1h)
 
-http://en..org/wiki/Bah%C3%A1%27%C3%AD_Faith
+[Wikipedia: Bahá'í Faith](http://en.wikipedia.org/wiki/Bah%C3%A1%27%C3%AD_Faith)
 
 
 ---

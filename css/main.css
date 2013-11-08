@@ -10,7 +10,7 @@ html {
 /* end hiding from IE5 mac */
 
 body { font:85% verdana,arial,tahoma,sans-serif; text-align:center; }
-p { margin:0 10px 8px }
+p { text-align: justify; }
 
 span.ewrc {color: #004e90; font-weight:bold}
 

@@ -44,15 +44,15 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
         $scope.globalIndex = index;
         $scope.index = index % $scope.entryLimit;
         $scope.page = Math.floor(index / $scope.entryLimit);
+        update($scope.globalIndex);
+      } else {
+        update(index);
       }
     } else {
       update(0);
     }
     $rootScope.title = $scope.content.title;
   });
-
-  $scope.gotoSlug = function(hash) {
-  };
 
   $scope.index = 0; // The index within the current page.
   $scope.page = 0;  // The current page of the filmstrip.

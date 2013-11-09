@@ -1,0 +1,12 @@
+Don't panic, there's nothing wrong with your screen, or this file. These are Vim macros for reformatting the Wikipedia links in the tradition descriptions, among other things. (That is, they make my editor do a dozen steps in half a second, saving me time and sanity.)
+
+In short, nothing to see here.
+
+(q: Wikipedia link with spaces)
+$F/ly$opV:s/_/ /gDki[Wikipedia: pa](/enct/en.wikipedia.orgA)jdd
+
+(w: Wikipedia link, one word)
+$F/ly$I[Wikipedia: pa](A)?en?httpellllct/en.wikipedia.org
+
+(e: fixing brackets)
+3s(f%3s)

@@ -1,13 +1,13 @@
 Top-level description of aboriginal
 
 ---
-title: Bison horn mask
+title: Bison Horn Mask
 images: ["abo.hornmask.jpg"]
 date: Unknown
 origin: Alberta, Canada
-size:
+size: 7.5 inches / 19 cm wide X 5.5 inches / 14 cm high
 ---
-Ceremonial masks are a significant element in Native American ritual. Great Lakes tribes often carved elaborate false face masks from tree trunks. Because large trees are not plentiful in the prairies, plains Indians fashioned masks from other available materials including bison (buffalo) horns. Horns were boiled until soft, split open, rolled flat, carved, then allowed to dry and harden.
+Ceremonial masks are a significant element in Native American / First Nations ritual. Great Lakes tribes often carved elaborate false face masks from tree trunks. Because large trees are not plentiful in the prairies, plains Indians fashioned masks from other available materials including bison (buffalo) horns. Horns were boiled until soft, split open, rolled flat, carved with eyes, nose, and mouth holes, then allowed to dry and harden.
 
 [Wikipedia: Blackfoot religion](http://en.wikipedia.org/wiki/Blackfoot_religion)
 
@@ -16,9 +16,9 @@ Ceremonial masks are a significant element in Native American ritual. Great Lake
 title: Bullroarer
 images: ["abo.bullroarer.jpg"]
 origin: Australia
-size:
+size: 15 inches / 13 cm propeller - 94 inches / 241 cm including the leather cord and handle
 ---
-The bullroarer is an ancient ritual musical instrument dating to the Paleolithic period, 17,000 bce. In ancient Greece it was a sacred instrument used in the mystery religions. In Australia, bullroarers accompanied didgeridoos in initiation ceremonies and burial rites to ward off evil spirits. Almost all Native tribes in North America used bullroarers in religious and healing ceremonies. Bullroarers were considered men's secret business by some cultures which women, children, non-initiated men and outsiders were forbidden to hear. Held by the handle and swung around the head, the spinning propeller’s deep humming sound represents the voice of the Sacred or of ancestors and announces the beginning of ceremonies. You may here the sound of the bullroarer by clicking the “Play” button.
+The bullroarer is an ancient ritual musical instrument dating to the Paleolithic period, 17,000 BCE. In ancient Greece it was a sacred instrument used in the mystery religions. In Australia, bullroarers accompanied didgeridoos in initiation ceremonies and burial rites to ward off evil spirits. Almost all Native tribes in North America used bullroarers in religious and healing ceremonies. Bullroarers were considered men's secret business by some cultures which women, children, non-initiated men and outsiders were forbidden to hear. Held by the handle and swung around the head, the spinning propeller’s deep humming sound represents the voice of the Sacred or of ancestors and announces the beginning of ceremonies.
 
 [Wikipedia: Bullroarer (music)](http://en.wikipedia.org/wiki/Bullroarer_%28music%29)
 
@@ -27,9 +27,9 @@ The bullroarer is an ancient ritual musical instrument dating to the Paleolithic
 title: Eshu
 images: ["abo.eshu.jpg","abo.eshu2.jpg"]
 origin: Nigeria, Africa
-size:
+size: 12 inches / 30 cm high
 ---
-Eshu is a trickster god of the Yoruba culture of Nigeria, Africa. He is often found at crossroads and at times of indecision. Eshu is often shown wearing a large hat. His role is to upset the equilibrium when individuals or societies become too staid, unadventurous, set in their ways or take things for granted. Legends about Eshu sometimes have him saying the phrase: “Spreading strife is my greatest joy.” Click here to hear a story about Eshu.
+Eshu is a trickster god of the Yoruba culture of Nigeria, West Africa. He is often found at crossroads and at times of decision making. Eshu is often shown wearing a large hat. His role is to upset the equilibrium when individuals or societies become too staid, unadventurous, set in their ways or take things for granted. Legends about Eshu sometimes have him saying the phrase: “Spreading strife is my greatest joy.” 
 
 [Wikipedia: Eshu](http://en.wikipedia.org/wiki/Eshu)
 
@@ -39,19 +39,19 @@ title: Koteka
 images: ["abo.koteka.jpg","abo.koteka2.jpg"]
 origin: Iatmul Tribe, New Guinea
 date: ca. late 1800s to early 1900s
-size:
+size: 8inches / 20 cm
 ---
 A koteka or phallocrypt is a gourd penis sheath traditionally worn by natives of some mainly highland ethnic tribes in New Guinea as a type of clothing. The style of koteka is characteristic of a given cultural group. Less elaborate sheaths are worn as everyday attire. More elaborate ones are for ceremonial and ritual use. This koteka is decorated with feathers and a totem face made from woven fibres.
 
 [Wikipedia: Koteka](http://en.wikipedia.org/wiki/Koteka)
 
 ---
-title: Native American gorget, or seer stone
+title: Native American Gorget or Seer Stone
 images: ["abo.gorget.jpg","abo.shellgorget.jpg"]
 origin: Tennessee, USA
-size:
+size: Small stone - 3.5 inches / 9 cm X 1.5 inches 4 cm. Large stone - 3.75 inches / 9.5 cm x 3 inches / 8 cm
 ---
-Displayed is a grey stone gorget (ornament or decoration) worn on a leather cord around the neck by Native Americans as a type of decoration or breastplate. During the 1800s these adornments were referred to as “peep stones” or “seer stones” by some non-Natives. A stone similar to this is featured in Latter-day Saint history as a tool used by Joseph Smith, Jr. to translate the Book of Mormon and receive revelations.
+Displayed is a grey stone gorget (ornament or decoration) worn on a leather cord around the neck by Native Americans as a type of decoration or breastplate. During the 1800s these adornments were referred to as “peep stones” or “seer stones” by some non-Natives who claimed revelations were received by looking (peeping) through the holes in the stone. A "peep stone" similar to this is featured in Latter-day Saint history as a tool used by Joseph Smith, Jr. to translate the Book of Mormon and receive revelations.
 
 [Wikipedia: Gorget](http://en.wikipedia.org/wiki/Gorget)
 
@@ -59,24 +59,24 @@ Displayed is a grey stone gorget (ornament or decoration) worn on a leather cord
 
 
 ---
-title: Tahitian marae stone
+title: Tahitian Marae Stone
 images: ["abo.tahitimarae.jpg"]
-date: pre-Christian Tahiti
+date: Pre-Christian Tahiti
 origin: Tahiti, French Polynesia
-size:
+size: Small stone - 2 inches / 5 cm. Large stone - 4.5 inches / 11 cm X 2.5 inches / 6.5 cm
 ---
-A marae is a sacred place serving both a religious and social purpose in ancient Polynesian societies. Most marae were destroyed or abandoned with the arrival of Christianity in the late 1800s and early 1900s. Stones such as this one used to construct the marae are still considered powerfully sacred and said to contain mana or spiritual energy of the impersonal force of the universe.
+A marae is a sacred place serving both religious and social purposes in ancient Polynesian societies. Most marae were destroyed or abandoned with the arrival of Christianity in the late 1800s and early 1900s. Stones such as this one used to construct the marae are still considered powerfully sacred and said to contain "mana" or spiritual energy of the cosmic, impersonal force of the universe.
 
 [Wikipedia: Marae](http://en.wikipedia.org/wiki/Marae)
 
 
 ---
-title: pachamama
+title: Pachamama
 images: ["abo.pachamama.jpg","abo.pachamama2.jpg","abo.pachamama3.jpg","abo.pachamama4.jpg"]
 origin: Peru
-size:
+size: 5 inches / 13 cm
 ---
-Pachamama or “World Mother” is a goddess of the indigenous people of the Andes. Incan mythology honours her as the goddess of fertility, planting and the harvest. The version of Pachamama displayed here is three-faced, reminiscent of the Triple Goddess (Maiden, Mother, Crone) of Neo-Paganism. Pachi Mama, Patchi-Mama or Pachamama is the Quechan or Inca word for “Mother Earth” or literally “our mother in space and time.” Most cultures have an Earth Mother concept and those of South America are no exception. But the word “Pachamama” goes beyond the name of a single Goddess, it encompasses a entire world view and way of life. It involves the belief that the Earth is a living being and the mother of all of Earth's life. In traditional societies, grown children were expected to take care of their parents and thus, it should be expected that we all care for Pachamama. Pachamama cares for her children as a mother cares for her young and does not turn away from them. If she fails to provide, it is because she is not well. In modern times, Pachamama is often associated with the Virgin Mary and the median between the polar opposites of Heaven and Hell, God and Satan in the blended Catholic and Native traditions of South America. Unfortunately, many Evangelical groups are still today working very hard to wipe Pachamama from their theology altogether. Images of Pachamama often have three heads, a turtle on her front, a frog on her back, and a snake around her legs. She is the Patron of las brujas (witches, herbalists, and traditional healers) of Bolivia. The growing season is associated with Pachamama, while the dry season or winter is associated with Pachatata. Appropriate offerings to Pachamama include corn and grains, bread, and sweet pastries as well as herding animals (llamas in Bolivia), but She is most pleased by those who live in accordance with Her ways.
+Pachamama (also Pachi Mama, Patchi-Mama) “World Mother” is a goddess of the indigenous people of the Andes. Incan mythology honours her as the goddess of fertility, planting, the growing season, and the harvest. The version of Pachamama displayed here is three-faced, reminiscent of the Triple Goddess (Maiden, Mother, Crone) of Neo-Paganism. Pachamama is the Quechan or Inca word for “Mother Earth” or literally “Our Mother in Space and Time.” Most cultures have an Earth Mother concept, and those of South America are no exception. But the word “Pachamama” goes beyond the name of a single goddess. It encompasses an entire world view and way of life. It involves the belief that the Earth is a living entity and the Mother of all Earth's life. In traditional societies, grown children were expected to take care of their parents, and, thus, it is expected that we all care for Pachamama as our Great Mother. Pachamama cares for her children as a mother cares for her young and does not turn away from them. If she fails to provide, it is because she is ill or has not be treated well. In the modern, blended Christian and Native traditions of South America, Pachamama is often associated with the Virgin Mary and the median between the opposites of Heaven and Hell, God and Satan, or good and evil. Unfortunately, Christian groups are working to remove Pachamama altogether. Images of Pachamama often have three heads, a turtle on her front, a frog on her back, and a snake around her legs. She is the patron of witches, herbalists, and traditional healers. Appropriate offerings to Pachamama include corn, grain, bread, and sweet pastries as well as herding animals (llamas such as llamas). But what pleases Pachamama most are those who live in accordance with Her ways and in balance and harmony with the earth.
 
 [Wikipedia: Pachamama](http://en.wikipedia.org/wiki/Pachamama)
 
@@ -85,7 +85,7 @@ Pachamama or “World Mother” is a goddess of the indigenous people of the And
 title: “Pretty lady” of Tlatilco
 images: ["abo.prettylady.jpg","abo.prettylady2.jpg"]
 origin: Tlatilco Valley, Mexico
-size:
+size: 9.5 inches / 24 cm high
 ---
 Many female terracotta figurines similar to the one displayed here have been excavated in the Tlatilco Valley  near Mexico City. They have been given the name “Pretty Ladies of Tlatilco.” Little is known about the function of these objects. They may have been related to women's fertility role. The figures are small breasted with narrow waists, stumpy arms and ample thighs, representing both young girls and mature women. Many are dual-faced, sharing a central eye. Some are naked while others wear short skirts and applied ornaments. The Tlatilco culture dates from about 1200-200 bce. The “Pretty Lady” displayed here is also a flute. Her headdress is the mouthpiece while her legs supply the finger holes.
 

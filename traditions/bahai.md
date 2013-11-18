@@ -5,7 +5,7 @@ title: Yá Bahá'u'l-Abhá
 images: ["bah.bahaisymbol.jpg"]
 size: 8 in./20 cm.
 ---
-One of the symbols of the Bahá'í faith is the Arabic phrase “Yá Bahá'u'l-Abhá” referring to the religion’s founder, the Bahá'u'lláh and is often translated as “O Thou the Glory of the Most Glorious.”
+One of the symbols of the Bahá'í faith is the Arabic phrase “Yá Bahá'u'l-Abhá” referring to the religion’s founder, the Bahá'u'lláh and is often translated as “O Thou the Glory of the Most Glorious.” Because the symbol is considered sacred, it is not used or displayed in a casual or purely ornamental way.
 
 [Wikipedia: Bahá'í symbols](http://en.wikipedia.org/wiki/Bah%C3%A1%27%C3%AD_symbols)
 
@@ -28,7 +28,7 @@ The book, divided into five parts, is a collection of writings called “tablets
 
 
 ---
-title: Prayers and Meditations by the Bahá'u'lláh
+title: Prayers and Meditations by Bahá'u'lláh
 size:
 ---
 

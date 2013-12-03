@@ -11,6 +11,9 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
     controller: 'tradition',
     templateUrl: 'views/tradition.html',
     reloadOnSearch: false
+  }).when('/contact', {
+    controller: 'contact',
+    templateUrl: 'views/contact.html'
   }).otherwise({
     redirectTo: '/'
   });
@@ -21,7 +24,7 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
     { slug: 'home',      name: 'Home',      link: '#!/' },
     { slug: 'gallery',   name: 'Galleries', link: '#!/gallery' },
     { slug: 'contact',   name: 'Contact',   link: '#!/contact' },
-    { slug: 'encounter', name: 'Encounter', link: 'http://encounterworldreligions.com' }
+    { slug: 'encounter', name: 'Encounter Centre', link: 'http://encounterworldreligions.com' }
   ];
   $rootScope.menuSelected = 'home';
 })
@@ -147,8 +150,10 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
       function update(event) {
         if(!enable) return;
         // We need to check the total size of the big image in the magnifier.
-        var relX = event.offsetX / elem[0].width;
-        var relY = event.offsetY / elem[0].height;
+        var x = event.offsetX || event.layerX - event.target.offsetLeft;
+        var y = event.offsetY || event.layerY - event.target.offsetTop;
+        var relX = x / elem[0].width;
+        var relY = y / elem[0].height;
         scope.magnify = {
           style: {
             position: 'absolute',

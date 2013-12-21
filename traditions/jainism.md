@@ -1,41 +1,39 @@
-Top-level description of jainism
+Top-level description of Jainism.
 
 ---
-title: JAIN SCRIPTURE PAGE
+title: Jain Scripture Page
 images: ["jai.page.jpg"]
+date: ca. 1800s
+origin: India
 size:
 ---
 Page from a handwritten copy of Jain scripture in Sanskrit. Text is written on both sides of the paper.
 
-Date: ca. 1800s
-
-Origin: India
-
-http://en..org/wiki/Jainism#Dev_Shastra_Guru_Puja_.28Prayer_for_Arihants.2FSiddhas.2C_Scriptures.2C_and_Teachers.29
+[Wikipedia: Jainism](http://en.wikipedia.org/wiki/Jainism#Literature)
 
 
 ---
-title: TIRTHANKARA
+title: Tirthankara
 images: ["jai.tirthankara.jpg"]
 size:
 ---
 In Jainism, a tirthankara is an individual who has attained enlightenment and achieved liberation. The word literally means “ford maker” or “river crosser.” A ford is a shallow part of a river that allows easy passage to the other side. A tirthankara is one who has found the way across ego and escaped the cycle of rebirth, becoming a saviour by example. The image here is of a siddha (liberated soul) who has so overcome ego and the material body that there’s no one there – thus the silhouetted empty space. The image is predominantly seen in shrines of the Digambara sect of Jainism which emphasizes liberation of the soul above all else.
 
-http://en..org/wiki/Tirthankara
+[Wikipedia: Tirthankara](http://en.wikipedia.org/wiki/Tirthankara)
 
 
 ---
-title: lord mahavira
+title: Lord Mahavira
 images: ["jai.mahavira.jpg"]
 size:
 ---
 Mahavira, meaning Great Hero, is a title ascribed to the Indian Saint Vardhamana (599-527 bce) considered the founder of the Jain religion. Images of him are sometimes shown naked indicating that he has overcome all attachments to possessions, including the attachment to shame.
 
-http://en..org/wiki/Mahavira
+[Wikipedia: Mahavira](http://en.wikipedia.org/wiki/Mahavira)
 
 
 ---
-title: queen Trishala’s fifteen dreams
+title: Queen Trishala’s Fifteen Dreams
 images: ["jai.trishaladreams.jpg"]
 size:
 ---
@@ -73,20 +71,20 @@ Queen Trishala is the mother of the Indian sage Vardhamana better knows as Mahav
 
 Sometimes there is an additional dream of Two Fish meaning the child will be extremely handsome.
 
-http://en.wikipedia.org/wiki/Trishala
+[Wikipedia: Trishala](http://en.wikipedia.org/wiki/Trishala)
 
 
 ---
-title: bahubali
+title: Bahubali
 size:
 ---
 According to Jainism, Bahubali is the second of one hundred sons of Rishabha, the 1st of 24 specially enlightened beings known as Tirthankaras. The 24th Tirthankara was Mahavir, founder of Jainism. In India the 55 foot statue of Bahubali is the largest monolithic statue in the world, visible from 30 km away. Images of Bahubali are shown standing and nude – standing because he attained enlightenment by standing so perfectly still that vines began growing over him – nude because, like many Jain saints, Bahubali renounced all possessions, including the possession of shame. A small lamp may be placed inside the four-side image of Bahubali displayed here allowing light to radiate around him.
 
-http://en.wikipedia.org/wiki/Bahubali
+[Wikipedia: Bahubali](http://en.wikipedia.org/wiki/Bahubali)
 
 
 ---
-title: jain pin symbol
+title: Jain pin symbol
 size:
 ---
 With om instead of swastika

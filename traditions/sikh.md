@@ -1,62 +1,40 @@
-Top-level description of sikh
+Top-level description of sikh.
 
 ---
-title: adi granth or 
-guru granth sahib
+title: Adi Granth or Guru Granth Sahib
 images: ["sik.granth.jpg.jpg","sik.granth2.jpg.jpg","sik.granthholder.jpg"]
+origin: New Delhi, India
 size:
 ---
 The Guru Granth Sahib or Adi Granth is the sacred book of the Sikhs. It is a collection of 1,430 hymns of the ten Sikh Gurus or spiritual teachers compiled 1469-1708. As testimony of Sikhism inclusive view of religion, the book also contains writing of Hindu and Muslim saints. Today the book is considered the living Guru of Sikhism in book form and treated as a human being having its own bed in every Sikh temple. Although the original language of the Granth is Gurmukhi (a particular script of Punjabi), the version shown here is an English translation. Unlike the Torah scrolls that are handwritten by a scribe, copies of the Granth are machine printed.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Origin: New Delhi, India
-
-http://en..org/wiki/Guru_Granth_Sahib
+[Wikipedia: Guru Granth Sahib](http://en.wikipedia.org/wiki/Guru_Granth_Sahib)
 
 
 ---
-title: EK ONKAR or IK ONKAR
+title: Ek Onkar or Ik Onkar
 images: ["sik.ekonkar.jpg","sik.ekonkar2.jpg","sik.ekonkar3.jpg","sik.ekonkar4.jpg"]
 size:
 ---
 Sikhism is a monotheistic (one God) religion founded by Guru Nanak in India in 1499. Ek Onkar, written as ੴ in Punjabi script, are the opening words of the Sikh scripture (Guru Granth Sahib) and mean God is One. The writing on the base of one display is Punjabi script reading ਸਤਿ ਨਾਮੁ Satnam (True Name) ਵਾਹਿਗੁਰੂ Waheguru (Wonderful Lord) or “The Wonderful Lord is the Name of Truth.”
 
-http://en..org/wiki/Ek_Onkar
+[Wikipedia: Ek Onkar](http://en.wikipedia.org/wiki/Ek_Onkar)
 
-http://en..org/wiki/Sikhism
+[Wikipedia: Sikhism](http://en.wikipedia.org/wiki/Sikhism)
 
 
 ---
-title: khanda
+title: Khanda
 images: ["sik.khanda.jpg","sik.khandaikonkar.jpg","sik.khandaikonkar2.jpg"]
 size:
 ---
 The Khanda is the general symbol of Sikhism. It is made up of three swords and a circle. The two outer swords are Miri (temporal/political power) and Piri (spiritual power). The handles of the swords intersect suggesting that these two powers are not separate parts of our lives but rather intersect. The chakra or circle represents the eternal nature of God. The double-edged sword in the centre is the One God of Sikhism. The central sword is symbolically sharp on both sides as the word of God separates truth from error. As with all rich symbols, other meanings may assigned to the emblem.
 
-http://en..org/wiki/Khanda_%28Sikh_symbol%29
+[Wikipedia: Khanda (Sikh symbol)](http://en.wikipedia.org/wiki/Khanda_%28Sikh_symbol%29)
 
 
 ---
-title: Sikh Blanket
+title: Sikh blanket
 images: ["sik.blanket.jpg","sik.blanket2.jpg"]
 size:
 ---
@@ -64,7 +42,7 @@ Sikhism is a monotheistic (one God) religion founded by Guru Nanak in India in 1
 
 
 ---
-title: peacock chauri
+title: Peacock Chauri
 images: ["sik.peacockchauri.jpg","sik.peacockchauri2.jpg"]
 size:
 ---
@@ -72,7 +50,7 @@ Chauri or chamar are fans used as a ritual object, particularly in Hindu worship
 
 
 ---
-title: guru blessings picture
+title: Guru Blessings picture
 images: ["sik.gurublessings.jpg"]
 size:
 ---
@@ -88,7 +66,7 @@ size:
 
 
 ---
-title: KARA
+title: Kara
 images: ["sik.kara.jpg","sik.kara2.jpg"]
 size:
 ---
@@ -96,7 +74,7 @@ size:
 
 
 ---
-title: kirpan
+title: Kirpan
 images: ["sik.kirpan.jpg","sik.kirpan2.jpg","sik.kirpan3.jpg","sik.kirpan4.jpg","sik.kirpan5.jpg"]
 size:
 ---
@@ -104,7 +82,7 @@ size:
 
 
 ---
-title: khanga
+title: Khanga
 images: ["sik.khanga.jpg"]
 size:
 ---
@@ -112,7 +90,7 @@ Small wooden comb
 
 
 ---
-title: RUMALLA
+title: Rumalla
 images: ["sik.rumalla.jpg","sik.rumalla2.jpg","sik.rumalla3.jpg","sik.rumalla4.jpg","sik.rumalla5.jpg"]
 size:
 ---
@@ -120,7 +98,7 @@ Cover for Guru Granth. Yellow. Burgandy.
 
 
 ---
-title: granth holder
+title: Granth holder
 images: ["sik.granthholder.jpg"]
 size:
 ---

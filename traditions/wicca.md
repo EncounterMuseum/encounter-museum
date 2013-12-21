@@ -1,41 +1,39 @@
-Top-level description of wicca
+Top-level description of Wicca.
 
 ---
-title: book of shadows
+title: Book of Shadows
 images: ["wic.bkshadows.jpg","wic.bkshadows2.jpg"]
 size:
 ---
 A Book of Shadows is a quasi-scripture text of the Wicca tradition. It may include religious stories, chants, poems, instructions, spells, incantations, etc. for personal use or the performance of rituals. Although fully written Book of Shadows are available, a more authentic Book of Shadows, as the one shown here, has blank pages in which owner writes entries of particular individual significance. More authentic yet is a book the person has created…making the paper, stitching the binding, etc.
 
-http://en..org/wiki/Book_of_Shadows
+[Wikipedia: Book of Shadows](http://en.wikipedia.org/wiki/Book_of_Shadows)
 
-http://en..org/wiki/Wicca
+[Wikipedia: Wicca](http://en.wikipedia.org/wiki/Wicca)
 
 
 ---
-title: “magic” wand 
-snake
+title: “Magic” Wand w/Snake
 images: ["wic.wandsnake.jpg","wic.wandsnake2.jpg"]
 size:
 ---
 Neo-Paganism and Wicca use a number of ritual tools which may include a short staff sometimes vernacularly called a “magic” wand. Wands are tools of gentle invitation or direction of a particular energy or intent. Traditionally wands are made from oak or hazel wood. The wand displayed here is a caduceus style of two intertwined snakes.
 
-http://en.wikipedia.org/wiki/Magic_wand
+[Wikipedia: Magic wand](http://en.wikipedia.org/wiki/Magic_wand)
 
 
 ---
-title: “magic” wand 
-crystal
+title: “Magic” Wand w/Crstal
 images: ["wic.wandcrystal.jpg","wic.wandcrystal2.jpg"]
 size:
 ---
 Neo-Paganism and Wicca use a number of ritual tools which may include a short staff sometimes vernacularly called a “magic” wand. Wands are tools of gentle invitation or direction of a particular energy or intent. Traditionally wands are made from oak or hazel wood. The wand displayed here is carved with divinatory runic script and finished with a crystal, a stone associated with magic and special power.
 
-http://en.wikipedia.org/wiki/Magic_wand
+[Wikipedia: Magic wand](http://en.wikipedia.org/wiki/Magic_wand)
 
 
 ---
-title: horned god
+title: Horned God
 images: ["wic.hornedgod.jpg","wic.hornedgod2.jpg","wic.hornedgod3.jpg","wic.hornedgod4.jpg","wic.hornedgod5.jpg"]
 size:
 ---
@@ -60,7 +58,7 @@ size:
 
 ---
 title: Wicca athame
-images: ["wic.athema.jpg","wic.athema2.jpg","wic.athema3.jpg","wic.largeathema.jpg","wic.largeathema2.jpg"]
+images: ["wic.athema.jpg","wic.athema2.jpg","wic.athema3.jpg"]
 size:
 ---
 Black handle with eagle. Black leather sheath.
@@ -75,8 +73,7 @@ Sword
 
 
 ---
-title: Wicca 
-besom
+title: Wicca besom
 images: ["wic.besom.jpg"]
 size:
 ---
@@ -98,10 +95,6 @@ size:
 ---
 The original is 17 inches tall and was found in the entrance to a cave that was both a dwelling place and a ceremonial site. She was painted red, the color of life, blood, and rebirth. Paleolithic sculptors chiselled her out of limestone with tools of flint, and gave her to hold in her right had a bison's horn, crescent-shaped like the moon, which is notched with thirteen marks representing the thirteen days of the waxing moon and the thirteen months of the lunar year. With her left hand she points to her swelling womb. Her head is tilted towards the crescent moon, drawing a curve of relationship from her fingers on the womb up through the incline of her head to the crescent horn in her hand, so creating a connection between the waxing phase of the moon and the fecundity of the human womb.
 
-
-
-
-*
 
 
 ---
@@ -238,8 +231,7 @@ Brass cauldron with snake bail, both symbols of the goddess.
 
 
 ---
-title: goddess 
-talismans
+title: Goddess talismans
 images: ["wic.goddesstalismans.jpg"]
 size:
 ---

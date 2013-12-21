@@ -1,30 +1,25 @@
-Top-level description of islam
+Top-level description of Islam.
 
 ---
-title: Ka’ba doors
+title: Ka’ba Doors
 images: ["isl.doors.jpg"]
 size:
 ---
 The Ka’ba is a cube-shaped building in Mecca, Saudi Arabia. The original was built by the Prophet Abraham and his son Ishmael on the spot where tradition says God told Adam to place a pile of stones as the first altar to God. For Muslim, therefore, Ka’ba is the oldest and most sacred place of worship, turning towards it during prayer and traveling to it at pilgrimage. The 300 kg. (450 lbs.) doors of the Ka’ba are gold with elaborate decoration that includes passages from the Qur’an.
 
-http://en..org/wiki/Ka%27ba
+[Wikipedia: Ka'ba](http://en.wikipedia.org/wiki/Ka%27ba)
 
 
 ---
-title: QUR’AN 
-PAGE
+title: Qur’an Page
 images: ["isl.quranpage.jpg"]
+origin: Saudi Arabia
+date: ca. 1700s (scripture), ca. 900 (coin)
 size:
 ---
 Displayed is an illuminated page of a handwritten Qur’an. In the lower right corner is an ancient coin from Arabia with a Qur’an passage stamped on both sides. The passage of the page is from Surah (chapter) 37, the As-Saaffat “Those Who Set The Ranks” and relates part of the story and teaching of Yunus (Jonah) and the whale.
 
-Date of scripture: ca. 1700s
-
-Date of coin: ca. 900s
-
-Origin of both: Saudi Arabia
-
-http://en..org/wiki/Quran
+[Wikipedia: Quran](http://en.wikipedia.org/wiki/Quran)
 
 
 ---
@@ -34,7 +29,7 @@ size:
 ---
 113 of the 114 suras (chapters) of the Qur'an begin with a phrase known as the Bismillah. “Bismillah al-Rahman al-Rahim” “In the name of God, the most compassionate, the most merciful.” Shown is a stylized calligraphy depiction of the famous phrase.
 
-http://en..org/wiki/Bismillah
+[Wikipedia: Bismillah](http://en.wikipedia.org/wiki/Bismillah)
 
 
 ---
@@ -44,107 +39,98 @@ size:
 ---
 113 of the 114 suras (chapters) of the Qur'an begin with a phrase known as the Bismillah. “Bismillah al-Rahman al-Rahim” “In the name of God, the most compassionate, the most merciful.” Shown is a stylized calligraphy depiction of the famous phrase.
 
-http://en..org/wiki/Bismillah
+[Wikipedia: Bismillah](http://en.wikipedia.org/wiki/Bismillah)
 
 
 ---
-title: TURBA 
-or MOHR
+title: Turba or Mohr 
 images: ["isl.turba.jpg","isl.turba2.jpg"]
+origin: Karbala, Iraq
 size:
 ---
 Shia Muslims prefer to use a small clay tablet called a mohr or turba in daily prayers upon which the forehead is placed during prostration. The most favoured turba are those coming from Karbala, Iraq, the location of the martyrdom of Husayn ibn Ali, grandson of the Prophet Mohammad, in 680 CE. The dust of Karbala is considered one of the most sacred places upon which to pray. The turba was presented to Encounter by Shi'a imam, Maulana Sayyid Muhammad Rizvi, descendent of Prophet Muhammad.
 
-Origin: Karbala, Iraq
-
-http://en..org/wiki/Turbah
+[Wikipedia: Turbah](http://en.wikipedia.org/wiki/Turbah)
 
 
 ---
-title: WHIRLING dervishes
+title: Whirling Dervishes
 images: ["isl.dervish.jpg","isl.dervish2.jpg"]
 size:
 ---
 Dervish is a general term for a practitioner of the Sufi tradition, a mystical branch of Islam. Whirling Dervishes are those of the Mevlevi Order who turn in circles as a way of exaltation and remembering God. Whirling as a form of worship was the practice of Mevlana Jalaluddin Rumi, a Persian mystic poet of the 13th century. The order of Whirling Dervishes was formed after the poet’s death. The white robe represents a shroud of the dead ego. The brown hat represents its tombstone.
 
-http://en..org/wiki/Whirling_Dervishes
+[Wikipedia: Whirling Dervishes](http://en.wikipedia.org/wiki/Whirling_Dervishes)
 
 
 ---
-title: Allah ornament
+title: Allah Ornament
 images: ["isl.allahornament.jpg"]
 size:
 ---
 Displayed here is an eight-pointed star on a red velvet background with a red enamel centre displaying the word Allah الله, Arabic for God. Repeated around the points of the star is the Arabic phrase “God is the light of heaven and earth.” This item was purchased in Cairo, Egypt, airport.
 
-http://en.wikipedia.org/wiki/Allah
+[Wikipedia: Allah](http://en.wikipedia.org/wiki/Allah)
 
 
 ---
-title: mosque lamp
+title: Mosque lamp
 images: ["isl.mosquelamp.jpg"]
 size:
 ---
 The mosque lamp displayed here is from Turkey. It has been electrified since its purchase from the Toronto Antique Market. Originally it housed an oil lamp. A verse from the Qur’an compares the light of God to such a lamp no doubt often observed by the Prophet Muhammad: “The Parable of God’s Light is as if there were a niche and within it a Lamp, the Lamp enclosed in glass: the glass as it were a brilliant star lit from a blessed tree, an olive, …whose oil is well-nigh luminous….” (Qur’an)
 
-http://en.wikipedia.org/wiki/Mosque_lamp
+[Wikipedia: Mosque lamp](http://en.wikipedia.org/wiki/Mosque_lamp)
 
 
 ---
-title: three wise sufis
+title: Three Wise Sufis
 images: ["isl.wisesufis.jpg"]
 size:
 ---
 Dervish is a general term for a practitioner of the Sufi tradition, a mystical branch of Islam. Whirling Dervishes are those of the Mevlevi Order who turn in circles as a way of exaltation and remembering God. Whirling as a form of worship was the practice of Mevlana Jalaluddin Rumi, a Persian mystic poet of the 13th century. The order of Whirling Dervishes was formed after the poet’s death. The white robe represents a shroud of the dead ego. The brown hat represents its tombstone. The three dervishes displayed here are in the classic “three wise monkeys postures” of See No Evil, Hear No Evil, Speak No Evil.
 
-http://en.wikipedia.org/wiki/Three_wise_monkeys
+[Wikipedia: Three wise monkeys](http://en.wikipedia.org/wiki/Three_wise_monkeys)
 
-http://en.wikipedia.org/wiki/Sufi
+[Wikipedia: Sufi](http://en.wikipedia.org/wiki/Sufi)
 
 
 ---
-title: nasreddin Hodja
+title: Nasreddin Hodja
 images: ["isl.hodja.jpg","isl.hodja2.jpg"]
 size:
 ---
 Nasreddin Hodja is a partially historical but mainly legendary wise yet comical  trickster figure from the Sufi Muslim tradition. A number of Middle Eastern countries claim him as a native son. The world “hodja” is an honorific title for one who is wise and respected. He may have lived in the 1300s in Turkey or Persia. His legendary escapades are Aesop fable-like teaching stories. Many Hodja tales include his beloved donkey. One of the best known is of the Hodja riding the donkey while sitting backwards. The Hodja’s response differs in various versions when asked why he rides in such a strange manner. One response says, “If I sat facing forward, you would be behind me. If you went in front of me, I would be behind you. Either way, I would not be facing you. So this is the most logical way.” In another version the Hodja says he knows where he’s going, so doesn’t have to face forward. He sits backward so he can always know where he came from. Whatever the answer, Hodja stories often teach not necessarily to act conventionally just because that’s the predictable, accepted way…challenge tradition and don’t take life too seriously. The Gateless Gate, which is a 13th-century collection of Chan or Zen kōans, uses the word wu or mu in its title (Wumenguan or Mumonkan 無門關) and first kōan case ("Joshu's Dog" 趙州狗子). Chinese Chan calls the word mu 無 "the gate to enlightenment".[9]
 
-http://en.wikipedia.org/wiki/Nasreddin
+[Wikipedia: Nasreddin](http://en.wikipedia.org/wiki/Nasreddin)
 
-http://www.readliterature.com/hodjastories.htm
+[Hodja Stories](http://www.readliterature.com/hodjastories.htm)
 
 
 ---
-title: yemeni 
-jambiya
-
-
-
-Isl.allahjambiya.doc
+title: Yemeni jambiya
 images: ["isl.jambiya.jpg","isl.jambiya2.jpg","isl.jambiya3.jpg","isl.jambiya4.jpg","isl.yemenjambiya.jpg","isl.yemenjambiya2.jpg","isl.yemenjambiya3.jpg"]
+date: First jambiya is late 19th or early 20th century
+origin: Republic of Yemen
 size:
 ---
 Jambiya or janbiya is Arabic for dagger. Jambiya generally have short, curved blades. Although men over the age of 14 in many Arab countries wear jambiya as a belt accessory more than a weapon, they are often associated with Yemen. The first jambiya displayed has a teak wood hilt and sheath with mother of pearl and copper wire inlay decoration. The word Allah (Arabic for God) is inscribed on the blade. Although not as interesting without the inscribed “Allah,” the second jambiya is more decorative with a black, brass, and bone hilt. The sheath is black decorated with mother of pearl inlay and brass symbols of a helmet, crossed daggers, falcon, fish, and flower. The blade is highly engraved with abstract designs. On the back of the jambiya sheath may be seen the clip used for attaching to a belt. A wearer’s status and wealth may be determined by the degree and quality of a jambiya’s elaborate decoration or lack thereof. The second jambiya displayed here is for a higher status wearer. The crudely carved wooded handle and low quality blade of the first jambiya is obviously of lower status, but the inscribed name of God indicates it was perhaps intended for a more pious owner.
 
-Date: First jambiya is late 19th or 20th century
-
-Location: Republic of Yemen
-
-http://en.wikipedia.org/wiki/Jambiya
+[Wikipedia: Jambiya](http://en.wikipedia.org/wiki/Jambiya)
 
 
 ---
-title: ihram
+title: Ihram
 images: ["isl.ihram.jpg"]
 size:
 ---
 The word “ihram” in Arabic means to be in a state of consecration, dedication or purity. When one attends hajj or pilgrimage in Mecca, the white, two-piece garment worn by males is called ihram, an outward sign of an inward state. The garments are simple, unstitched cloths, much like very large towels. The simplicity and low cost is symbolic of humility. The white is not only purity, but perhaps more importantly demonstrates oneness and equality among the pilgrims. Both cloths are identical. One cloth is worn around the waist. The other cloth is worn around either one or both shoulders.
 
-http://en.wikipedia.org/wiki/Ihram_clothing
+[Wikipedia: Ihram clothing](http://en.wikipedia.org/wiki/Ihram_clothing)
 
 
 ---
-title: QUR’AN holder
+title: Qur'an holder
 images: ["isl.quranholder.jpg","isl.quranholder2.jpg","isl.quranholder3.jpg","isl.quranholder4.jpg","isl.quranholder5.jpg"]
 size:
 ---
@@ -152,7 +138,7 @@ Out of great respect for the Qur’an, the book should not be placed on the grou
 
 
 ---
-title: kaba finder or Qibla Compass
+title: Kaba Finder or Qibla Compass
 images: ["isl.kabafinder.jpg","isl.kabafinder2.jpg"]
 size:
 ---
@@ -160,13 +146,13 @@ Prayers in Islam are recited facing the Ka’ba, a cube-shaped building inside t
 
 
 ---
-title: prayer rug
+title: Prayer rug
 images: ["isl.prayerrug.jpg","isl.prayerrug2.jpg","isl.prayerrug3.jpg","isl.prayerrug4.jpg"]
 size:
 ---
 Because part of the movement in Islamic prayers requires the touching of the face to the floor, a clean placed is needed to perform the prayers. In many locations outside a mosque, a prayer rug or prayer mat provides that clean space. These rugs are often decorated with verses from the Qur’an, depictions of holy sites, lamps, geometric, architectural or other designs. Typical prayer rugs measure 2.5 x 4 feet to allow room to bow.
 
-http://en.wikipedia.org/wiki/Prayer_rug
+[Wikipedia: Prayer rug](http://en.wikipedia.org/wiki/Prayer_rug)
 
 
 ---
@@ -186,27 +172,27 @@ Use of the beads to count prayers and recitations developed from the practice of
 
 
 ---
-title: qur’an
-images: ["isl.miniaturequran.jpg","isl.miniaturequran2.jpg","isl.quran.jpg","isl.quranholder.jpg","isl.quranholder2.jpg","isl.quranholder3.jpg","isl.quranholder4.jpg","isl.quranholder5.jpg","isl.quranpage.jpg"]
+title: Qur’an
+images: ["isl.quran.jpg"]
 size:
 ---
 The sacred writings of Islam is the Qur’an often called the Holy Qur’an or the Glorious Qur’an, also spelled Koran. The book is a collection of 114 revelations from the angel Gabriel to the Prophet Muhammad over more than 20 years from 610 ce to 632 ce. The present standard form of the Qur’an was produced by Caliph Uthman in 651 ce. Only the Arabic is considered the Qur’an as the actual words spoken by Gabriel to Muhammad. English, Spanish, Chinese or other versions are considered a translation of the meaning of the Arabic.
 
-http://en.wikipedia.org/wiki/Quran
+[Wikipedia: Quran](http://en.wikipedia.org/wiki/Quran)
 
 
 ---
-title: kufi
+title: Kufi
 images: ["isl.kufi.jpg"]
 size:
 ---
 Many religions of the Middle East and India show respect during worship by covering the head, particularly Judaism, Sikhism, and Zoroastrianism. Islam, too, has head covering for women called the hijab (discussed elsewhere). A common head covering for men is a round brimless cap called a kufi.
 
-http://en.wikipedia.org/wiki/Kufi
+[Wikipedia: Kufi](http://en.wikipedia.org/wiki/Kufi)
 
 
 ---
-title: minbar
+title: Minbar
 images: ["isl.minbar.jpg"]
 size:
 ---
@@ -214,7 +200,7 @@ White glass niche representative of the minbar indicating the direction of praye
 
 
 ---
-title: miniature Qur’an
+title: Miniature Qur’an
 images: ["isl.miniaturequran.jpg","isl.miniaturequran2.jpg"]
 size:
 ---
@@ -222,7 +208,7 @@ size:
 
 
 ---
-title: arabic “god is one”
+title: Arabic “God is One”
 images: ["isl.godisone.jpg"]
 size:
 ---
@@ -230,7 +216,7 @@ Hand carved English and Arabic letters spelling the phrase, “God is One.” (E
 
 
 ---
-title: standing druze figure
+title: Standing Druze Figure
 images: ["isl.standingdruze.jpg"]
 size:
 ---
@@ -238,23 +224,22 @@ Standing brown figure holding a book
 
 
 ---
-title: sitting druze figure
+title: Sitting Druze Figure
 size:
 ---
 Sitting figure with red turban reading a book. Hand raised to his ear.
 
 
 ---
-title: shi’ite 
-incense burner
+title: Shi’ite incense burner
 images: ["isl.incenseburner.jpg"]
 size:
 ---
-Burner with incense
+Burner with incense.
 
 
 ---
-title: ramadan horn
+title: Ramadan horn
 images: ["isl.ramadanhorn.jpg","isl.ramadanhorn2.jpg"]
 size:
 ---
@@ -262,7 +247,7 @@ Collapsible brass horn sounded to indicate the end of the fast of Ramadan.
 
 
 ---
-title: miniature ka’ba
+title: Miniature ka’ba
 images: ["isl.miniaturekaba.jpg"]
 size:
 ---
@@ -270,7 +255,7 @@ Miniature Ka’ba inside glass dome
 
 
 ---
-title: hajj scented oil
+title: Hajj scented oil
 images: ["isl.hajjscentedoil.jpg"]
 size:
 ---
@@ -286,7 +271,7 @@ Two small, silver containers to hold scripture verses. Worn around the neck as a
 
 
 ---
-title: small persian rug
+title: Small Persian rug
 images: ["isl.smallrug.jpg"]
 size:
 ---
@@ -294,14 +279,14 @@ size:
 
 
 ---
-title: praying Muslim statue
+title: Praying Muslim statue
 size:
 ---
 
 
 
 ---
-title: islamic prayer bowl
+title: Islamic prayer bowl
 images: ["isl.prayerbowl.jpg","isl.prayerbowl2.jpg","isl.prayerbowl3.jpg"]
 size:
 ---
@@ -309,14 +294,14 @@ size:
 
 
 ---
-title: ahmad
+title: Ahmad
 size:
 ---
 Book of life of Ahmad – Ahmaddiya Islam
 
 
 ---
-title: essential rumi
+title: Essential Rumi
 size:
 ---
 

@@ -34,7 +34,7 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
   $rootScope.title = 'Encounter World Religions Museum';
 })
 
-.controller('tradition', function($rootScope, $scope, $routeParams, $location, traditions, net) {
+.controller('tradition', function($rootScope, $scope, $routeParams, $location, traditions, net, markdown) {
   $rootScope.menuSelected = 'gallery';
   $scope.tradition = traditions[$routeParams.tradition];
   net.fetchTradition($scope.tradition.slug).then(function(res) {
@@ -65,6 +65,10 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
   function update(nu) {
     if ($scope.content && $scope.content.artifacts && $scope.content.artifacts.length) {
       $scope.artifact = $scope.content.artifacts[$scope.content.images[nu].artifact];
+
+      if (!$scope.artifact.descriptionHTML)
+        $scope.artifact.descriptionHTML = markdown($scope.artifact.description);
+
       $scope.artifact.image = '/assets/' + $scope.content.images[nu].image;
       $scope.artifact.bigImage = '/assets/big/' + $scope.content.images[nu].image;
       $location.hash($scope.content.artifacts[$scope.content.images[$scope.globalIndex].artifact].slug);

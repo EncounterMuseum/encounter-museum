@@ -57,23 +57,34 @@ angular.module('encounter')
   //   - Markdown description of the artifact.
   //
   // Returns an object with:
-  // - description: string. The top-level description of the tradition.
+  // - description: HTML. The top-level description of the tradition.
   // - artifacts: Array of objects. Each object is the key-value pairs from the artifact, plus description.
   //   - title: string. The name of the artifact.
   //   - images: Array.<string>. The paths to the images, relative to /assets/:tradition/
   //   - description: string (Markdown, to be parsed on display).
+  //   - descriptionHTML: HTML (cache of above)
   //   - Others are optional.
   // - images: Array of objects, with:
   //   - image: Path, relative as above.
   //   - artifact: index into the above artifacts array.
 
   return function(text) {
+    var startTime = performance.now();
+    var slugTotal = 0;
     var lines = text.split('\n');
     var obj = {};
 
     var breakRegex = /^---\s*$/;
     var keyValueRegex = /^\s*([^:\s]+)\s*:\s*(.*?)\s*$/;
     var listRegex = /^\s*\[([^\]]*?)\s*\]\s*$/;
+    var imageRegex = /^"([^"]+)"$/;
+
+    var legalChars = "abcdefghijklmnopqrstuvwxyz- ";
+
+    var descTotal = 0;
+    var imagesTotal = 0;
+    var innerTotal = 0;
+    var fmTotal = 0;
 
     function nextBreak(from) {
       for (var i = from; i < lines.length; i++) {
@@ -98,6 +109,7 @@ angular.module('encounter')
       var art = {};
 
       // Read the front-matter.
+      var fmStart = performance.now();
       for(var i = iTop; i < iBottom; i++) {
         var m = lines[i].match(keyValueRegex);
         if(m) {
@@ -106,7 +118,7 @@ angular.module('encounter')
             if (list && list[1]) {
               art.images = list[1].split(',').map(function(x) {
                 var y = x.trim();
-                var m = y.match(/^"([^"]+)"$/);
+                var m = y.match(imageRegex);
                 return m[1];
               });
             }
@@ -115,15 +127,18 @@ angular.module('encounter')
           }
         }
       }
+      fmTotal += performance.now() - fmStart;
 
       // Now read the description.
       iTop = iBottom + 1;
       iBottom = nextBreak(iTop);
-      art.description = markdown(lines.slice(iTop, iBottom).join('\n').trim());
+      var start = performance.now();
+      art.description = lines.slice(iTop, iBottom).join('\n').trim();
+      descTotal += performance.now() - start;
 
       // Convert the name into a slug that can be used in the URL bar.
       // Drop everything but letters and spaces from the name.
-      var legalChars = "abcdefghijklmnopqrstuvwxyz- ".split('');
+      var slugTime = performance.now();
       art.slug = art.title.toLowerCase().trim().split('').filter(function(c) {
         return legalChars.indexOf(c) >= 0;
       }).map(function(c) {
@@ -134,23 +149,35 @@ angular.module('encounter')
         // obj.slugMap['foo'] points at the globalIndex of the first image of that artifact.
         obj.slugMap[art.slug] = obj.images.length;
       }
+      slugTotal += performance.now() - slugTime;
 
+      start = performance.now();
       if (art.images && art.images.length) {
         var index = obj.artifacts.length;
 
         obj.artifacts.push(art);
         for(var i = 0; i < art.images.length; i++) {
+          var inner = performance.now();
           obj.images.push({
             image: art.images[i],
             artifact: index
           });
+          innerTotal += performance.now() - inner;
         }
       } else {
         console.warn('Artifact without images', art);
       }
+      imagesTotal += performance.now() - start;
 
     }
 
+    var deltaTime = performance.now() - startTime;
+    console.log('Parse time: ' + deltaTime);
+    console.log('Slug time: ' + slugTotal);
+    console.log('Description time: ' + descTotal);
+    console.log('Images time: ' + imagesTotal);
+    console.log('Inner time: ' + innerTotal);
+    console.log('Front-matter time: ' + fmTotal);
     return obj;
   };
 });

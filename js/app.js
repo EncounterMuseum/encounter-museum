@@ -54,7 +54,13 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
   $scope.tradition = traditions[$routeParams.tradition];
   net.fetchTradition($scope.tradition.slug).then(function(res) {
     $scope.content = res;
+    $rootScope.title = $scope.content.title;
 
+    updateByHash();
+  });
+
+  // Called to check for hash changes.
+  function updateByHash() {
     var hash = $location.hash();
     if (hash) {
       var index = $scope.content.slugMap[hash];
@@ -69,7 +75,11 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
     } else {
       update(0);
     }
-    $rootScope.title = $scope.content.title;
+  }
+
+  $rootScope.$on('$locationChangeSuccess', function(event, nu) {
+    if ($location.path() == '/tradition/' + $routeParams.tradition)
+      updateByHash();
   });
 
   $scope.index = 0; // The index within the current page.

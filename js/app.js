@@ -84,8 +84,8 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
       if (!$scope.artifact.descriptionHTML)
         $scope.artifact.descriptionHTML = markdown($scope.artifact.description);
 
-      $scope.artifact.image = '/assets/' + $scope.content.images[nu].image;
-      $scope.artifact.bigImage = '/assets/big/' + $scope.content.images[nu].image;
+      $scope.artifact.image = 'assets/' + $scope.content.images[nu].image;
+      $scope.artifact.bigImage = 'assets/big/' + $scope.content.images[nu].image;
       $location.hash($scope.content.artifacts[$scope.content.images[$scope.globalIndex].artifact].slug);
     }
   }

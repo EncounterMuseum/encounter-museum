@@ -16,7 +16,7 @@
       <ul class="image-strip">
         <li class="link"><a ng-click="prev()" ng-show="page > 0">Prev</a></li>
         <li ng-repeat="image in content.images | startFrom: entryLimit*page | limitTo: entryLimit" ng-class="{ selected: index == $index }">
-          <img ng-src="/assets/thumbs/{{ image.image }}" ng-click="change($index)" />
+          <img ng-src="assets/thumbs/{{ image.image }}" ng-click="change($index)" />
         </li>
         <li class="link"><a ng-click="next()" ng-show="(page+1) * entryLimit < content.images.length">Next</a></li>
       </ul>

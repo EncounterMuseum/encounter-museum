@@ -18,7 +18,7 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
     redirectTo: '/'
   });
 })
-.run(function($rootScope) {
+.controller('menu', function($rootScope, $scope, $location, indexer) {
   // NB: These are in reverse order.
   $rootScope.menu = [
     { slug: 'home',      name: 'Home',      link: '#!/' },
@@ -27,6 +27,21 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
     { slug: 'encounter', name: 'Encounter Centre', link: 'http://encounterworldreligions.com' }
   ];
   $rootScope.menuSelected = 'home';
+
+  $scope.$watch('search', function(nu) {
+    if (!nu) {
+      $scope.searchResults = undefined;
+    } else {
+      $scope.searchResults = indexer.lookup(nu);
+    }
+  });
+
+  $scope.show = function(artifact) {
+    $location.path('/tradition/' + artifact.traditionSlug);
+    $location.hash(artifact.slug);
+    $scope.search = undefined;
+    $scope.searchResults = undefined;
+  };
 })
 
 .controller('main', function($rootScope) {
@@ -113,11 +128,11 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
     christianity:     { slug: 'christianity', name: 'Christianity' },
     confuscianism:    { slug: 'confuscianism', name: 'Confuscianism' },
     daoism:           { slug: 'daoism', name: 'Daoism' },
+    fun:              { slug: 'fun', name: 'Just for Fun' },
     hinduism:         { slug: 'hinduism', name: 'Hinduism' },
     islam:            { slug: 'islam', name: 'Islam' },
     jainism:          { slug: 'jainism', name: 'Jainism' },
     judaism:          { slug: 'judaism', name: 'Judaism' },
-    justforfun:       { slug: 'justforfun', name: 'Just for Fun' },
     mormonism:        { slug: 'mormonism', name: 'Mormonism' },
     mandaeans:        { slug: 'mandaeans', name: 'Mandaeans' },
     misc:             { slug: 'misc', name: 'Miscellaneous' },

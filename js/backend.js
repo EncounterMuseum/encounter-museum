@@ -1,24 +1,34 @@
 
 angular.module('encounter')
+.run(function($timeout, indexer) {
+  $timeout(indexer.loadAll, 2000);
+})
+
 .factory('net', function(cache, parse, $http, $q) {
+  var inflight = {};
   return {
     fetchTradition: function(tradition) {
       var cached = cache.get(tradition);
       if (cached) {
         return $q.when(cached);
+      } else if (inflight[tradition]) {
+        return inflight[tradition];
       } else {
         var d = $q.defer();
+        inflight[tradition] = d.promise;
         $http({
           method: 'GET',
           url: '/traditions/' + tradition + '.md',
           responseType: 'text'
         }).success(function(data, status) {
-          var parsed = parse(data);
+          var parsed = parse(data, tradition);
           cache.put(tradition, parsed);
           d.resolve(parsed);
+          delete inflight[tradition];
         }).error(function(data, status) {
           // Yes, resolve.
           d.resolve({ description: 'Failed to retrieve content for ' + tradition });
+          delete inflight[tradition];
         });
 
         return d.promise;
@@ -68,7 +78,7 @@ angular.module('encounter')
   //   - image: Path, relative as above.
   //   - artifact: index into the above artifacts array.
 
-  return function(text) {
+  return function(text, slug) {
     var startTime = performance.now();
     var slugTotal = 0;
     var lines = text.split('\n');
@@ -98,6 +108,7 @@ angular.module('encounter')
 
     obj.description = markdown(lines.slice(iTop, iBottom).join('\n'));
 
+    obj.tradition = slug;
     obj.artifacts = [];
     obj.images = [];
     obj.slugMap = {};
@@ -179,6 +190,71 @@ angular.module('encounter')
     console.log('Inner time: ' + innerTotal);
     console.log('Front-matter time: ' + fmTotal);
     return obj;
+  };
+})
+
+.factory('indexer', function(net, traditions, $q) {
+  var cached = {};
+
+  return {
+    loadAll: function() {
+      // Fetch all the traditions and index their contents.
+      var promises = Object.keys(traditions).map(function(t) {
+        return net.fetchTradition(traditions[t].slug);
+      });
+
+      // We want these to run gradually so they don't tank the UI.
+      // Therefore we do them serially.
+      // TODO: Is this a performance bottleneck? It might be better to fire them all
+      // at once and let the browser sort them out.
+
+      promises.reduce(function(soFar, p) {
+        return soFar.then(function() {
+          return p.then(function(obj) {
+            if (obj && obj.artifacts)
+              cached[obj.tradition] = obj.artifacts;
+          });
+        });
+      }, $q.when());
+    },
+
+    lookup: function(str) {
+      // Look through each tradition, and through each artifact, looking for strings that match the title case-insensitively.
+      var re = new RegExp(str, 'i');
+      var matches = {};
+      Object.keys(traditions).forEach(function(t) {
+        var out = [];
+        var artifacts = cached[t];
+        for (var i = 0; i < artifacts.length; i++) {
+          if (artifacts[i].title.match(re)) {
+            artifacts[i].traditionSlug = t;
+            artifacts[i].tradition = traditions[t].name;
+            out.push(artifacts[i]);
+          }
+          if (out.length >= 10) {
+            matches[t] = out;
+            return;
+          }
+        }
+        matches[t] = out;
+      });
+
+      // Now we take the first 10 in a round-robin way.
+      var out = [];
+      var index = 0;
+      var slugs = Object.keys(traditions);
+      while(slugs.length > 0 && out.length < 10) {
+        var m = matches[slugs[index]];
+        if (m && m.length > 0) {
+          out.push(m.shift());
+          index = (index + 1) % slugs.length;
+        } else { // No matches, so splice out this tradition.
+          slugs.splice(index, 1);
+          index = index % slugs.length; // Make sure index is still inside the array.
+        }
+      }
+      return out;
+    }
   };
 });
 

@@ -23,6 +23,10 @@ div#header div#logo,
 div#header div#logo a, 
 div#header div#logo a img { border: none; margin: 0; padding: 0;  }
 
+div#header {
+  position: relative;
+}
+
 div#container { 
     width:960px; 
     margin:0 auto; 
@@ -833,4 +837,65 @@ div#menu-social a.socialbutton img {
   max-height: 100%;
   min-height: 300px;
 }
+
+
+.menusearch {
+  padding: 3px 30px 0;
+  text-align: right;
+}
+
+.searchresults {
+  position: absolute;
+  right: 0px;
+  top: 185px;
+  width: 400px;
+  overflow: hidden;
+  border: 1px solid black;
+  z-index: 100;
+  background-color: white;
+}
+
+.searchresult {
+  height: 90px;
+  width: 100%;
+  border-bottom: 1px solid black;
+  position: relative;
+  line-height: 75px;
+}
+.searchresult:hover {
+  background-color: #bfbfbf;
+  color: #004f90;
+}
+.searchresult .imgbox {
+  height: 74px;
+  width: 74px;
+  position: absolute;
+  top: 6px;
+  left: 4px;
+  text-align: center;
+  vertical-align: middle;
+}
+.searchresult .imgbox img {
+  display: inline;
+}
+.searchresult .searchresulttext {
+  margin-left: 90px;
+  margin-top: 23px;
+  display: inline-block;
+  width: 308px;
+  line-height: 3ex;
+}
+.searchresulttitle {
+  font-size: 120%;
+  font-weight: bold;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  width: 100%;
+}
+.searchresulttradition {
+  color: #333;
+}
+
+
 

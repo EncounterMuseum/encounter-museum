@@ -31,7 +31,7 @@
   <body ng-app="encounter">
     <!-- start header -->
     <div id="container">
-      <div id="header">
+      <div id="header" ng-controller="menu">
         <div id="logo">
           <a href="http://www.worldreligionsmuseum.ca/" title="EWRM Home" ><img src="img/EWR4banner.jpg" alt="EWRM logo" /></a>
         </div>
@@ -39,6 +39,20 @@
           <div class="menubuttonbar">
             <div ng-repeat="item in menu" class="menubutton" ng-class="{ first: $first, current: item.slug == menuSelected }">
               <a ng-href="{{ item.link }}"><span>{{ item.name }}</span></a>
+            </div>
+          </div>
+          <div class="menusearch">
+            <input type="text" placeholder="Search" length=30 ng-model="search" />
+          </div>
+        </div>
+        <div class="searchresults" ng-show="searchResults">
+          <div ng-repeat="result in searchResults" class="searchresult", ng-click="show(result)">
+            <div class="imgbox">
+              <img ng-src="assets/thumbs/{{ result.images[0] }}" />
+            </div>
+            <div class="searchresulttext">
+              <div class="searchresulttitle">{{ result.title }}</div>
+              <div class="searchresulttradition">{{ result.tradition }}</div>
             </div>
           </div>
         </div>

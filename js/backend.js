@@ -18,7 +18,7 @@ angular.module('encounter')
         inflight[tradition] = d.promise;
         $http({
           method: 'GET',
-          url: '/traditions/' + tradition + '.md',
+          url: 'traditions/' + tradition + '.md',
           responseType: 'text'
         }).success(function(data, status) {
           var parsed = parse(data, tradition);

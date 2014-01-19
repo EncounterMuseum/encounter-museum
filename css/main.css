@@ -31,8 +31,7 @@ div#container {
     width:960px; 
     margin:0 auto; 
     text-align:left;
-    background: white url(http://cms.worldreligions.ca/uploads/images/EWR3footer.jpg) 
-    no-repeat center bottom ;
+    background: white url(../img/EWR3footer.jpg) no-repeat center bottom ;
 }
 div#wrapper { float:left; width:100%; }
 
@@ -283,6 +282,11 @@ span#copyright img {
 
 span#version {
     position: absolute; bottom: 5px; left: 5px;
+    font-size: 70%; color: #808080 ;
+}
+
+span#platformversion {
+    position: absolute; bottom: 5px; right: 5px;
     font-size: 70%; color: #808080 ;
 }
 

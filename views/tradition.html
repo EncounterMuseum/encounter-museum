@@ -15,8 +15,8 @@
     <div class="slider">
       <ul class="image-strip">
         <li class="link"><a ng-click="prevImage()" ng-show="index > 0">Prev</a></li>
-        <li ng-repeat="image in artifact.images | limitTo: entryLimit" ng-class="{ selected: index == $index }">
-          <img ng-src="assets/thumbs/{{ image }}" ng-click="changePicture($index)" />
+        <li ng-repeat="image in artifact.images | startFrom: entryLimit*page | limitTo: entryLimit" ng-class="{ selected: pageIndex == $index }">
+          <img ng-src="assets/thumbs/{{ image }}" ng-click="changePicture(page*entryLimit + $index)" />
         </li>
         <li class="link"><a ng-click="nextImage()" ng-show="index < artifact.images.length - 1">Next</a></li>
       </ul>

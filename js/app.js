@@ -83,12 +83,18 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
   $scope.index = 0; // The index within the current page.
   $scope.globalIndex = 0;
   $scope.entryLimit = 5;
+  $scope.page = 0;
+  $scope.pageIndex = 0;
 
   function update(nu) {
     if ($scope.content && $scope.content.artifacts && $scope.content.artifacts.length) {
       $scope.artifact = $scope.content.artifacts[nu];
 
+      // Reset the artifact-specific values.
       $scope.index = 0;
+      $scope.pageIndex = 0;
+      $scope.page = 0;
+
       if (!$scope.artifact.descriptionHTML)
         $scope.artifact.descriptionHTML = markdown($scope.artifact.description);
 
@@ -104,14 +110,16 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
 
   $scope.changePicture = function(index) {
     $scope.index = index;
+    $scope.page = Math.floor($scope.index / $scope.entryLimit);
+    $scope.pageIndex = $scope.index % $scope.entryLimit;
   };
 
   $scope.prevImage = function() {
-    $scope.index = Math.max($scope.index - 1, 0);
+    $scope.changePicture(Math.max($scope.index - 1, 0));
   };
 
   $scope.nextImage = function() {
-    $scope.index = Math.min($scope.index + 1, $scope.artifact.images.length - 1);
+    $scope.changePicture(Math.min($scope.index + 1, $scope.artifact.images.length - 1));
   };
 
   $scope.prevArtifact = function() {

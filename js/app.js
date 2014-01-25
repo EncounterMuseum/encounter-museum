@@ -23,8 +23,7 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
   $rootScope.menu = [
     { slug: 'home',      name: 'Home',      link: '#!/' },
     { slug: 'gallery',   name: 'Galleries', link: '#!/gallery' },
-    { slug: 'contact',   name: 'Contact',   link: '#!/contact' },
-    { slug: 'encounter', name: 'Encounter Centre', link: 'http://encounterworldreligions.com' }
+    { slug: 'contact',   name: 'Contact',   link: '#!/contact' }
   ];
   $rootScope.menuSelected = 'home';
 

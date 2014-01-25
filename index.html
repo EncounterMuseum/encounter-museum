@@ -40,6 +40,9 @@
             <div ng-repeat="item in menu" class="menubutton" ng-class="{ first: $first, current: item.slug == menuSelected }">
               <a ng-href="{{ item.link }}"><span>{{ item.name }}</span></a>
             </div>
+            <div class="menubutton">
+              <a target="_blank" href="http://encounterworldreligions.com">Encounter Centre</a>
+            </div>
           </div>
           <div class="menusearch">
             <input type="text" placeholder="Search" length=30 ng-model="search" />

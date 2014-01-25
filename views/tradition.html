@@ -21,9 +21,12 @@
         <li class="link"><a ng-click="nextImage()" ng-show="index < artifact.images.length - 1">Next</a></li>
       </ul>
       <div class="gallery-toolbar">
-        <a href="" ng-click="prevArtifact()">Prev</a>
-        <a href="" ng-click="overview = true">Overview</a>
-        <a href="" ng-click="nextArtifact()">Next</a>
+        <span class="right counter">{{ globalIndex+1 }} of {{ content.artifacts.length }}</span>
+        <span class="center">
+          <a href="" ng-click="prevArtifact()">Prev</a>
+          <a href="" ng-click="overview = true">Overview</a>
+          <a href="" ng-click="nextArtifact()">Next</a>
+        </span>
       </div>
     </div>
   </div>

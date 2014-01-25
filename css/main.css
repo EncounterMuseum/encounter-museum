@@ -837,6 +837,31 @@ div#menu-social a.socialbutton img {
   background-color: #333;
 }
 
+.gallery-toolbar {
+  text-align: center;
+  clear: both;
+  position: relative;
+}
+
+.left {
+  position: absolute;
+  left: 0;
+  margin-left: 10px;
+}
+.center {
+  clear: both;
+  margin: 0 auto;
+}
+.right {
+  position: absolute;
+  right: 0;
+  margin-right: 10px;
+}
+
+.counter {
+  color: #ddd;
+}
+
 
 .scroll {
   overflow: scroll;

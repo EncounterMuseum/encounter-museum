@@ -3,23 +3,28 @@
 <div id="artifact" class="row artifact relative">
   <div class="magnifier" ng-show="magnify.style" id="magnifier">
     <div class="relative">
-      <img id="magnified" ng-src="{{ artifact.bigImage }}" ng-style="magnify.style" />
+      <img id="magnified" ng-src="assets/big/{{ artifact.images[index] }}" ng-style="magnify.style" />
     </div>
   </div>
 
   <div class="col-md-6 image-pane">
     <div class="img-container">
-      <img ng-src="{{artifact.image}}" enc-magnifier />
+      <img ng-src="assets/{{ artifact.images[index] }}" enc-magnifier />
     </div>
 
     <div class="slider">
       <ul class="image-strip">
-        <li class="link"><a ng-click="prev()" ng-show="page > 0">Prev</a></li>
-        <li ng-repeat="image in content.images | startFrom: entryLimit*page | limitTo: entryLimit" ng-class="{ selected: index == $index }">
-          <img ng-src="assets/thumbs/{{ image.image }}" ng-click="change($index)" />
+        <li class="link"><a ng-click="prevImage()" ng-show="index > 0">Prev</a></li>
+        <li ng-repeat="image in artifact.images | limitTo: entryLimit" ng-class="{ selected: index == $index }">
+          <img ng-src="assets/thumbs/{{ image }}" ng-click="changePicture($index)" />
         </li>
-        <li class="link"><a ng-click="next()" ng-show="(page+1) * entryLimit < content.images.length">Next</a></li>
+        <li class="link"><a ng-click="nextImage()" ng-show="index < artifact.images.length - 1">Next</a></li>
       </ul>
+      <div class="gallery-toolbar">
+        <a href="" ng-click="prevArtifact()">Prev</a>
+        <a href="" ng-click="overview = true">Overview</a>
+        <a href="" ng-click="nextArtifact()">Next</a>
+      </div>
     </div>
   </div>
 

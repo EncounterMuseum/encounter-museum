@@ -63,10 +63,9 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
     var hash = $location.hash();
     if (hash) {
       var index = $scope.content.slugMap[hash];
-      if (index >= 0 && $scope.content.artifacts[$scope.content.images[$scope.globalIndex].artifact].slug != hash) {
+      if (index >= 0 && $scope.content.artifacts[$scope.globalIndex].slug != hash) {
         $scope.globalIndex = index;
-        $scope.index = index % $scope.entryLimit;
-        $scope.page = Math.floor(index / $scope.entryLimit);
+        $scope.index = 0;
         update($scope.globalIndex);
       } else {
         update(index);
@@ -82,40 +81,45 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
   });
 
   $scope.index = 0; // The index within the current page.
-  $scope.page = 0;  // The current page of the filmstrip.
   $scope.globalIndex = 0;
   $scope.entryLimit = 5;
 
   function update(nu) {
     if ($scope.content && $scope.content.artifacts && $scope.content.artifacts.length) {
-      $scope.artifact = $scope.content.artifacts[$scope.content.images[nu].artifact];
+      $scope.artifact = $scope.content.artifacts[nu];
 
+      $scope.index = 0;
       if (!$scope.artifact.descriptionHTML)
         $scope.artifact.descriptionHTML = markdown($scope.artifact.description);
 
-      $scope.artifact.image = 'assets/' + $scope.content.images[nu].image;
-      $scope.artifact.bigImage = 'assets/big/' + $scope.content.images[nu].image;
-      $location.hash($scope.content.artifacts[$scope.content.images[$scope.globalIndex].artifact].slug);
+      /*
+      $scope.artifact.image = 'assets/' + $scope.content.artifacts[nu].images[$scope.index];
+      $scope.artifact.bigImage = 'assets/big/' + $scope.content.artifacts[nu].images[$scope.index];
+      */
+      $location.hash($scope.content.artifacts[$scope.globalIndex].slug);
     }
   }
 
   $scope.$watch('globalIndex', update);
 
-  $scope.change = function(index) {
+  $scope.changePicture = function(index) {
     $scope.index = index;
-    $scope.globalIndex = $scope.page * $scope.entryLimit + index;
   };
 
-  $scope.prev = function() {
-    $scope.page = Math.max(0, $scope.page-1);
-    $scope.index = $scope.entryLimit - 1;
-    $scope.globalIndex = Math.min(($scope.page+1) * $scope.entryLimit - 1, $scope.content.images.length);
+  $scope.prevImage = function() {
+    $scope.index = Math.max($scope.index - 1, 0);
   };
 
-  $scope.next = function() {
-    $scope.page = Math.min(Math.floor($scope.content.images.length / $scope.entryLimit), $scope.page+1);
-    $scope.index = 0;
-    $scope.globalIndex = $scope.page * $scope.entryLimit;
+  $scope.nextImage = function() {
+    $scope.index = Math.min($scope.index + 1, $scope.artifact.images.length - 1);
+  };
+
+  $scope.prevArtifact = function() {
+    $scope.globalIndex = Math.max($scope.globalIndex - 1, 0);
+  };
+
+  $scope.nextArtifact = function() {
+    $scope.globalIndex = Math.min($scope.globalIndex + 1, $scope.content.artifacts.length - 1);
   };
 })
 

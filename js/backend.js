@@ -103,7 +103,6 @@ angular.module('encounter')
 
     obj.tradition = slug;
     obj.artifacts = [];
-    obj.images = [];
     obj.slugMap = {};
 
     while(iBottom >= 0) {
@@ -145,24 +144,15 @@ angular.module('encounter')
       }).join('');
 
       if (!obj.slugMap[art.slug]) {
-        // obj.slugMap['foo'] points at the globalIndex of the first image of that artifact.
-        obj.slugMap[art.slug] = obj.images.length;
+        // obj.slugMap['foo'] points at the globalIndex of that artifact.
+        obj.slugMap[art.slug] = obj.artifacts.length;
       }
 
       if (art.images && art.images.length) {
-        var index = obj.artifacts.length;
-
         obj.artifacts.push(art);
-        for(var i = 0; i < art.images.length; i++) {
-          obj.images.push({
-            image: art.images[i],
-            artifact: index
-          });
-        }
       } else {
         console.warn('Artifact without images', art);
       }
-
     }
 
     return obj;

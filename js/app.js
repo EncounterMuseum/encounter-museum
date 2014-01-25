@@ -129,6 +129,12 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
   $scope.nextArtifact = function() {
     $scope.globalIndex = Math.min($scope.globalIndex + 1, $scope.content.artifacts.length - 1);
   };
+
+  // Selecting an image from the gallery.
+  $scope.select = function(index) {
+    $scope.globalIndex = index;
+    $scope.overview = false;
+  };
 })
 
 .controller('gallery', function($rootScope, $scope, traditions) {

@@ -7,7 +7,12 @@
     </div>
   </div>
 
-  <div class="col-md-6 image-pane">
+  <div class="col-md-12 overview" ng-show="overview">
+    <div class="overview-image-box" ng-repeat="art in content.artifacts" ng-click="select($index)">
+      <img class="overview-image" ng-src="assets/thumbs/{{ art.images[0] }}" />
+    </div>
+  </div>
+  <div class="col-md-6 image-pane" ng-show="!overview">
     <div class="img-container">
       <img ng-src="assets/{{ artifact.images[index] }}" enc-magnifier />
     </div>
@@ -31,7 +36,7 @@
     </div>
   </div>
 
-  <div class="col-md-6 scroll">
+  <div class="col-md-6 scroll" ng-show="!overview">
     <h3>{{ artifact.title }}</h3>
     <div ng-show="artifact.size"><strong>Size:</strong> {{ artifact.size }}</div>
     <div ng-show="artifact.date"><strong>Approx Date:</strong> {{ artifact.date }}</div>

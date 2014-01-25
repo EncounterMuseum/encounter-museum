@@ -768,6 +768,7 @@ div#menu-social a.socialbutton img {
   height: 300px !important;
   width: 100%;
   text-align: center;
+  line-height: 300px;
 }
 
 /* When modifying this, modify the 'magnifier' service as well. */

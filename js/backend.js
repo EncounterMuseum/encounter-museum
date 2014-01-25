@@ -52,7 +52,7 @@ angular.module('encounter')
 .factory('markdown', function($window, $sce) {
   var converter = new $window.Showdown.converter();
   return function(text) {
-    return text && $sce.trustAsHtml(converter.makeHtml(text));
+    return text && $sce.trustAsHtml(converter.makeHtml(text).replace('<a href', '<a target="_blank" href'));
   };
 })
 

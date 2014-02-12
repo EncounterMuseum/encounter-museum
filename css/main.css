@@ -955,5 +955,25 @@ div#menu-social a.socialbutton img {
   color: #333;
 }
 
+.globe {
+  margin-left: -30px;
+  background: url(../img/ewrglobe.museum.small.jpg) no-repeat;
+  min-height: 800px;
+  padding-top: 40px;
+}
+
+.main-text {
+  margin-left: 200px;
+}
+
+.one-line {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.end-line {
+  margin-top: 0;
+  margin-bottom: 1ex;
+}
 
 

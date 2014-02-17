@@ -30,7 +30,7 @@
   </head>
   <body ng-app="encounter">
     <!-- start header -->
-    <div id="container" ng-class="{ mainContainer: menuSelected == 'home' }">
+    <div id="container" ng-class="{ mainContainer: menuSelected == 'home' }" ng-controller="meta" ng-click="clearSearch()">
       <div id="header" ng-controller="menu">
         <div id="logo">
           <a href="http://www.worldreligionsmuseum.ca/" title="EWRM Home" ><img src="img/EWR4banner.jpg" alt="EWRM logo" /></a>
@@ -45,7 +45,7 @@
             </div>
           </div>
           <div class="menusearch">
-            <input type="text" placeholder="Search" length=30 ng-model="search" />
+            <input type="text" placeholder="Search" length=30 ng-model="search" ng-click="stopProp($event)" />
           </div>
         </div>
         <div class="searchresults" ng-show="searchResults">

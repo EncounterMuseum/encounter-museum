@@ -18,6 +18,11 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
     redirectTo: '/'
   });
 })
+.controller('meta', function($rootScope) {
+  $rootScope.clearSearch = function() {
+    $rootScope.$broadcast('clearSearch');
+  };
+})
 .controller('menu', function($rootScope, $scope, $location, indexer) {
   // NB: These are in reverse order.
   $rootScope.menu = [
@@ -38,9 +43,18 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
   $scope.show = function(artifact) {
     $location.path('/tradition/' + artifact.traditionSlug);
     $location.hash(artifact.slug);
+    clearSearch();
+  };
+
+  $scope.stopProp = function(e) {
+    e.stopPropagation();
+  };
+
+  $rootScope.$on('clearSearch', clearSearch);
+  function clearSearch() {
     $scope.search = undefined;
     $scope.searchResults = undefined;
-  };
+  }
 })
 
 .controller('main', function($rootScope) {

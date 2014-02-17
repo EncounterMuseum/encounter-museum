@@ -957,13 +957,14 @@ div#menu-social a.socialbutton img {
 
 .globe {
   margin-left: -30px;
-  background: url(../img/ewrglobe.museum.small.jpg) no-repeat;
-  min-height: 800px;
-  padding-top: 40px;
+  position: absolute;
+  z-index: 100;
 }
 
 .main-text {
   margin-left: 200px;
+  font-size: 16px;
+  padding-top: 40px;
 }
 
 .one-line {
@@ -973,7 +974,26 @@ div#menu-social a.socialbutton img {
 
 .end-line {
   margin-top: 0;
-  margin-bottom: 1ex;
+  margin-bottom: 1.5ex;
+}
+
+.mainContainer {
+  height: 787px !important;
+}
+.mainContainer div#footer {
+  height: 65px !important;
+}
+.mainContainer span#copyright {
+  top: 10px !important;
+  bottom: auto !important;
+}
+.mainContainer span#version {
+  top: 25px !important;
+  bottom: auto !important;
+}
+.mainContainer span#platformversion {
+  top: 25px !important;
+  bottom: auto !important;
 }
 
 

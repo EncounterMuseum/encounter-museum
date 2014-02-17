@@ -1,5 +1,5 @@
 /* Copy CSS from src file */
-html,body { margin:0; padding:0; background:#bfbfbf}
+html,body { margin:0; padding:0; background:#bfbfbf !important}
 
 /* Fix problem of Firefox jumping as it inserts/removes scrollbar for short pages */
 /* IE mac barfs -- so this weird comment hides it from IE mac \*/

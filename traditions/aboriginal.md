@@ -1,5 +1,4 @@
-Top-level description of aboriginal
-
+The word “aboriginal” derives from the Latin ab origine meaning “from the beginning.” Every continent except Antarctica has aboriginal civilizations. A general characteristic of all aboriginal social and religious systems is a holistic approach that seeks interdependent balance and harmony with time, nature, humanity, and the cosmos.
 ---
 title: Bison Horn Mask
 images: ["abo.hornmask.jpg"]

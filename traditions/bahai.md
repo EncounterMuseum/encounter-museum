@@ -1,5 +1,4 @@
-Top-level description of Bahá'í.
-
+Baha’i emerged in 1844 from Shia Islam in Iran and declares the oneness of God and the unity of humanity and all religions. The founder, known as the Bahá'u'lláh (Glory of God) is considered the latest but not the last in a line of manifestations of God bringing ever-progressive levels of truth to the earth. Adherents consider key figures in other religions (e.g. Moses, Muhammad, Krishna, Buddha, Jesus) to be earlier manifestations of God. With the exception of daily obligatory prayers, religious ritual is absent. Though the size of the religion is numerically moderate (approximately 8 million), it is geographically extensive with populations throughout the globe.
 ---
 title: Yá Bahá'u'l-Abhá
 images: ["bah.bahaisymbol.jpg"]

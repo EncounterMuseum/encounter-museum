@@ -1,5 +1,4 @@
-Top-level description of sikh.
-
+Sikhism began in northwest India with the vision of Guru Nanak in 1499 and was formalized by the 10th and final human leader, Guru Gobind Singh in 1699. Although a separate and distinct religion, early Sikhism was influenced by Hinduism and Islam as dominant religions of the time. Key principles of Sikhism include believing in one God, earning a truthful living, and sharing. The guru or leader of the faith today is the holy book of the Sikhs known as the Guru Granth.
 ---
 title: Adi Granth or Guru Granth Sahib
 images: ["sik.granth.jpg.jpg","sik.granth2.jpg.jpg","sik.granthholder.jpg"]

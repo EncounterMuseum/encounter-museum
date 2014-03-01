@@ -1,5 +1,4 @@
-Miscellaneous artifacts.
-
+Some items defy classification. Other items are the “one-of” sort. These have simply been placed in a catch-all gallery called Miscellaneous. Here you will find a potpourri of the interesting and curious.
 ---
 title: Counter-balance weight
 images: ["mis.weight.jpg","mis.weight2.jpg"]

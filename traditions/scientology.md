@@ -1,5 +1,4 @@
-Top-level description of scientology.
-
+Scientology, one of the world’s youngest religions, was founded in 1954 in Los Angeles, California, by L. Ron Hubbard. Scientology endorses a progressive confrontation of spiritual/emotional unrest through a process called Auditing and Training Routines in which one’s essential Self becomes clear of past traumas and is freed to attain full potential in a relationship with ultimate reality.
 ---
 title: E-meter
 images: ["sci.emeter.jpg","sci.emeter2.jpg"]

@@ -1,5 +1,4 @@
-Top-level description of Rastafari.
-
+Rastafari, an African/Jamaican ideology, traces its ancestry to the days of King Solomon and the Queen of Sheba. It originated among descendents of slaves in Jamaica in the 1930s with an interpretation of Judaism and Christianity as divine movement in black history. Rastafari rejects a culture of fear, injustice, oppression, inhumanity, disgrace, and violence; and reclaims a culture of potential, justice, dignity, humanity, personal worth, and peace. These high values are seen as embodied in the person of Haile Selassie I, Emperor of Ethiopia (1930-1974), who is understood as the returned Christ.
 ---
 title: Child's slave shackles
 images: ["ras.shackels.jpg","ras.shackels2.jpg"]

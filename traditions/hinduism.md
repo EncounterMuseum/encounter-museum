@@ -1,5 +1,4 @@
-Top-level description of Hinduism
-
+Hinduism is the major religion of India with over a billion adherents worldwide. Many scholars consider Hinduism the world’s oldest continuously observed religion with a broad spectrum of religious expressions. Because it is a type of ancient native spirituality, it is without a founder or beginning date. Hinduism claims a path to overcoming ego, merging with the Oneness of divine reality, and being released from the cycle of birth and death.
 ---
 title: A. C. Bhaktive-danta  Swami Prabhupada
 images: ["hin.acbhakti.jpg","hin.acbhakti2.jpg"]

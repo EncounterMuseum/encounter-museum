@@ -1,5 +1,4 @@
-Top-level description of ancient cultures.
-
+Some museum items are not identified as belonging to any one particular religion. Rather they are religious and/or practical, everyday items from diverse civilizations hundreds or even thousands of years old. These items are grouped under a common heading of Ancient Cultures.
 ---
 title: Acheulian goddess
 images: ["anc.acheulian.jpg"]

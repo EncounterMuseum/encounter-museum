@@ -1,5 +1,4 @@
-Top-level description of Wicca.
-
+A broad expression of Paganism, Wicca is a modern-day representation of European pre-Christian spirituality. After many centuries of suppression, Paganism/Wicca re-emerged into public awareness in the 1950s. Wicca is a nature religion seeking balance and harmony with all creation as expressed in the seasons and phases of the moon. The understanding of divinity may be either literal or metaphoric and includes both Gods and Goddesses with the Goddess taking primacy.
 ---
 title: Book of Shadows
 images: ["wic.bkshadows.jpg","wic.bkshadows2.jpg"]

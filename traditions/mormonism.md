@@ -1,5 +1,4 @@
-Top-level description of Mormonism.
-
+The Latter-day Saint movement is a uniquely American phenomenon founded by Joseph Smith, Jr., April 6, 1830, in Fayette, New York. The church declares it restored to earth the true authority and original structure of the Christian church as established by Jesus. The name “Mormon” is derived from the Book of Mormon, one of the church’s main scriptures. The church has experienced numerous splits and sub-splits based on issues of theology, doctrine, and practice. The two largest of these groups are the Church of Jesus Christ of Latter-day Saints headquartered in Salt Lake City, Utah, and the Community of Christ headquartered in Independence, Missouri.
 ---
 title: Hill Brick
 date: 1840

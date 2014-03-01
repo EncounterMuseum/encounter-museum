@@ -1,5 +1,4 @@
-Top-level description of Islam.
-
+Islam is the youngest of the Abrahamic religions of the Middle East. Though born in the Arabian peninsula, the religion today is widespread and predominately non-Arab. Key principles of Islam include believe in one God and a historic line of prophets concluding with Muhammad (570-632 CE). Adherents of Islam are called Muslims whose commitment is lived out in submission to God. Two major Muslim sects are Sunni (75%-90%) and Shia (10%-20%). A mystical sect of Islam is known as Sufi.
 ---
 title: Ka’ba Doors
 images: ["isl.doors.jpg"]

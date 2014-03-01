@@ -1,5 +1,4 @@
-Top-level description of Buddhism.
-
+Although Buddhism was born from Hinduism in India with the enlightenment of Siddhartha Gautama in about 583 BCE, it is most prevalent today mostly farther east in China, Japan, and Southeast Asia and has expanded into the Western World over the past half century. In contrast to its parent tradition, Buddhism is a non-theistic (no god) tradition. The Buddha (Siddhartha) is considered an enlightened human being rather than a divine or semi-divine figure. Buddhism focuses more on the practice of a philosophy than the belief in a philosophy. Mindful and compassionate practice of Buddhism is said to overcome suffering and lead to liberation from the cycles of birth and death.
 ---
 title: 3-D MANDALA
 images: ["bud.3dmandala.jpg","bud.3dmandala2.jpg","bud.3dmandala3.jpg"]

@@ -1,5 +1,4 @@
-Top-level description of Jainism.
-
+Jainism is an ancient religion of India espousing radical non-violence and self-control as a means of attaining eternal liberation. The name Jain derives from the Sanskrit jin meaning “to conquer.” Jainism teaches that the anticipated liberation is the effect of conquering one’s passions absolutely. Historians consider Mahavira (540-468 BCE) as the founder although the tradition considers him to be the last of twenty-four spiritual teachers.
 ---
 title: Jain Scripture Page
 images: ["jai.page.jpg"]

@@ -1,5 +1,4 @@
-Top-level description of shinto.
-
+Shinto is the native spirituality of Japan. As with all aboriginal religions, Shinto has no founder or beginning date, although it was codified in sacred/historical writings in the early 8th century CE. The word “Shinto” literally means “way of the Gods.” In addition to seeking a state of balance and harmony with nature, Shinto focuses on creating a connection with ancestors and the gods, known as kami, through ritual shrine worship which features prominently in Shintoism.
 ---
 title: Kami House
 images: ["shi.housesmall.jpg","shi.housesmall2.jpg"]

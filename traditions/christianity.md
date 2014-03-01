@@ -1,5 +1,4 @@
-Top-level description of Christianity.
-
+Christianity is the world’s largest religion with more than two billion adherents world wide. It emerged as a Jewish sect in the Eastern Mediterranean area founded on the notion that Jesus was the Son of God and that he resurrected following his crucifixion in approximately 33 CE. The tradition has three major branches, Roman Catholic, Protestant, and Orthodox plus lots of smaller movements. The church teaches that salvation is through faith in Jesus and practice of his teachings. 
 ---
 title: 1666 Theology Textbook
 images: ["chr.1666book.jpg"]

@@ -1,5 +1,4 @@
-Top-level description of Just for Fun.
-
+The English author G. K. Chesterton is credited with saying, “It is the test of a good religion whether you can joke about it.” It is possible to “have fun with” an important subject without “making fun of” it. This gallery neither disrespects religion nor insinuates it shouldn’t be taken seriously. It suggests that even religion has a sense of humour. Hope something in the gallery makes you smile.
 ---
 title: Buddha dog
 images: ["fun.buddhadog.jpg","fun.buddhadog2.jpg"]

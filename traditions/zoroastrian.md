@@ -1,4 +1,4 @@
-Top-level description of Zoroastrian.
+Zoroastrianism was the state religion of ancient Persia (present-day Iran) based on the visions and revelations of the prophet Zarathustra (Zoroaster in Greek), ca. 1200-1600 BCE. Prime tenets include belief in a single all good, all wise deity, and human agency to choose either good or evil. Today the religion faces an uncertain future (perhaps 150,000 adherents concentrated in India, Iran and North America) but is of immense historical interest due to its significant influence on Middle Eastern monotheism.
 
 ---
 title: Persian Silver Drachma

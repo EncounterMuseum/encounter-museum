@@ -1,5 +1,4 @@
-Top-level description of Judaism.
-
+Judaism is the oldest of the three Abrahamic religions of the Middle East. Its major text is the Torah (first five books of the Bible) outlining the covenantal relationship between God and the Jewish people. Modern Judaism consists of three main branches moving respectively from traditional to liberal: Orthodox, Conservative, and Reform.
 ---
 title: Elijah’s cup
 images: ["jud.elijahscup.jpg","jud.elijahscup2.jpg"]

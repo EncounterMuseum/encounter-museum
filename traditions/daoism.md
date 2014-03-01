@@ -1,5 +1,4 @@
-Top-level description of Daoism.
-
+Daoism (also spelled Taoism) arose from an ancient, nature-based Chinese shamanism. The word “dao” means “path” or “principle” and suggests both a Source and a Force. Adherents endeavour not only to learn from but also be in balance and harmony with the Dao. Equally valid are forms of Daoism that include religious ritual as well as a Daoism that is purely philosophical without ritual. The major sacred writing of Daoism is the brief treatise Daode Jing (Tao Te Ching) ascribed to the legendary Laozi (Lao Tzu), of the 6th century BCE. 
 ---
 title: Daoist scroll
 images: ["dao.scroll.jpg","dao.scroll2.jpg"]

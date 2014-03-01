@@ -1,5 +1,4 @@
-Top-level description of Confuscianism.
-
+Confucianism is less a religion and more an ethical, social, political, and philosophical system based on the teachings of the Chinese philosopher Master Kong or Kong Fuzi (551–479 BCE), translated in English as Confucius. Its focus is on this-world human potential and relationships rather than deity, divine law and the afterlife. Confucian influence has extended to places like Korea, Japan and Vietnam and has been a powerful force in China for over two millennia, recently regaining status after decades of Communist suppression eased.
 ---
 title: Confucius
 images: ["con_confucius.jpg"]

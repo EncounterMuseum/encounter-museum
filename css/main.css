@@ -772,16 +772,8 @@ div#menu-social a.socialbutton img {
 }
 
 /* When modifying this, modify the 'magnifier' service as well. */
-.magnifier {
-  position: absolute;
-  border: 1px solid black;
-  top: 10px;
-  right: 0px;
-  width: 450px;
-  height: 400px;
-  z-index: 999;
-  overflow: hidden;
-  background-color: black;
+.mag-anchor {
+  display: inline-block;
 }
 
 .relative {

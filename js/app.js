@@ -193,45 +193,24 @@ angular.module('encounter', ['ngRoute']).config(function($locationProvider, $rou
   };
 })
 
-// If modifying this, modify the CSS as well.
-.constant('magnifier', {
-  width: 450,
-  height: 400
-})
-
-.directive('encMagnifier', function($document, magnifier) {
+.directive('encMagnifier', function() {
   return {
-    scope: false,
+    scope: { img: '=encMagnifier' },
     link: function(scope, elem, attrs) {
-      var enable = false;
-
-      var magnified = document.getElementById('magnified');
-
-      function update(event) {
-        if(!enable) return;
-        // We need to check the total size of the big image in the magnifier.
-        var x = event.offsetX || event.layerX - event.target.offsetLeft;
-        var y = event.offsetY || event.layerY - event.target.offsetTop;
-        var relX = x / elem[0].width;
-        var relY = y / elem[0].height;
-        scope.magnify = {
-          style: {
-            position: 'absolute',
-            top: '-' + (magnified.height * relY - magnifier.height/2) + 'px',
-            left: '-' + (magnified.width * relX - magnifier.width/2) + 'px'
-          }
-        };
-        scope.$apply();
+      function update() {
+        $(elem).html('<a class="mag-anchor" data-large-url="assets/big/' + scope.img + '" class="new-magnifier"><img src="assets/' + scope.img + '" /></a>');
+        window.setTimeout(function() {
+          $('a', elem).jqzoom({
+            zoomType: 'innerzoom',
+            zoomWidth: 400,
+            zoomHeight: 300,
+            title: false
+          });
+        }, 0);
       }
 
-      elem.on('mouseenter', function(event) {
-        enable = true;
-      });
-      elem.on('mousemove', update);
-      elem.on('mouseleave', function() {
-        enable = false;
-        delete scope.magnify;
-        scope.$apply();
+      scope.$watch('img', function(nu) {
+        if (nu) update();
       });
     }
   };

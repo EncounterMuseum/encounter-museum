@@ -6,7 +6,7 @@ date: Unknown
 origin: Alberta, Canada
 size: 7.5 inches / 19 cm. wide X 5.5 inches / 14 cm. high
 ---
-Ceremonial masks are a significant element in Native American / First Nations ritual. Great Lakes tribes often carved elaborate false face masks from tree trunks. Because large trees are not plentiful in the prairies, plains Indians fashioned masks from other available materials including bison (buffalo) horns. Horns were boiled until soft, split open, rolled flat, carved with eyes, nose, and mouth holes, then allowed to dry and harden.
+Ceremonial masks are a significant element in Native American/First Nations rituals. Great Lakes tribes often carved elaborate false face masks from tree trunks or woven them from corn husks. Because large trees are not plentiful in the prairies, plains Indians fashioned masks from other available materials including bison (buffalo) horns. Horns were boiled until soft, split open, rolled flat, carved with eyes, nose, and mouth holes, then allowed to dry and harden.
 
 [Wikipedia: Blackfoot religion](http://en.wikipedia.org/wiki/Blackfoot_religion)
 
@@ -17,7 +17,7 @@ images: ["abo.bullroarer.jpg"]
 origin: Australia
 size: 15 inches / 13 cm. propeller - 94 inches / 241 cm. including the leather cord and handle
 ---
-The bullroarer is an ancient ritual musical instrument dating to the Paleolithic period, 17,000 BCE. In ancient Greece it was a sacred instrument used in the mystery religions. In Australia, bullroarers accompanied didgeridoos in initiation ceremonies and burial rites to ward off evil spirits. Almost all Native tribes in North America used bullroarers in religious and healing ceremonies. Bullroarers were considered men's secret business by some cultures which women, children, non-initiated men and outsiders were forbidden to hear. Held by the handle and swung around the head, the spinning propeller’s deep humming sound represents the voice of the Sacred or of ancestors and announces the beginning of ceremonies.
+The bullroarer is an ancient ritual musical instrument dating to the Paleolithic period, 17,000 BCE. In ancient Greece it was a sacred instrument used in the mystery religions. In Australia, bullroarers accompanied didgeridoos in initiation ceremonies and burial rites to ward off evil spirits. Many Native tribes in North America used bullroarers in religious and healing ceremonies. Bullroarers were considered men's secret business by some cultures which women, children, non-initiated men and outsiders were forbidden to hear. Held by the handle and swung around the head, the spinning propeller’s deep humming sound represents the mysterious voice of the Sacred or of ancestors and solemnly announces the beginning of ceremonies.
 
 [Wikipedia: Bullroarer (music)](http://en.wikipedia.org/wiki/Bullroarer_%28music%29)
 
@@ -28,7 +28,7 @@ images: ["abo.eshu.jpg","abo.eshu2.jpg"]
 origin: Nigeria, Africa
 size: 12 inches / 30 cm. high
 ---
-Eshu is a trickster god of the Yoruba culture of Nigeria, West Africa. He is often found at crossroads and at times of decision making. Eshu is often shown wearing a large hat. His role is to upset the equilibrium when individuals or societies become too staid, unadventurous, set in their ways or take things for granted. Legends about Eshu sometimes have him saying the phrase: “Spreading strife is my greatest joy.” 
+Eshu is a trickster god of the Yoruba culture of Nigeria, West Africa. He is often found at crossroads and at times of decision making. Eshu is often shown wearing a large hat. His role is to upset the equilibrium when individuals or societies become too staid, apathetic, set in their ways or take things for granted. Legends about Eshu sometimes have him saying the phrase: “Spreading strife is my greatest joy.” 
 
 [Wikipedia: Eshu](http://en.wikipedia.org/wiki/Eshu)
 
@@ -50,7 +50,7 @@ images: ["abo.gorget.jpg","abo.shellgorget.jpg"]
 origin: Tennessee, USA
 size: Small stone - 3.5 inches / 9 cm. X 1.5 inches 4 cm. Large stone - 3.75 inches / 9.5 cm. X 3 inches / 8 cm.
 ---
-Displayed is a grey stone gorget (ornament or decoration) worn on a leather cord around the neck by Native Americans as a type of decoration or breastplate. During the 1800s these adornments were referred to as “peep stones” or “seer stones” by some non-Natives who claimed revelations were received by looking (peeping) through the holes in the stone. A "peep stone" similar to this is featured in Latter-day Saint history as a tool used by Joseph Smith, Jr. to translate the Book of Mormon and receive revelations.
+Displayed is a grey stone gorget (ornament or decoration) worn on a leather cord around the neck by Native Americans as a type of decoration or breastplate. During the 1800s these adornments were referred to as “peep stones” or “seer stones” by some non-Natives who claimed to receive revelations by looking (peeping) through the holes in the stone. A "peep stone" similar to this is featured in Latter-day Saint history as a tool used by Joseph Smith, Jr. to translate the Book of Mormon and receive revelations.
 
 [Wikipedia: Gorget](http://en.wikipedia.org/wiki/Gorget)
 
@@ -64,7 +64,7 @@ date: Pre-Christian Tahiti
 origin: Tahiti, French Polynesia
 size: Small stone - 2 inches / 5 cm. Large stone - 4.5 inches / 11 cm.
 ---
-A marae is a sacred place serving both religious and social purposes in ancient Polynesian societies. Most marae were destroyed or abandoned with the arrival of Christianity in the late 1800s and early 1900s. Stones such as this one used to construct the marae are still considered powerfully sacred and said to contain "mana" or spiritual energy of the cosmic, impersonal force of the universe.
+A marae is a sacred place serving both religious and social purposes in ancient Polynesian societies. Most marae were destroyed or abandoned with the arrival of Christianity in the late 1800s and early 1900s. Stones such as the ones shown here were used to construct the marae and are still considered powerfully sacred and said to contain "mana" or spiritual energy of the cosmic, impersonal force of the universe.
 
 [Wikipedia: Marae](http://en.wikipedia.org/wiki/Marae)
 
@@ -75,7 +75,7 @@ images: ["abo.pachamama.jpg","abo.pachamama2.jpg","abo.pachamama3.jpg","abo.pach
 origin: Peru
 size: 5 inches / 13 cm.
 ---
-Pachamama (also Pachi Mama, Patchi-Mama) “World Mother” is a goddess of the indigenous people of the Andes. Incan mythology honours her as the goddess of fertility, planting, the growing season, and the harvest. The version of Pachamama displayed here is three-faced, reminiscent of the Triple Goddess (Maiden, Mother, Crone) of Neo-Paganism. Pachamama is the Quechan or Inca word for “Mother Earth” or literally “Our Mother in Space and Time.” Most cultures have an Earth Mother concept, and those of South America are no exception. But the word “Pachamama” goes beyond the name of a single goddess. It encompasses an entire world view and way of life. It involves the belief that the Earth is a living entity and the Mother of all Earth's life. In traditional societies, grown children were expected to take care of their parents, and, thus, it is expected that we all care for Pachamama as our Great Mother. Pachamama cares for her children as a mother cares for her young and does not turn away from them. If she fails to provide, it is because she is ill or has not be treated well. In the modern, blended Christian and Native traditions of South America, Pachamama is often associated with the Virgin Mary and the median between the opposites of Heaven and Hell, God and Satan, or good and evil. Unfortunately, Christian groups are working to remove Pachamama altogether. Images of Pachamama often have three heads, a turtle on her front, a frog on her back, and a snake around her legs. She is the patron of witches, herbalists, and traditional healers. Appropriate offerings to Pachamama include corn, grain, bread, and sweet pastries as well as herding animals (llamas such as llamas). But what pleases Pachamama most are those who live in accordance with Her ways and in balance and harmony with the earth.
+Pachamama (also Pachi Mama, Patchi-Mama) or “World Mother” is a goddess of the indigenous people of the Andes. Incan mythology honours her as the goddess of fertility, planting, the growing season, and the harvest. The version of Pachamama displayed here is three-faced, reminiscent of the Triple Goddess (Maiden, Mother, Crone) of Neo-Paganism. Pachamama is the Quechan or Inca word for “Mother Earth” or literally “Our Mother in Space and Time.” Most ancient cultures have an Earth Mother concept. But the word “Pachamama” goes beyond the name of a single goddess. It encompasses an entire world view and way of life. It involves the belief that the Earth is a living entity and the Mother of all Earth's life. In traditional societies, grown children were expected to take care of their parents, and, thus, it is expected that we all care for Pachamama as our Great Mother. Pachamama cares for her children as a mother cares for her young and does not turn away from them. If she fails to provide, it is because she is ill or has not be treated well. In the modern, blended Christian and Native traditions of South America, Pachamama is often associated with the Virgin Mary and the median between the opposites of Heaven and Hell, God and Satan, or good and evil. Unfortunately, Christian groups have sought to remove Pachamama altogether. Images of Pachamama often have three heads, a turtle on her front, a frog on her back, and a snake around her legs. She is the patron of witches, shaman, herbalists, and traditional healers. Appropriate offerings to Pachamama include corn, grain, bread, and sweet pastries as well as herding animals such as llamas. But what pleases Pachamama most are those who live in accordance with Her ways and in balance and harmony with the earth.
 
 [Wikipedia: Pachamama](http://en.wikipedia.org/wiki/Pachamama)
 
@@ -86,7 +86,7 @@ images: ["abo.prettylady.jpg","abo.prettylady2.jpg"]
 origin: Tlatilco Valley, Mexico
 size: 9.5 inches / 24 cm. high
 ---
-Many female terracotta figurines similar to the one displayed here have been excavated in the Tlatilco Valley  near Mexico City. They have been given the name “Pretty Ladies of Tlatilco.” Little is known about the function of these objects. They may have been related to women's fertility role. The figures are small breasted with narrow waists, stumpy arms and ample thighs, representing both young girls and mature women. Many are dual-faced, sharing a central eye. Some are naked while others wear short skirts and applied ornaments. The Tlatilco culture dates from about 1200-200 bce. The “Pretty Lady” displayed here is also a flute. Her headdress is the mouthpiece while her legs supply the finger holes.
+Many female terracotta figurines similar to the one displayed here have been excavated in the Tlatilco Valley near Mexico City. They have been given the name “Pretty Ladies of Tlatilco.” Little is known about the function of these objects. They may have been related to women's fertility role. The figures are small breasted with narrow waists, stumpy arms and ample thighs, representing both young girls and mature women. Many are dual-faced, sharing a central eye. Some are naked while others wear short skirts and applied ornaments. The Tlatilco culture dates from about 1200-200 BCE. The “Pretty Lady” displayed here is also a flute. Her headdress is the mouthpiece while her legs supply the finger holes.
 
 [Wikipedia: Tlatilco culture](http://en.wikipedia.org/wiki/Tlatilco_culture)
 
@@ -99,7 +99,7 @@ images: ["abo.haidabowl.jpg","abo.haidabowl2.jpg","abo.haidabowl3.jpg"]
 origin: British Columbia, Canada
 size: 16 inches / 40 cm. X 7.5 inches / 19 cm.
 ---
-Haida are First Nations indigenous people of the coastal region of British Columbia, Canada. This contemporary hand carved wooden art bowl done in the Haida style shows a crouching shaman wearing a ceremonial mask.America Bowl 8 inches / 20.5 cm widest X 3.5 inches / 9 cm deep.
+Haida are First Nations indigenous people of the coastal region of British Columbia, Canada. This contemporary hand carved wooden art bowl done in the Haida style shows a crouching shaman wearing a ceremonial mask. The bowl 8 inches/20.5 cm widest X 3.5 inches/9 cm deep.
 
 [Wikipedia: Indigenous peoples of the Pacific Northwest Coast](http://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Pacific_Northwest_Coast)
 
@@ -110,7 +110,7 @@ images: ["abo.dayofdead.jpg"]
 origin: Mexico
 size:
 ---
-A type of Memorial Day in Mexico is called Day of the Dead held the first two days of November in which people gather to remember, honour and celebrate the lives of family and friends who have died. The festival is thought to have originated as an ancient Aztec celebration held during the ninth month of the Aztec calendar. Images of humorous skeleton figures called La Calavera Catrina (The Elegant Skull) are popular during the festival. The small catrina displayed here wears a sombrero and is dressed in black funeral garb displaying the legend of the founding of Mexico City when the god Huitzilopochtli led the people to an island in Lake Texcoco to witness an eagle perched on a cactus holding a snake in its talons. The modern city of Mexico City is built upon that lake. The colour of the sash (green, white and red) are the colours of the flag of Mexico.
+A type of Memorial Day in Mexico called "Day of the Dead" is held the first two days of November in which people gather to remember, honour and celebrate the lives of family and friends who have died. The festival is thought to have originated as an ancient Aztec celebration held during the ninth month of the Aztec calendar. Images of humorous skeleton figures called La Calavera Catrina (The Elegant Skull) are popular during the festival. The small catrina displayed here wears a sombrero and is dressed in black funeral garb displaying the legend of the founding of Mexico City when the god Huitzilopochtli led the people to an island in Lake Texcoco to witness an eagle perched on a cactus holding a snake in its talons. The modern city of Mexico City is built upon that lake. The colour of the sash (green, white and red) are the colours of the flag of Mexico.
 
 [Wikipedia: Day of the Dead](http://en.wikipedia.org/wiki/Day_of_the_Dead)
 

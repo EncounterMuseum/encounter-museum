@@ -230,14 +230,14 @@ images: ["abo.sweetgrass.jpg","abo.sweetgrass2.jpg"]
 origin: North America
 size: 23 inches / 58 cm.
 ---
-One of four medicines
+Sweetgrass is one of four sacred medicines in Native spirituality used in the smudging ceremony. One or more of four ingredients called medicines (tobacco, white sage, cedar, sweetgrass) are placed in a shell or other container and lit on fire. Smoke from the smoldering elements is fanned over a person as they symbolically wash themselves in the purifying smoke. Spaces (rooms, buildings) and objects (drums, sacred pipes) may be smudged with the purifying, sanctify smoke as well. In some Native stories, sweetgrass was the first plant on earth. Using it shows respect and honour to the earth. Other stories refer to sweetgrass as the hair of Mother Earth. The three-part braid may be understood to reprsent body-mind-spirit or past-present-future.  
 
 ---
 title: Coyote Face
 images: ["abo.wolfface.jpg"]
 size: 11 inches / 28 cm. X 10 inches / 25 cm.
 ---
-Dance regalia. Wearer assumes the qualities and characteristics of the coyote
+Some elements of Native regalia . Wearer assumes the qualities and characteristics of the coyote
 
 ---
 title: Arrowheads
